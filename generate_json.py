@@ -36,6 +36,15 @@ def main() -> None:
 
     now = datetime.datetime.utcnow()
 
+    def sort_key(a):
+        d = a.date
+        if d is None:
+            return datetime.datetime.min
+        # Normaliza para offset-naive UTC
+        if d.tzinfo is not None:
+            d = d.astimezone(datetime.timezone.utc).replace(tzinfo=None)
+        return d
+
     payload = {
         "generated_at": now.isoformat() + "Z",
         "generated_at_br": now.strftime("%d/%m/%Y %H:%M") + " UTC",
@@ -49,11 +58,7 @@ def main() -> None:
                 "date":        a.date.isoformat() if a.date else None,
                 "description": a.description,
             }
-            for a in sorted(
-                all_articles,
-                key=lambda a: a.date or datetime.datetime.min,
-                reverse=True,
-            )
+            for a in sorted(all_articles, key=sort_key, reverse=True)
         ],
     }
 
