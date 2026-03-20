@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Monitor de Notícias | Matinal</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Source+Sans+3:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    /* Dark zone (header/toolbar) */
+    --hbg:       #111110;
+    --hbg2:      #1a1a18;
+    --hborder:   #2e2e2b;
+    --htext:     #e4e2db;
+    --htext-dim: #888880;
+
+    /* Light zone (content) */
+    --cbg:       #f2f1ee;
+    --cbg2:      #ffffff;
+    --cbg3:      #e8e6e2;
+    --cborder:   #d8d5cf;
+    --cborder2:  #c4c0b8;
+    --ctext:     #1a1918;
+    --ctext-dim: #555450;
+    --ctext-faint: #999690;
+
+    /* Accent */
+    --accent:      #42c8dc;
+    --accent-dim:  #2aaabb;
+    --accent-dark: rgba(66,200,220,0.15);
+    --accent-light: rgba(66,200,220,0.12);
+
+    /* Status */
+    --green: #2d8a52;
+    --red:   #c0392b;
+
+    --radius: 3px;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: 'Source Sans 3', sans-serif;
+    background: var(--cbg);
+    color: var(--ctext);
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ══ DARK ZONE ══════════════════════════════════════════════════ */
+  .dark-zone {
+    background: var(--hbg);
+    border-bottom: 2px solid var(--accent);
+    position: sticky;
+    top: 0;
+    z-index: 200;
+  }
+
+  /* Header */
+  .site-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2rem;
+    height: 54px;
+    border-bottom: 1px solid var(--hborder);
+    gap: 1rem;
+  }
+
+  .brand {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    text-decoration: none;
+    flex-shrink: 0;
+  }
+  .brand-name {
+    font-family: 'Lora', serif;
+    font-weight: 700;
+    font-size: 1.3rem;
+    color: #fff;
+    letter-spacing: -0.01em;
+  }
+  .brand-sep { color: #444; font-weight: 300; }
+  .brand-product {
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: var(--accent);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .header-meta {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-size: 0.72rem;
+    color: var(--htext-dim);
+  }
+  .live-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+  .live-pill::before {
+    content: '';
+    display: block;
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+    animation: blink 2s ease-in-out infinite;
+  }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.35} }
+
+  .header-btns {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-shrink: 0;
+  }
+  .btn {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    border: none;
+    cursor: pointer;
+    border-radius: var(--radius);
+    transition: background 0.15s, opacity 0.15s, color 0.15s;
+    white-space: nowrap;
+  }
+  .btn-primary {
+    background: var(--accent);
+    color: #fff;
+    padding: 7px 18px;
+  }
+  .btn-primary:hover { background: var(--accent-dim); }
+  .btn-primary:disabled { opacity: .35; cursor: not-allowed; }
+  .btn-ghost {
+    background: transparent;
+    color: #fff;
+    padding: 7px 14px;
+    border: 1px solid #3a3a37;
+  }
+  .btn-ghost:hover { border-color: var(--accent); color: var(--accent); }
+  .btn-ghost:disabled { opacity: .28; cursor: not-allowed; }
+
+  /* Tabs */
+  .tabs {
+    display: flex;
+    padding: 0 2rem;
+    gap: 0;
+    background: var(--hbg2);
+  }
+  .tab-btn {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.76rem;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--htext-dim);
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    padding: 11px 16px;
+    cursor: pointer;
+    margin-bottom: -1px;
+    transition: color 0.15s, border-color 0.15s;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+  }
+  .tab-btn:hover { color: #ccc; }
+  .tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+  .tab-count {
+    font-size: 0.64rem;
+    background: #2a2a28;
+    color: #666;
+    padding: 1px 6px;
+    border-radius: 10px;
+    transition: all 0.15s;
+  }
+  .tab-btn.active .tab-count { background: var(--accent-dark); color: var(--accent); }
+
+  /* Sources bar */
+  .sources-bar {
+    background: var(--hbg);
+    border-top: 1px solid var(--hborder);
+    padding: 8px 2rem;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+  }
+  .src-label {
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #555;
+    flex-shrink: 0;
+  }
+  .group-sep {
+    width: 1px;
+    height: 14px;
+    background: var(--hborder);
+    flex-shrink: 0;
+  }
+  .chip {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.68rem;
+    font-weight: 500;
+    padding: 3px 10px;
+    border-radius: 20px;
+    border: 1px solid #333;
+    color: #666;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.15s;
+    user-select: none;
+  }
+  .chip:hover:not(.active) { border-color: #555; color: #aaa; }
+  .chip.active {
+    border-color: currentColor;
+  }
+
+  /* ══ LIGHT ZONE ═════════════════════════════════════════════════ */
+  .main-wrap {
+    max-width: 1320px;
+    margin: 0 auto;
+    padding: 1.6rem 2rem 3rem;
+  }
+
+  .panel { display: none; }
+  .panel.active { display: block; }
+
+  /* Status bar */
+  .statusbar {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.55rem 1rem;
+    background: var(--cbg2);
+    border: 1px solid var(--cborder);
+    border-left: 3px solid var(--accent);
+    border-radius: var(--radius);
+    margin-bottom: 1.2rem;
+    font-size: 0.77rem;
+    color: var(--ctext-dim);
+    flex-wrap: wrap;
+  }
+  .sdot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--cborder2);
+    flex-shrink: 0;
+    transition: background 0.3s;
+  }
+  .sdot.loading { background: var(--accent); animation: blink 0.7s ease-in-out infinite; }
+  .sdot.ok      { background: var(--green); }
+  .sdot.error   { background: var(--red); }
+  .s-right { margin-left: auto; font-size: 0.7rem; color: var(--ctext-faint); }
+
+  /* Filter row */
+  .filter-row {
+    display: flex;
+    gap: 0.7rem;
+    margin-bottom: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .search-input {
+    flex: 1;
+    min-width: 180px;
+    background: var(--cbg2);
+    border: 1px solid var(--cborder);
+    border-radius: var(--radius);
+    color: var(--ctext);
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.85rem;
+    padding: 8px 14px;
+    outline: none;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  .search-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-light); }
+  .search-input::placeholder { color: var(--ctext-faint); }
+  .sort-sel {
+    background: var(--cbg2);
+    border: 1px solid var(--cborder);
+    border-radius: var(--radius);
+    color: var(--ctext-dim);
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.8rem;
+    padding: 8px 12px;
+    outline: none;
+    cursor: pointer;
+  }
+
+  /* Section header */
+  .sec-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-bottom: 0.55rem;
+    border-bottom: 2px solid var(--ctext);
+    margin-bottom: 0.9rem;
+  }
+  .sec-head h2 {
+    font-family: 'Lora', serif;
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--ctext);
+    letter-spacing: -0.01em;
+  }
+  .sec-count { font-size: 0.7rem; color: var(--ctext-faint); letter-spacing: 0.03em; }
+
+  /* ── News grid ─────────────────────────────────────────── */
+  .news-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1px;
+    background: var(--cborder);
+    border: 1px solid var(--cborder);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+
+  .news-card {
+    background: var(--cbg2);
+    padding: 1rem 1.1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    transition: background 0.12s;
+  }
+  .news-card:hover { background: #fdfcfb; }
+
+  .card-top { display: flex; align-items: center; gap: 0.5rem; }
+  .card-badge {
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #fff;
+    background: var(--accent);
+    padding: 2px 7px;
+    border-radius: 2px;
+    flex-shrink: 0;
+  }
+  .card-date-top { font-size: 0.63rem; color: var(--ctext-faint); }
+
+  .card-title {
+    font-family: 'Lora', serif;
+    font-size: 0.94rem;
+    font-weight: 600;
+    line-height: 1.4;
+    color: var(--ctext);
+  }
+  .card-title a { color: inherit; text-decoration: none; transition: color 0.12s; }
+  .card-title a:hover { color: var(--accent-dim); }
+
+  .card-desc {
+    font-size: 0.78rem;
+    color: var(--ctext-dim);
+    line-height: 1.55;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-foot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 0.45rem;
+    border-top: 1px solid var(--cborder);
+    margin-top: auto;
+  }
+  .card-src-name { font-size: 0.65rem; font-weight: 600; color: var(--ctext-faint); text-transform: uppercase; letter-spacing: 0.04em; }
+  .card-link {
+    font-size: 0.65rem;
+    color: var(--accent-dim);
+    text-decoration: none;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    transition: opacity 0.12s;
+  }
+  .card-link:hover { opacity: 0.7; }
+
+  /* ── Bluesky grid ──────────────────────────────────────── */
+  .bsky-filters {
+    display: flex;
+    gap: 0.45rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.1rem;
+  }
+  .bsky-chip {
+    font-size: 0.72rem;
+    font-weight: 500;
+    padding: 4px 12px;
+    border-radius: 20px;
+    border: 1px solid var(--cborder);
+    color: var(--ctext-faint);
+    background: var(--cbg2);
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .bsky-chip.active { background: rgba(10,132,255,0.09); border-color: #0a84ff; color: #0a84ff; }
+  .bsky-chip:hover:not(.active) { border-color: var(--cborder2); color: var(--ctext-dim); }
+
+  .bsky-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1px;
+    background: var(--cborder);
+    border: 1px solid var(--cborder);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+  .bsky-card {
+    background: var(--cbg2);
+    padding: 1rem 1.1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    border-left: 2px solid #0a84ff;
+    transition: background 0.12s;
+  }
+  .bsky-card:hover { background: #fdfcfb; }
+  .bsky-author { font-size: 0.72rem; font-weight: 600; color: var(--ctext); }
+  .bsky-handle { font-weight: 400; color: var(--ctext-faint); }
+  .bsky-text { font-size: 0.84rem; line-height: 1.55; color: var(--ctext); white-space: pre-wrap; word-break: break-word; }
+  .bsky-text a { color: #0a84ff; text-decoration: none; }
+  .bsky-text a:hover { text-decoration: underline; }
+  .bsky-foot { display: flex; justify-content: space-between; align-items: center; padding-top: 0.45rem; border-top: 1px solid var(--cborder); margin-top: auto; }
+  .bsky-meta { font-size: 0.65rem; color: var(--ctext-faint); }
+  .bsky-link { font-size: 0.65rem; color: #0a84ff; text-decoration: none; font-weight: 500; }
+  .bsky-link:hover { opacity: 0.7; }
+
+  /* ── Skeleton ──────────────────────────────────────────── */
+  .skel { background: var(--cbg2); padding: 1rem 1.1rem; display: flex; flex-direction: column; gap: 0.5rem; }
+  .sl {
+    height: 10px;
+    background: linear-gradient(90deg, var(--cbg3) 25%, var(--cbg) 50%, var(--cbg3) 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.3s infinite;
+    border-radius: 2px;
+  }
+  .sl.h { height: 15px; width: 88%; }
+  .sl.s { width: 62%; }
+  .sl.t { height: 11px; width: 65px; }
+  @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+
+  /* ── Empty ─────────────────────────────────────────────── */
+  .empty { grid-column: 1/-1; text-align: center; padding: 3.5rem 2rem; }
+  .empty-icon { font-size: 2rem; display: block; margin-bottom: 0.7rem; }
+  .empty p { font-size: 0.82rem; line-height: 1.7; color: var(--ctext-dim); max-width: 320px; margin: 0 auto; }
+
+  /* ── No-RSS notice ─────────────────────────────────────── */
+  .no-rss-note {
+    font-size: 0.72rem;
+    color: var(--ctext-faint);
+    padding: 0.5rem 0;
+    font-style: italic;
+    margin-bottom: 0.3rem;
+  }
+  .no-rss-note span { color: var(--accent-dim); font-weight: 600; font-style: normal; }
+
+  /* ── Footer ────────────────────────────────────────────── */
+  .site-footer {
+    border-top: 1px solid var(--cborder);
+    padding: 1.2rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    background: var(--cbg2);
+  }
+  .footer-brand { font-family: 'Lora', serif; font-size: 0.85rem; color: var(--ctext-dim); }
+  .footer-brand span { color: var(--accent-dim); }
+  .footer-note { font-size: 0.7rem; color: var(--ctext-faint); }
+
+  @media (max-width: 680px) {
+    .site-header, .sources-bar, .tabs { padding-left: 1rem; padding-right: 1rem; }
+    .main-wrap { padding: 1rem 1rem 2rem; }
+    .header-meta { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ══ DARK ZONE ═══════════════════════════════════════════════════ -->
+<div class="dark-zone">
+  <header class="site-header">
+    <a class="brand" href="https://www.matinal.org" target="_blank" rel="noopener">
+      <span class="brand-name">Matinal</span>
+      <span class="brand-sep"> | </span>
+      <span class="brand-product">Monitor de Notícias</span>
+    </a>
+    <div class="header-meta">
+      <span class="live-pill">ao vivo</span>
+      <span id="dateline"></span>
+    </div>
+    <div class="header-btns">
+      <button class="btn btn-ghost" id="btn-export" onclick="exportXLSX()" disabled>↓ Planilha</button>
+      <button class="btn btn-primary" id="btn-fetch" onclick="fetchCurrent()">Buscar agora</button>
+    </div>
+  </header>
+
+  <div class="tabs">
+    <button class="tab-btn active" onclick="switchTab('news',this)">Notícias <span class="tab-count" id="tc-news">0</span></button>
+    <button class="tab-btn" onclick="switchTab('bsky',this)">Bluesky <span class="tab-count" id="tc-bsky">0</span></button>
+  </div>
+
+  <div class="sources-bar" id="sources-bar"></div>
+</div>
+
+<!-- ══ LIGHT ZONE ══════════════════════════════════════════════════ -->
+<div class="main-wrap">
+
+  <!-- NEWS PANEL -->
+  <div class="panel active" id="panel-news">
+    <div class="statusbar">
+      <span class="sdot" id="sd-n"></span>
+      <span id="st-n">Clique em "Buscar agora" para carregar as notícias.</span>
+      <span class="s-right" id="sr-n"></span>
+    </div>
+    <div class="filter-row" id="filter-row" style="display:none">
+      <input class="search-input" type="text" placeholder="Filtrar manchetes…" id="search-input" oninput="renderNews()">
+      <select class="sort-sel" id="sort-sel" onchange="renderNews()">
+        <option value="date">Mais recentes</option>
+        <option value="source">Por fonte</option>
+        <option value="alpha">A → Z</option>
+      </select>
+    </div>
+    <div class="sec-head" id="news-head" style="display:none">
+      <h2>Manchetes</h2>
+      <span class="sec-count" id="news-count"></span>
+    </div>
+    <div class="news-grid" id="news-grid">
+      <div class="empty"><span class="empty-icon">📰</span><p>Clique em "Buscar agora" para carregar notícias de Porto Alegre e do RS.</p></div>
+    </div>
+  </div>
+
+  <!-- BLUESKY PANEL -->
+  <div class="panel" id="panel-bsky">
+    <div class="statusbar">
+      <span class="sdot" id="sd-b"></span>
+      <span id="st-b">API pública do Bluesky — sem login necessário.</span>
+      <span class="s-right" id="sr-b"></span>
+    </div>
+    <div class="bsky-filters" id="bsky-filters"></div>
+    <div class="sec-head">
+      <h2>Posts no Bluesky</h2>
+      <span class="sec-count" id="bsky-count"></span>
+    </div>
+    <div class="bsky-grid" id="bsky-grid">
+      <div class="empty"><span class="empty-icon">🦋</span><p>Clique em "Buscar agora" para ver posts sobre Porto Alegre.</p></div>
+    </div>
+  </div>
+
+</div>
+
+<footer class="site-footer">
+  <span class="footer-brand"><span>Matinal</span> · Monitor de Notícias</span>
+  <span class="footer-note" id="footer-note">Porto Alegre & Rio Grande do Sul · RSS + Bluesky API</span>
+</footer>
+
+<script>
+// ── CORES POR FONTE ───────────────────────────────────────────────────────────
+// (RSS + scraping — unificadas)
+const SOURCE_COLORS = {
+  // RSS
+  'GZH':                '#d32f2f',
+  'Correio do Povo':    '#1565c0',
+  'Jornal do Comércio': '#2e7d32',
+  'O Sul':              '#6a1b9a',
+  'Sul21':              '#00838f',
+  'Matinal':            '#42c8dc',
+  'Brasil de Fato RS':  '#c62828',
+  'Extraclasse':        '#e65100',
+  'Agora RS':           '#0277bd',
+  'Rádio Gaúcha':       '#f9a825',
+  'G1 RS':              '#1a73e8',
+  'Folha de S.Paulo':   '#37474f',
+  'UOL':                '#4527a0',
+  'Metrópoles':         '#ad1457',
+  'CNN Brasil':         '#b71c1c',
+  'R7':                 '#558b2f',
+  'Google News RS':     '#1a73e8',
+  // Scraping
+  'Nonada':             '#d32f2f',
+  'UFRGS Jornal':       '#1565c0',
+  'UFRGS Notícias':     '#0277bd',
+  'The Conversation BR':'#6a1b9a',
+  'Estado RS':          '#2e7d32',
+  'Prefeitura POA':     '#ad1457',
+  'Terra':              '#e65100',
+  'Diário Gaúcho':      '#f57f17',
+  'Google News':        '#1a73e8',
+  'Google News (POA)':  '#1a73e8',
+  'Google News (RS)':   '#1565c0',
+  'Yahoo Notícias':     '#6200ea',
+};
+
+// ── BLUESKY TAGS ──────────────────────────────────────────────────────────────
+const BSKY_TAGS = [
+  { tag:'PortoAlegre',    label:'#PortoAlegre' },
+  { tag:'RioGrandedoSul', label:'#RioGrandedoSul' },
+  { tag:'POA',            label:'#POA' },
+  { tag:'RS',             label:'#RS' },
+  { tag:'EnchentesRS',    label:'#EnchentesRS' },
+  { tag:'GaúchaZH',       label:'#GaúchaZH' },
+  { tag:'Gremio',         label:'#Grêmio' },
+  { tag:'Internacional',  label:'#Inter' },
+  { tag:'SebastaoMelo',   label:'#SebastãoMelo' },
+  { tag:'EduardoLeite',   label:'#EduardoLeite' },
+  { tag:'ChuvasRS',       label:'#ChuvasRS' },
+];
+
+// ── STATE ─────────────────────────────────────────────────────────────────────
+let allNews    = [];
+let allBsky    = [];
+let activeSrc  = new Set();
+let activeTags = new Set(BSKY_TAGS.map(t => t.tag));
+let curTab     = 'news';
+
+// ── BOOT ──────────────────────────────────────────────────────────────────────
+document.addEventListener('DOMContentLoaded', () => {
+  tickClock();
+  setInterval(tickClock, 15000);
+  buildBskyChips();
+  setTimeout(fetchAll, 400);
+  // Re-carrega o JSON a cada 15 min (acompanha o GitHub Actions)
+  setInterval(fetchAll, 15 * 60 * 1000);
+});
+
+function tickClock() {
+  const n = new Date();
+  document.getElementById('dateline').textContent =
+    n.toLocaleDateString('pt-BR',{weekday:'short',day:'2-digit',month:'short'}) +
+    ' · ' + n.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'});
+}
+
+// ── TABS ──────────────────────────────────────────────────────────────────────
+function switchTab(tab, el) {
+  curTab = tab;
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  el.classList.add('active');
+  document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+  document.getElementById('panel-' + tab).classList.add('active');
+}
+
+// ── CHIPS — construído dinamicamente a partir dos dados ───────────────────────
+function buildChips(articles) {
+  const bar = document.getElementById('sources-bar');
+  bar.innerHTML = '<span class="src-label">Fontes</span>';
+
+  // Agrupa fontes por grupo
+  const groups = {};
+  for (const a of articles) {
+    if (!groups[a.group]) groups[a.group] = [];
+    if (!groups[a.group].includes(a.sourceId)) groups[a.group].push(a.sourceId);
+  }
+
+  const groupOrder = ['RS', 'Nacional', 'Sem RSS'];
+  const allGroups  = [...new Set([...groupOrder, ...Object.keys(groups)])];
+  let first = true;
+
+  for (const g of allGroups) {
+    if (!groups[g] || !groups[g].length) continue;
+    if (!first) {
+      const sep = document.createElement('div');
+      sep.className = 'group-sep';
+      bar.appendChild(sep);
+    }
+    first = false;
+
+    for (const srcId of groups[g].sort()) {
+      const color = SOURCE_COLORS[srcId] || '#42c8dc';
+      const c = document.createElement('button');
+      c.className = 'chip active';
+      c.textContent = srcId;
+      c.style.borderColor = color;
+      c.style.color = color;
+      c.style.background = color + '18';
+      c.onclick = () => {
+        if (activeSrc.has(srcId)) {
+          activeSrc.delete(srcId);
+          c.classList.remove('active');
+          c.style.borderColor = ''; c.style.color = ''; c.style.background = '';
+        } else {
+          activeSrc.add(srcId);
+          c.classList.add('active');
+          c.style.borderColor = color; c.style.color = color; c.style.background = color + '18';
+        }
+        renderNews();
+      };
+      bar.appendChild(c);
+    }
+  }
+}
+
+function buildBskyChips() {
+  const wrap = document.getElementById('bsky-filters');
+  BSKY_TAGS.forEach(t => {
+    const c = document.createElement('button');
+    c.className = 'bsky-chip active';
+    c.textContent = t.label;
+    c.onclick = () => {
+      if (activeTags.has(t.tag)) { activeTags.delete(t.tag); c.classList.remove('active'); }
+      else { activeTags.add(t.tag); c.classList.add('active'); }
+      renderBsky();
+    };
+    wrap.appendChild(c);
+  });
+}
+
+// ── FETCH ─────────────────────────────────────────────────────────────────────
+function fetchCurrent() { curTab === 'bsky' ? fetchBsky() : fetchAll(); }
+
+async function fetchAll() {
+  setN('loading', 'Carregando notícias…');
+  disableBtn(true);
+  skels('news-grid');
+
+  try {
+    // Busca o JSON gerado pelo GitHub Actions (cache-bust para sempre pegar a versão mais nova)
+    const r = await fetch('data/articles.json?t=' + Date.now(),
+                          { signal: AbortSignal.timeout(15000) });
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const data = await r.json();
+
+    allNews = (data.articles || []).map(a => ({
+      source:      a.source,
+      sourceId:    a.source,
+      sourceColor: SOURCE_COLORS[a.source] || '#42c8dc',
+      title:       a.title       || '',
+      link:        a.link        || '',
+      date:        a.date ? new Date(a.date) : null,
+      description: a.description || '',
+      group:       a.group       || 'Sem RSS',
+    }));
+
+    // Reconstrói os chips com as fontes reais dos dados
+    buildChips(allNews);
+    activeSrc = new Set(allNews.map(n => n.sourceId));
+
+    // Mostra horário da última coleta (gerada pelo Actions)
+    const genAt   = data.generated_at ? new Date(data.generated_at) : null;
+    const timeStr = genAt
+      ? 'coletado às ' + genAt.toLocaleTimeString('pt-BR', {hour:'2-digit', minute:'2-digit'})
+      : data.generated_at_br || '—';
+    document.getElementById('sr-n').textContent = timeStr;
+    document.getElementById('footer-note').textContent =
+      'Porto Alegre & RS · ' + timeStr;
+
+    document.getElementById('tc-news').textContent = allNews.length;
+    setN('ok', `${allNews.length} manchetes · ${new Set(allNews.map(n=>n.source)).size} fontes`);
+    disableBtn(false);
+    if (allNews.length) document.getElementById('btn-export').disabled = false;
+    renderNews();
+
+  } catch (e) {
+    const msg = e.message.includes('404') || e.message.includes('HTTP')
+      ? 'Dados ainda não disponíveis — aguarde a primeira coleta automática.'
+      : `Erro ao carregar: ${e.message}`;
+    setN('error', msg);
+    disableBtn(false);
+    document.getElementById('news-grid').innerHTML =
+      `<div class="empty"><span class="empty-icon">⏳</span><p>${msg}</p></div>`;
+  }
+}
+
+async function fetchBsky() {
+  setB('loading', 'Buscando no Bluesky…');
+  disableBtn(true);
+  skels('bsky-grid');
+  const results = await Promise.all([...activeTags].map(tag =>
+    fetch(`https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=%23${encodeURIComponent(tag)}&limit=25&sort=latest`,
+      {signal: AbortSignal.timeout(10000)})
+      .then(r => r.ok ? r.json() : {posts:[]})
+      .then(d => (d.posts||[]).map(p => ({
+        tag,
+        handle: p.author?.handle||'',
+        displayName: p.author?.displayName||p.author?.handle||'',
+        text: p.record?.text||'',
+        date: p.indexedAt ? new Date(p.indexedAt) : new Date(),
+        cid: p.cid||'',
+        link: p.uri ? `https://bsky.app/profile/${p.author?.handle}/post/${p.uri.split('/').pop()}` : '',
+        likes: p.likeCount||0,
+        reposts: p.repostCount||0,
+      })))
+      .catch(() => [])
+  ));
+  allBsky = dedupeBy(results.flat(), p => p.cid||p.text.slice(0,50)).sort((a,b)=>b.date-a.date);
+  document.getElementById('tc-bsky').textContent = allBsky.length;
+  setB('ok', `${allBsky.length} posts encontrados`);
+  disableBtn(false);
+  if (allBsky.length) document.getElementById('btn-export').disabled = false;
+  renderBsky();
+}
+
+// ── RENDER NEWS ───────────────────────────────────────────────────────────────
+function renderNews() {
+  const q = (document.getElementById('search-input').value||'').toLowerCase();
+  const s = document.getElementById('sort-sel').value;
+  let items = allNews
+    .filter(n => activeSrc.has(n.sourceId))
+    .filter(n => !q || n.title.toLowerCase().includes(q) || n.description.toLowerCase().includes(q));
+  if (s==='date')   items.sort((a,b) => b.date-a.date);
+  if (s==='source') items.sort((a,b) => a.source.localeCompare(b.source));
+  if (s==='alpha')  items.sort((a,b) => a.title.localeCompare(b.title));
+
+  const has = allNews.length > 0;
+  document.getElementById('filter-row').style.display = has ? 'flex' : 'none';
+  document.getElementById('news-head').style.display  = has ? 'flex' : 'none';
+  document.getElementById('news-count').textContent   = `${items.length} resultado(s)`;
+  document.getElementById('sr-n').textContent         = `total: ${allNews.length} · visível: ${items.length}`;
+
+  const grid = document.getElementById('news-grid');
+  if (!items.length) {
+    grid.innerHTML = `<div class="empty"><span class="empty-icon">🔍</span><p>Nenhuma manchete encontrada. Ajuste os filtros ou selecione mais fontes.</p></div>`;
+    return;
+  }
+  grid.innerHTML = items.map(n => `
+    <article class="news-card" style="border-left:3px solid ${n.sourceColor}">
+      <div class="card-top">
+        <span class="card-badge" style="background:${n.sourceColor}">${esc(n.source)}</span>
+        <span class="card-date-top">${fmtDate(n.date)}</span>
+      </div>
+      <div class="card-title"><a href="${n.link}" target="_blank" rel="noopener">${esc(n.title)}</a></div>
+      ${n.description ? `<div class="card-desc">${esc(n.description)}</div>` : ''}
+      <div class="card-foot">
+        <span class="card-src-name">${esc(n.source)}</span>
+        <a class="card-link" href="${n.link}" target="_blank" rel="noopener">Ler ↗</a>
+      </div>
+    </article>`).join('');
+}
+
+// ── RENDER BLUESKY ────────────────────────────────────────────────────────────
+function renderBsky() {
+  const items = allBsky.filter(p => activeTags.has(p.tag));
+  document.getElementById('bsky-count').textContent = `${items.length} post(s)`;
+  document.getElementById('sr-b').textContent = `total: ${allBsky.length} · visível: ${items.length}`;
+  const grid = document.getElementById('bsky-grid');
+  if (!items.length) {
+    grid.innerHTML = `<div class="empty"><span class="empty-icon">🦋</span><p>Nenhum post encontrado. Ative alguma hashtag e clique em Buscar.</p></div>`;
+    return;
+  }
+  grid.innerHTML = items.map(p => `
+    <div class="bsky-card">
+      <div class="bsky-author">${esc(p.displayName)} <span class="bsky-handle">@${esc(p.handle)}</span></div>
+      <div class="bsky-text">${linkify(esc(p.text))}</div>
+      <div class="bsky-foot">
+        <span class="bsky-meta">${fmtDate(p.date)} · ♡${p.likes} · 🔁${p.reposts}</span>
+        ${p.link ? `<a class="bsky-link" href="${p.link}" target="_blank" rel="noopener">Ver ↗</a>` : ''}
+      </div>
+    </div>`).join('');
+}
+
+// ── EXPORT ────────────────────────────────────────────────────────────────────
+function exportXLSX() {
+  const wb = XLSX.utils.book_new();
+  if (allNews.length) {
+    const rows = [['Fonte','Manchete','Link','Data/Hora']];
+    allNews.filter(n=>activeSrc.has(n.sourceId)).sort((a,b)=>b.date-a.date)
+      .forEach(n=>rows.push([n.source, n.title, n.link, fmtDate(n.date)]));
+    const ws = XLSX.utils.aoa_to_sheet(rows);
+    ws['!cols'] = [{wch:20},{wch:78},{wch:62},{wch:22}];
+    XLSX.utils.book_append_sheet(wb, ws, 'Notícias RSS');
+  }
+  if (allBsky.length) {
+    const rows = [['Hashtag','Handle','Nome','Texto','Link','Data','Curtidas','Reposts']];
+    allBsky.filter(p=>activeTags.has(p.tag))
+      .forEach(p=>rows.push(['#'+p.tag,p.handle,p.displayName,p.text,p.link,fmtDate(p.date),p.likes,p.reposts]));
+    const ws = XLSX.utils.aoa_to_sheet(rows);
+    ws['!cols'] = [{wch:16},{wch:25},{wch:22},{wch:80},{wch:55},{wch:22},{wch:10},{wch:10}];
+    XLSX.utils.book_append_sheet(wb, ws, 'Bluesky');
+  }
+  const sc={};
+  allNews.forEach(n=>{ sc[n.source]=(sc[n.source]||0)+1; });
+  const r3=[['Tipo','Fonte','Qtd'],...Object.entries(sc).map(([k,v])=>['RSS',k,v])];
+  XLSX.utils.book_append_sheet(wb, XLSX.utils.aoa_to_sheet(r3), 'Resumo');
+  XLSX.writeFile(wb, `matinal-monitor-${new Date().toISOString().slice(0,10)}.xlsx`);
+}
+
+// ── HELPERS ───────────────────────────────────────────────────────────────────
+function relevant(text) {
+  const t = norm(text);
+  return KEYWORDS.some(k => t.includes(norm(k)));
+}
+function norm(s) { return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,''); }
+function dedupe(items) {
+  const seen=new Set();
+  return items.filter(i => { const k=i.title.toLowerCase().slice(0,60); if(seen.has(k)) return false; seen.add(k); return true; });
+}
+function dedupeBy(items, fn) {
+  const seen=new Set();
+  return items.filter(i => { const k=fn(i); if(seen.has(k)) return false; seen.add(k); return true; });
+}
+function strip(h) { const d=document.createElement('div'); d.innerHTML=h; return d.textContent||d.innerText||''; }
+function esc(s) { return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+function linkify(t) {
+  return t
+    .replace(/(https?:\/\/[^\s]+)/g,'<a href="$1" target="_blank" rel="noopener">$1</a>')
+    .replace(/#(\w+)/g,'<a href="https://bsky.app/hashtag/$1" target="_blank" rel="noopener">#$1</a>');
+}
+function fmtDate(d) {
+  if (!(d instanceof Date)||isNaN(d)) return '—';
+  return d.toLocaleDateString('pt-BR',{day:'2-digit',month:'short',year:'numeric'})
+       + ' ' + d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'});
+}
+function skels(id) {
+  document.getElementById(id).innerHTML = Array(9).fill(
+    `<div class="skel"><div class="sl t"></div><div class="sl h"></div><div class="sl s"></div></div>`
+  ).join('');
+}
+function setN(t,m) { document.getElementById('sd-n').className='sdot '+t; document.getElementById('st-n').textContent=m; }
+function setB(t,m) { document.getElementById('sd-b').className='sdot '+t; document.getElementById('st-b').textContent=m; }
+function disableBtn(v) { document.getElementById('btn-fetch').disabled=v; }
+</script>
+</body>
+</html>

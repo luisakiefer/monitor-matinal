@@ -1,0 +1,39 @@
+name: Monitor Matinal — coleta de notícias
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'   # a cada 15 minutos
+  workflow_dispatch:          # permite disparar manualmente pelo GitHub
+
+permissions:
+  contents: write             # necessário para fazer commit do articles.json
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Gerar data/articles.json
+        run: python generate_json.py
+
+      - name: Commit e push
+        run: |
+          git config user.name  "Monitor Matinal Bot"
+          git config user.email "bot@matinal.org"
+          git add data/articles.json
+          git diff --staged --quiet \
+            || git commit -m "dados: atualiza notícias $(date -u '+%d/%m/%Y %H:%M UTC')"
+          git push
