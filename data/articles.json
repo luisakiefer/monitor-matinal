@@ -1,31 +1,511 @@
 {
-  "generated_at": "2026-05-15T08:29:09.817284Z",
-  "generated_at_br": "15/05/2026 08:29 UTC",
-  "total": 1012,
+  "generated_at": "2026-05-15T10:45:58.000691Z",
+  "generated_at_br": "15/05/2026 10:45 UTC",
+  "total": 983,
   "articles": [
+    {
+      "source": "O Sul",
+      "group": "RS",
+      "title": "Vereadores discutem projeto que determina a instalação de aparelhos de ar-condicionado nas escolas municipais de Porto Alegre",
+      "link": "https://www.osul.com.br/vereadores-discutem-projeto-que-determina-a-instalacao-de-aparelhos-de-ar-condicionado-nas-escolas-municipais-de-porto-alegre/",
+      "date": "2026-05-15T10:39:30",
+      "description": "Começou a tramitar na Câmara Municipal de Porto Alegre um projeto de lei que determina a instalação de aparelhos de ar-condicionado..."
+    },
     {
       "source": "Metrópoles",
       "group": "Nacional",
-      "title": "Lula descarta lançar favorita do PT ao governo em MG",
-      "link": "https://www.metropoles.com/colunas/grande-angular/lula-descarta-lancar-favorita-do-pt-ao-governo-em-mg",
-      "date": "2026-05-15T08:15:40",
-      "description": "Marília Campos afirmou que ajuste fiscal e arrocho sobre servidores inviabilizariam apoio político do PT a eventual gestão"
+      "title": "GDF decreta emergência ambiental para reforçar combate às queimadas",
+      "link": "https://www.metropoles.com/distrito-federal/gdf-decreta-emergencia-ambiental-para-reforcar-combate-as-queimadas",
+      "date": "2026-05-15T10:35:55",
+      "description": "Medida vale entre abril e dezembro de 2026 e prevê reforço nas ações de prevenção e combate às queimadas no Cerrado"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "PF: operação contra Cláudio Castro mira fraudes no setor de combustíveis",
+      "link": "https://www.metropoles.com/brasil/operacao-da-pf-mira-grupo-do-setor-de-combustiveis",
+      "date": "2026-05-15T10:35:06",
+      "description": "Foram cumpridos 17 mandados de busca e apreensão e o ex-governador do Rio de Janeiro Claudio Castro é um dos alvos"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "PF cumpre buscas contra Cláudio Castro em operação sobre suspeitas no ramo de combustíveis",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/pf-cumpre-buscas-contra-claudio-castro-em-operacao-sobre-suspeitas-no-ramo-de-combustiveis.shtml",
+      "date": "2026-05-15T10:34:00",
+      "description": "A Polícia Federal cumpre, nesta sexta-feira (15), mandados de busca e apreensão contra Cláudio Castro ( PL ), ex-governador do Rio de Janeiro, em operação que também tem com alvo Ricardo Magro, dono da Refit. Leia mais (05/15/2026 - 07h34)"
+    },
+    {
+      "source": "O Sul",
+      "group": "RS",
+      "title": "Homem que atirou na cabeça da ex-mulher na frente do filho do casal, de 3 meses, e da mãe da vítima é condenado a 31 anos de prisão no RS",
+      "link": "https://www.osul.com.br/homem-que-atirou-na-cabeca-da-ex-mulher-na-frente-do-filho-do-casal-de-3-meses-e-da-mae-da-vitima-e-condenado-a-31-anos-de-prisao-no-rs/",
+      "date": "2026-05-15T10:25:58",
+      "description": "O Tribunal do Júri de Gravataí, na Região Metropolitana de Porto Alegre, condenou um homem a 31 anos de prisão, um..."
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Justiça bloqueia R$ 52 bilhões em operação que mira Cláudio Castro",
+      "link": "https://www.metropoles.com/colunas/mirelle-pinheiro/justica-bloqueia-r-52-bilhoes-em-operacao-que-mira-claudio-castro",
+      "date": "2026-05-15T10:25:31",
+      "description": "Atualmente, o governo do Rio está sob comando interino do presidente do Tribunal de Justiça do Rio de Janeiro"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Rússia diz que Putin discutirá encontro de Trump e Xi quando for à China",
+      "link": "https://www.cnnbrasil.com.br/internacional/russia-diz-que-putin-discutira-encontro-de-trump-e-xi-quando-for-a-china/",
+      "date": "2026-05-15T10:24:12",
+      "description": "Kremlin confirma que assunto será pauta da próxima viagem do presidente russo a Pequim, ainda sem data definida"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Bolsas da Europa recuam com temor inflacionário após cúpula Xi-Trump",
+      "link": "https://www.cnnbrasil.com.br/economia/mercado/bolsas-da-europa-recuam-com-temor-inflacionario-apos-cupula-xi-trump/",
+      "date": "2026-05-15T10:22:02",
+      "description": "Dados de inflação acima do esperado nos EUA e na China evidenciaram os efeitos do conflito no Oriente Médio"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Mega: duas apostas de MG acertam quina e levam bolada; veja cidades",
+      "link": "https://www.metropoles.com/minas-gerais/mega-duas-apostas-de-mg-acertam-quina-e-levam-bolada-veja-cidades",
+      "date": "2026-05-15T10:21:27",
+      "description": "Ninguém acertou as seis dezenas da Mega e o prêmio principal vai a R$ 65 milhões no próximo sorteio; veja cidades que acertaram a quina"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "O Grande Debate: Áudio pode ou não derrubar candidatura de Flávio Bolsonaro",
+      "link": "https://www.cnnbrasil.com.br/politica/o-grande-debate-audio-pode-ou-nao-derrubar-candidatura-de-flavio-bolsonaro/",
+      "date": "2026-05-15T10:20:29",
+      "description": "Comentaristas debatem impacto do vazamento de áudio em que Flávio Bolsonaro pede dinheiro ao ex-banqueiro Daniel Vorcaro para financiar filme"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Quer entender seu mapa astral? Veja por onde começar sem complicação",
+      "link": "https://www.metropoles.com/vida-e-estilo/quer-entender-seu-mapa-astral-veja-por-onde-comecar-sem-complicacao",
+      "date": "2026-05-15T10:19:58",
+      "description": "Ascendente, Lua e casas astrológicas podem parecer difíceis no começo, mas alguns passos simples ajudam a entender melhor seu mapa astral"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Bolsas da Ásia fecham em baixa após cúpula Trump-Xi encerrar sem definições",
+      "link": "https://www.cnnbrasil.com.br/economia/mercado/bolsas-da-asia-fecham-em-baixa-com-tombo-em-seul-apos-cupula-xi-trump-terminar-sem-avancos/",
+      "date": "2026-05-15T10:18:17",
+      "description": "Líderes dos EUA e China finalizaram agenda de dois dias sem resultados concretos"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "PF faz busca e apreensão contra Cláudio Castro no Rio de Janeiro",
+      "link": "https://www.metropoles.com/colunas/manoela-alcantara/pf-faz-busca-e-apreensao-contra-claudio-castro-no-rj",
+      "date": "2026-05-15T10:15:19",
+      "description": "A Polícia Federal realiza busca e apreensão contra o ex-governador do Rio de Janeiro por decisão do ministro Alexandre de Moraes"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "“Casa do Patrão”: Nikita é eliminada com 12,30% de votos do público",
+      "link": "https://www.cnnbrasil.com.br/entretenimento/casa-do-patrao-nikita-e-eliminada-com-1230-de-votos-do-publico/",
+      "date": "2026-05-15T10:12:32",
+      "description": "Participante foi a menos votada pelos espectadores"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "PF faz buscas contra Cláudio Castro e dono da Refit",
+      "link": "https://www.cnnbrasil.com.br/politica/pf-faz-buscas-contra-claudio-castro-e-dono-da-refit/",
+      "date": "2026-05-15T10:12:06",
+      "description": "A Polícia Federal cumpre mandados de busca na manhã desta sexta-feira (15) contra o ex-governador do Rio de Janeiro Cláudio Castro (PL) e contra o dono da Refit, Ricardo Magro. Os agentes cumprem as buscas na casa de Castro, em um condomínio de luxo na Barra da Tijuca, no Rio de Janeiro. A ordem foi"
     },
     {
       "source": "Google News",
       "group": "Nacional",
-      "title": "Com mais de 70 anos de história e 21 unidades no país, rede gaúcha de cachorro-quente chega a Caxias do Sul em junho",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNWGVFRnpLYkFYOVloMnAzdVVORl92ZEdkNXJtd2VLNlJrTHJjNkczYXBzWGJaMlN2SUlJQzBJVE9wSWVOaEF4SHg4UjVSOTRqelNSVFB3ZHRSTzJPX0hMcEctMndCMXY1cEItZWpsVVA5YWt6eXFRUGItbE9HRHE2S3otTnZHenlwVEhIbFU0bHZIeGN5ZHdsUzVZdk82M0dSbzh2YkJNT2VVVmRQUllLaktPQXRWZ3AtN0VWNnZSMFlzRHpQSVl1YWp2UlhaWUgyeWlUemp5MW54WHJJWFk2OFlTMG44Qml6ZFctdlRRWnc5X0FzTWdWRF9TRTZ2Z2Fqb001TVJVNEx4NFIxRVFaQXYzdV9JRTZ1MHhFQkpUR05jM1loVW45UXMybmRudUV3aElyYU1nNVFRTUNOLUkybEFQdlhpclU?oc=5",
-      "date": "2026-05-15T08:05:09+00:00",
-      "description": "Com mais de 70 anos de história e 21 unidades no país, rede gaúcha de cachorro-quente chega a Caxias do Sul em junho  GZH"
+      "title": "Após ameaça de romper contrato, prefeitura de São Lourenço do Sul busca gestão compartilhada com Corsan",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUzdOR2hEZGlLZ2phTHVfX2o2NUp6ZE4yVXMxQjFlM1J1bEEwZ1luNGhDbWZyenNZSC1TamREZ28tWXNFODY0RmZSYTlMQjN0TDNUdTdYc1Y0MUxBcktTcXlJQ0lUeDh3NW93S2pJMndnb0t6SVJIU25ERG5NcHQzanJvem5SNjBYVzZQbjgtWGlZSi1Bb1RXT3Y1QzVQMVFOTTZpdTZqc2t2LXVWYlVTbWY0VktMdFpaZ2wxRGljelA5WlhrU1NzS2V0WlN5c0IwQnBQM1BGWG84TkUzVVc5VTBHSllzMnJqSXVZQ0tmN3YzWFQtOFBSdTJIUlhBR2p2S3M4aE5QM2kxbFV2OVdHWVhkS0NFcS1Jb1lENDJyLTlHUQ?oc=5",
+      "date": "2026-05-15T10:08:21+00:00",
+      "description": "Após ameaça de romper contrato, prefeitura de São Lourenço do Sul busca gestão compartilhada com Corsan  GZH"
     },
     {
       "source": "Metrópoles",
       "group": "Nacional",
-      "title": "Charge do Aroeira",
-      "link": "https://www.metropoles.com/blog-do-noblat/charges/charge-do-aroeira-809",
-      "date": "2026-05-15T08:00:45",
-      "description": "Humor"
+      "title": "DF ficará sem coleta de lixo neste sábado por causa do Dia do Gari",
+      "link": "https://www.metropoles.com/distrito-federal/df-ficara-sem-coleta-de-lixo-neste-sabado-por-causa-do-dia-do-gari",
+      "date": "2026-05-15T10:08:06",
+      "description": "Serviços de coleta, catação e varrição serão suspensos no sábado (16/5) e retomados normalmente no domingo"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "Xi prega estabilidade, enquanto Trump deixa Pequim com menos negócios que o esperado",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/xi-prega-estabilidade-enquanto-trump-deixa-pequim-com-menos-negocios-que-o-esperado.shtml",
+      "date": "2026-05-15T10:04:00",
+      "description": "O fim do encontro entre o líder do regime chinês, Xi Jinping , e o presidente dos Estados Unidos , Donald Trump, em Pequim, foi marcado pela ausência de grandes anúncios. O americano voltou para Washington com menos negócios do que o esperado, enquanto o chinês pregou a \"estabilidade estratégica\" co"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Mendonça deve se reunir com policiais federais do Caso Master",
+      "link": "https://www.metropoles.com/colunas/manoela-alcantara/mendonca-deve-se-reunir-com-policiais-federais-do-caso-master",
+      "date": "2026-05-15T10:03:29",
+      "description": "O ministro André Mendonça, do STF, deve se reunir com delegados da PF que atuam no caso Master e investigam supostas fraudes financeiras"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Soja recua com cautela no mercado externo",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQk5SYnFyMHZPY1dpOTNOdDcxWFdlbmdhUmlzSnJuSDFWZU9MWGp5Sm5SOVE0a1BBSG5ZRVRKVlRZQ2hUdk9aUkp2dTZ6cXhYM2gwNWtCOF9QMDlfbnNpcWdhQjJmbTNYWGlCUHNnemNhWjFweGxoWVM4d3hFRzdxWjFPTHZvSFJ5dkF5RUgzRnFHYktY?oc=5",
+      "date": "2026-05-15T10:01:00+00:00",
+      "description": "Soja recua com cautela no mercado externo  Agrolink"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Após vídeo de Zema, deputados pressionam PL a vetar alianças com Novo",
+      "link": "https://www.metropoles.com/colunas/igor-gadelha/apos-video-de-zema-deputados-pressionam-pl-a-vetar-aliancas-com-novo",
+      "date": "2026-05-15T10:00:51",
+      "description": "Parlamentares do PL querem que direção da legenda suspenda possíveis alianças com o partido Novo após reação de Zema a Flávio Bolsonaro"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Frase do dia",
+      "link": "https://www.metropoles.com/blog-do-noblat/frases-do-dia/frase-do-dia-1770",
+      "date": "2026-05-15T10:00:46",
+      "description": "Flávio Bolsonaro"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Importações equivalem a 60 dias da produção gaúcha de leite, alerta Sindilat",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczlMX3RCQzdodTl6TGJQaEZ5dlZ3cGJnOVFNeUh0WjRRLXgxWHV6eFRPdEVxV3hfdFJwb3QxVjh2eXRTVVlQbWppQ01sajhYNWtVTFJuRG42aXFSMDNIUGtsbk1hNXVub1l3NU1XVjJwQlBOQ2JBSnVJWnZoNHhJNWszeld4a1QzaTc0Sml5bnh1N3NqUnBxekFFQlR6NEZRWFZBZ2tSZzJIdw?oc=5",
+      "date": "2026-05-15T10:00:43+00:00",
+      "description": "Importações equivalem a 60 dias da produção gaúcha de leite, alerta Sindilat  O Presente Rural"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Entenda a diferença entre endemia, epidemia e pandemia",
+      "link": "https://www.metropoles.com/saude/entenda-a-diferenca-de-endemia-epidemia-pandemia",
+      "date": "2026-05-15T10:00:38",
+      "description": "Esses termos são usados em conexão com a transmissão de doenças. Eles descrevem padrões de disseminação, e não o grau de perigo de um vírus"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Leilão de saneamento da Paraíba acontece nesta sexta-feira (15)",
+      "link": "https://www.cnnbrasil.com.br/infra/leilao-de-saneamento-da-paraiba-acontece-nesta-sexta-feira-15/",
+      "date": "2026-05-15T10:00:27",
+      "description": "Concessão prevê R$ 3 bilhões em investimentos em água e esgoto no estado; Acciona apresentou proposta"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "LRCAP é fundamental para garantir a segurança elétrica do país",
+      "link": "https://www.cnnbrasil.com.br/infra/lrcap-e-fundamental-para-garantir-a-seguranca-eletrica-do-pais/",
+      "date": "2026-05-15T10:00:20",
+      "description": "Marcio Rea, diretor-geral do ONS, argumenta em artigo à CNN Infra que outras alternativas não ofereceriam o mesmo grau de previsibilidade, disponibilidade assegurada e compromisso contratual de entrega proporcionados pelos empreendimentos contratados no leilão de reserva de capacidade"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Médico de “Quilos Mortais Brasil” relata caso chocante da nova temporada",
+      "link": "https://www.cnnbrasil.com.br/entretenimento/medico-de-quilos-mortais-brasil-relata-caso-chocante-da-nova-temporada/",
+      "date": "2026-05-15T10:00:14",
+      "description": "À CNN Brasil, Marcello Giovanni falou sobre paciente que o surpreendeu"
+    },
+    {
+      "source": "Matinal",
+      "group": "RS",
+      "title": "✉️ Música nas praças, homenagem em voto na Câmara e energia solar no RS: as notícias desta sexta",
+      "link": "https://www.matinal.org/musica-nas-pracas-vereador-terceiriza-voto-e-energia-solar-no-rs-as-noticias-desta-sexta/",
+      "date": "2026-05-15T10:00:12",
+      "description": "Edição #1638"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Vaquinhas para campanhas eleitorais começam nesta sexta (15/5). Entenda",
+      "link": "https://www.metropoles.com/sao-paulo/vaquinhas-campanhas-eleitorais",
+      "date": "2026-05-15T10:00:01",
+      "description": "Pré-candidatos já podem iniciar a arrecadação de recursos para campanhas de 2026, inclusive por meio de financiamento coletivo"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "Truque mental é estratégia para se exercitar mais; saiba como escapar da 'armadilha do treino perfeito'",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/05/truque-mental-e-estrategia-para-se-exercitar-mais-saiba-como-escapar-da-armadilha-do-treino-perfeito.shtml",
+      "date": "2026-05-15T10:00:00",
+      "description": "Numa noite dessas, Michelle Segar havia planejado correr antes do jantar. Então se viu respondendo a um email demorado e, quando percebeu, o tempo havia encolhido. Em vez de fazer uma corrida mais curta, ela simplesmente desistiu de treinar. Leia mais (05/15/2026 - 07h00)"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "Combustíveis devem estar na próxima lista da Receita e da PGFN contra o devedor contumaz",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/05/combustiveis-devem-estar-na-proxima-lista-da-receita-e-da-pgfn-contra-o-devedor-contumaz.shtml",
+      "date": "2026-05-15T10:00:00",
+      "description": "A Receita Federal e a PGFN (Procuradoria-Geral da Fazenda Nacional) têm pela frente um dos principais testes da nova agenda de integridade econômica do país: aplicar, no setor de combustíveis, uma regulamentação capaz de separar empresas com dificuldades reais daquelas que transformaram o não pagame"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "É difícil falar da Rádio Eldorado no passado",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/becky-korich/2026/05/e-dificil-falar-da-radio-eldorado-no-passado.shtml",
+      "date": "2026-05-15T10:00:00",
+      "description": "Hoje a Rádio Eldorado fecha um ciclo . Depois de 68 anos acompanhando São Paulo , a frequência 107,3 FM se desliga. O que desaparece não é só um canal de áudio, mas uma forma de escutar o mundo. Leia mais (05/15/2026 - 07h00)"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "O céu de 15 de maio e o fim de 'Três Graças': uma coincidência astrológica que vale ler",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/05/o-ceu-de-15-de-maio-e-o-fim-de-tres-gracas-uma-coincidencia-astrologica-que-vale-ler.shtml",
+      "date": "2026-05-15T10:00:00",
+      "description": "A novela das nove \" Três Graças \" se despede do público nesta sexta-feira, 15 de maio de 2026. Para quem acompanha o céu como parte do calendário cultural, a data tem uma camada extra de sentido. Leia mais (05/15/2026 - 07h00)"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Criança atacada por onça na Chapada dos Veadeiros foi ferida no rosto",
+      "link": "https://www.metropoles.com/distrito-federal/entorno/crianca-atacada-por-onca-na-chapada-dos-veadeiros-foi-ferida-no-rosto",
+      "date": "2026-05-15T09:58:11",
+      "description": "As informações preliminares dão conta de que o animal estava em cima de uma árvore no momento em que foi avistado"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Desmatamento na Mata Atlântica atinge menor nível histórico",
+      "link": "https://www.metropoles.com/brasil/desmatamento-na-mata-atlantica-atinge-menor-nivel-historico",
+      "date": "2026-05-15T09:57:04",
+      "description": "Índice total de desmatamento do bioma registrou queda de 28% em 2025. Em florestas maduras, a queda foi ainda mais expressiva: 40%."
+    },
+    {
+      "source": "O Sul",
+      "group": "RS",
+      "title": "Visitação ao Parque Zoológico de Sapucaia do Sul é suspensa após a morte de 15 cisnes",
+      "link": "https://www.osul.com.br/visitacao-no-parque-zoologico-de-sapucaia-do-sul-e-suspensa-apos-a-morte-de-15-cisnes/",
+      "date": "2026-05-15T09:55:08",
+      "description": "A visitação ao Parque Zoológico de Sapucaia do Sul, na Região Metropolitana de Porto Alegre, está suspensa temporariamente a partir desta..."
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "Defesa Civil começa demolição de casas após explosão no Jaguaré, em SP",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/defesa-civil-comeca-demolicao-de-casas-apos-explosao-no-jaguare-em-sp.shtml",
+      "date": "2026-05-15T09:54:00",
+      "description": "A Defesa Civil começou nesta quinta-feira (14) as demolições de cinco casas interditadas definitivamente após a explosão causada por uma obra da Sabesp no Jaguaré, na zona oeste de São Paulo. Leia mais (05/15/2026 - 06h54)"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Cachoeira na Chapada dos Veadeiros suspende visitação após onça atacar criança",
+      "link": "https://www.metropoles.com/distrito-federal/entorno/chapada-dos-veadeiros-cachoeira-suspende-visitas-apos-ataque-de-onca",
+      "date": "2026-05-15T09:51:32",
+      "description": "A determinação foi anunciada pelo Santuário Volta da Serra, responsável pela conservação e administração da Cachoeira do Cordovil"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Hantavírus: missão vai ao Ushuaia identificar origem da contaminação",
+      "link": "https://www.metropoles.com/mundo/hantavirus-missao-vai-ao-ushuaia-identificar-origem-da-contaminacao",
+      "date": "2026-05-15T09:44:35",
+      "description": "Missão científica argentina irá na próxima semana ao Ushuaia, de onde partiu o navio MV Hondius. Objetivo é tentar identificar a origem"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "EUA planejam indiciar Raúl Castro, ex-líder de Cuba, diz fonte",
+      "link": "https://www.cnnbrasil.com.br/internacional/eua-planejam-indiciar-raul-castro-ex-lider-de-cuba-diz-autoridade/",
+      "date": "2026-05-15T09:44:04",
+      "description": "Funcionário do Departamento de Justiça americano revela que irmão de Fidel Caastro pode ser processado por abate de aeronaves em 1996"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Morte de Cauby Peixoto completa 10 anos; veja as músicas mais tocadas dele",
+      "link": "https://www.cnnbrasil.com.br/entretenimento/morte-de-cauby-peixoto-completa-10-anos-veja-as-musicas-mais-tocadas-dele/",
+      "date": "2026-05-15T09:35:42",
+      "description": "Cantor faleceu em decorrência de uma pneumonia, aos 85 anos"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "Sidney Oliveira, da Ultrafarma, e ex-auditor são acusados de organização criminosa pelo MP-SP",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/sidney-oliveira-da-ultrafarma-e-ex-auditor-sao-acusados-de-organizacao-criminosa-pelo-mp-sp.shtml",
+      "date": "2026-05-15T09:30:00",
+      "description": "O MP-SP (Ministério Público do Estado de São Paulo ) denunciou, nesta sexta-feira (15), 11 pessoas sob acusação de integrar uma organização criminosa para um esquema bilionário de manipulação de créditos de ICMS na Sefaz-SP (Secretaria da Fazenda do Estado de São Paulo). São empresários, executivos,"
+    },
+    {
+      "source": "G1 RS",
+      "group": "Nacional",
+      "title": "Zoológico de Sapucaia do Sul suspende visitas após morte de 15 animais; causa é investigada",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/15/zoologico-de-sapucaia-do-sul-suspende-visitas-apos-morte-de-15-animais-causa-e-investigada.ghtml",
+      "date": "2026-05-15T09:26:12",
+      "description": "Zoológico de Sapucaia do Sul suspende visitas após morte de 15 animais; causa é investigada\nArquivo / Parque Zoológico de Sapucaia do Sul\nO Zoológico de Sapucaia do Sul, na Região Metropolitana de Porto Alegre, está temporariamente fechado. As visitas estão suspensas a partir desta sexta-feira (15)."
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "\"O México não existia até a Espanha chegar\", diz governadora de Madri",
+      "link": "https://www.metropoles.com/mundo/o-mexico-nao-existia-ate-a-espanha-chegar-diz-governadora-de-madri",
+      "date": "2026-05-15T09:23:54",
+      "description": "Afirmação ignora a história mexicana pré-colombiana, dominada por civilizações avançadas como os Maias e Astecas"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "Operação contra tráfico resgata 160 animais em rancho de MG",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/05/operacao-contra-trafico-resgata-160-animais-em-rancho-de-mg.shtml",
+      "date": "2026-05-15T09:19:00",
+      "description": "A Operação Tráfico Animal Digital, do Ministério Público de Minas Gerais, resgatou 160 animais de 18 espécies em um rancho em Ribeirão das Neves, na região metropolitana de Belo Horizonte . Leia mais (05/15/2026 - 06h19)"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "“Relação muito forte”, diz Trump ao lado de Xi Jinping em reunião",
+      "link": "https://www.cnnbrasil.com.br/internacional/relacao-muito-forte-diz-trump-ao-lado-de-xi-jinping-em-reuniao/",
+      "date": "2026-05-15T09:16:19",
+      "description": "Líderes dos EUA e China discutiram programa nuclear do Irã e o desejo de não proliferação nuclear durante cúpula em Pequim"
+    },
+    {
+      "source": "Matinal",
+      "group": "RS",
+      "title": "Em “homenagem”, vereador permite que outra pessoa vote em seu lugar",
+      "link": "https://www.matinal.org/reportagem/em-homenagem-vereador-permite-que-outra-pessoa-vote-em-seu-lugar/",
+      "date": "2026-05-15T09:15:24",
+      "description": "Jessé Sangalli registrou Reginaldo Pujol apertando botões para marcar posição na votação da LUOS"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Setor do Lago Sul fica sem energia nesta sexta-feira (15/5)",
+      "link": "https://www.metropoles.com/distrito-federal/setor-do-lago-sul-fica-sem-energia-nesta-sexta-feira-15-5",
+      "date": "2026-05-15T09:14:16",
+      "description": "A interrupção, que ocorre das 9h às 15h, será feita para que sejam realizados serviços de manutenção da rede"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Simulador de Convocação da CNN: Neymar tem ampla aprovação para ir à Copa",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/simulador-da-cnn-neymar-tem-ampla-aprovacao-para-ir-a-copa/",
+      "date": "2026-05-15T09:05:03",
+      "description": "Camisa 10 aparece em 67,25% das convocações feitas por internautas da CNN Brasil às vésperas da lista final de Carlo Ancelotti"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Clima: frio persiste no Sul e temporais atingem parte do país; confira",
+      "link": "https://www.metropoles.com/brasil/clima-frio-persiste-no-sul-e-temporais-atingem-parte-do-pais-confira",
+      "date": "2026-05-15T09:04:47",
+      "description": "No Sul, ainda resiste o manto de uma massa de ar polar, mas o restante do território nacional entra em alerta para pancadas de chuva"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "DF fecha a semana com 942 vagas e salários de até R$ 3,9 mil",
+      "link": "https://www.metropoles.com/distrito-federal/df-fecha-a-semana-com-942-vagas-e-salarios-de-ate-r-39-mil",
+      "date": "2026-05-15T09:04:36",
+      "description": "As vagas abrangem candidatos de diferentes níveis de escolaridade, com ou sem experiência"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "ANM abre discussão para rever sigilo de dados sobre mineração no Brasil",
+      "link": "https://www.cnnbrasil.com.br/infra/anm-abre-discussao-para-rever-sigilo-de-dados-sobre-mineracao-no-brasil/",
+      "date": "2026-05-15T09:01:19",
+      "description": "Agência avalia se documentos técnicos sobre recursos, reservas e produção devem continuar sigilosos e se resolução de 2019 deve ser alterada; processo ainda está em fase inicial"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "O que fez “Três Graças” dar certo? Veja os maiores acertos da novela",
+      "link": "https://www.cnnbrasil.com.br/entretenimento/o-que-fez-tres-gracas-dar-certo-veja-os-maiores-acertos-da-novela/",
+      "date": "2026-05-15T09:00:29",
+      "description": "A trama de Aguinaldo Silva chega ao fim nesta sexta-feira (15)"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Rio Grande do Sul articula estratégia para transformar leite em produto de exportação",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbzQyUGZOYW1qeDBCT0V6Y054WU81RDlOTXd5cnZjVTVZLUJtZjVZZTNlcV8xcmRxQ1FPYl9sOERFaXV1YlR2ZE43akdjaHlDWVNHZDl1MWExLWY3S0lYRjVYT0t3SnFqbjVLay11TXZIcFRyZF9aMVJzWmx5akE2Z2ZCaXNreTZCSzY5M0ZaempsNkJhd1NybkNVcVVtZ1hxaGI4NE9OX1k4U3Z2ellvQWRyd1NadHc?oc=5",
+      "date": "2026-05-15T09:00:18+00:00",
+      "description": "Rio Grande do Sul articula estratégia para transformar leite em produto de exportação  O Presente Rural"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Cerco ao leilão de capacidade cresce em meio a disputas e questionamentos",
+      "link": "https://www.cnnbrasil.com.br/infra/cerco-ao-leilao-de-capacidade-cresce-com-pressao-politica-e-judicial/",
+      "date": "2026-05-15T09:00:10",
+      "description": "Certame de R$ 515 bilhões enfrenta críticas sobre preço-teto, tarifas, mercado secundário e pedidos de cancelamento em meio ao debate sobre segurança energética"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "Trump não tem nenhuma estratégia para lidar com o Irã",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/thomas-l-friedman/2026/05/trump-nao-tem-nenhuma-estrategia-para-lidar-com-o-ira.shtml",
+      "date": "2026-05-15T09:00:00",
+      "description": "Caros membros da Otan : Eu entendo. Vocês desprezam o presidente Donald Trump por todas as razões certas. Ele abandonou a Ucrânia . Ameaçou tomar a Groenlândia e anexar o Canadá . Tem mimado Vladimir Putin . Está corroendo as instituições e normas democráticas dos Estados Unidos . Ele insultou cada "
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "Dentes de Homo erectus indicam outra mistura entre ancestrais",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/05/dentes-de-homo-erectus-indicam-outra-mistura-entre-ancestrais.shtml",
+      "date": "2026-05-15T09:00:00",
+      "description": "Moléculas do esmalte dos dentes do Homo erectus (primeiro membro do gênero humano a se espalhar amplamente pelo planeta) sugerem que traços genéticos exclusivos dele foram transmitidos às pessoas de hoje por meio de processos da miscigenação. Leia mais (05/15/2026 - 06h00)"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "Fim da 6x1 pode encarecer moradias do Minha Casa, Minha Vida, diz Câmara da Construção",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/fim-da-6x1-pode-encarecer-moradias-do-minha-casa-minha-vida-diz-camara-da-construcao.shtml",
+      "date": "2026-05-15T09:00:00",
+      "description": "Um estudo da CBIC (Câmara Brasileira da Indústria da Construção) aponta que o fim da escala 6x1 pode encarecer as obras populares no país e, com isso, reduzir o número de entregas no âmbito do Minha Casa, Minha Vida. Leia mais (05/15/2026 - 06h00)"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "Endividamento de famílias paulistas atinge 72,9%, maior nível em três anos, diz FecomercioSP",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/05/endividamento-de-familias-paulistas-atinge-729-maior-nivel-em-tres-anos-diz-fecomerciosp.shtml",
+      "date": "2026-05-15T09:00:00",
+      "description": "O endividamento das famílias paulistas voltou a subir e chegou a 72,9% em abril, o maior registro da FecomercioSP (Federação do Comércio de Bens, Serviços e Turismo de São Paulo ) em três anos. Ao todo, 3,28 milhões de lares na capital paulista estão com algum tipo de dívida aberta. Leia mais (05/15"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "Contratado da Globo, Edilson Capetinha grava programa de Copa no SBT sem avisar",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/05/contratado-da-globo-edilson-capetinha-grava-programa-de-copa-no-sbt-sem-avisar.shtml",
+      "date": "2026-05-15T09:00:00",
+      "description": "Contratado da Globo desde sua participação no BBB 26 , Edilson Capetinha esteve no SBT na última quarta-feira (13). O ex-jogador gravou uma participação no Torcida SBT, programa que será transmitido antes dos jogos da Copa do Mundo que serão exibidos pela TV da família Abravanel. Leia mais (05/15/20"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "Ministério Público diz ser ilegal contratação de PMs para atuar em escolas",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/05/ministerio-publico-diz-ser-ilegal-contratacao-de-pms-para-atuar-em-escolas.shtml",
+      "date": "2026-05-15T09:00:00",
+      "description": "O Ministério Público defendeu a anulação do edital do governo Tarcísio de Freitas (SP) que prevê a contratação de policiais militares da reserva para a função de monitores das escolas cívico-militares . Leia mais (05/15/2026 - 06h00)"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Mudança brusca de temperatura acende alerta para rinite e sinusite",
+      "link": "https://www.cnnbrasil.com.br/saude/mudanca-brusca-de-temperatura-acende-alerta-para-rinite-e-sinusite/",
+      "date": "2026-05-15T08:55:05",
+      "description": "Especialista explica como condições climáticas comprometem o nariz e levam ao aumento de rinite e sinusite"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Onde é feriado em 15 de maio? Veja lista de cidades do Brasil que celebram a data",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGFiVXFTTGdIMy1Zek9nVmwzUGI1YVdpb1lIV2xaX2FQVTBrTkg1RWRKT3ZkaklhcWxXSnJUTkcxX2lYbjRubmdNdUR0ZjhBOGJfU2drWllJTENHTWFLb2xHY3FWdkh5YXRBY0cxTUlvOExtRXhGNFBXU3BMd2c1NHp3OVJHVTFyQlNOUzZtM3REdW41T0tVOHhuNXZHTVFyNEhDUDYxZlJTbldKNUxMNjBjc0d2UdIBuwFBVV95cUxOZmt4aE1WYURlU1ZQSGl5YjhrS090LV9zVUotVzZrNkhUZGFxdjZrb0lLNEk5c3B6eWNOOFFIVlE0c2k2US1sbkpKRTB2Ukh4MWRaQ1Q0WXM2MEJ3NURLTW1lempKRG9Rd1NhMzNUOExOT1NUSDF6aGxsWFExSUFrYjZHeVNpTzdPd3BaMXZueUVnaU1SNjBBTXNRZ1E3Q19iWDlZYi14eF9EVnUzcEc0R2xsT1VhVGpveHpB?oc=5",
+      "date": "2026-05-15T08:30:00+00:00",
+      "description": "Onde é feriado em 15 de maio? Veja lista de cidades do Brasil que celebram a data  Estadão"
     },
     {
       "source": "CNN Brasil",
@@ -82,22 +562,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZXNjU0Q0cmNTdU1JZ2JGckQxZlp0b3kzWnlTMHhKbFloZnNXZHdaMXE1ZWVuMkFQMGY2MXZEVjBMY0xaOXZqcWtuS2xUX0w5UXExMWhCTjYyMm9KSmZDbi1wRDhNdzR6d21OV3c2dlZiUktESHRZQzlsV0ZMc0ZFWkZxUUNKTmFiOV9obmZuWWx0bS1ydU9mNXF4WTR3elRwLUd3NTdoRmtGOUt4SjJRT1hNdkFPQnlxOUZ0Z3dGTG05RGxhc0pJZER2bzhuc3JBVzRjbW1wS0NkZTA?oc=5",
       "date": "2026-05-15T08:00:00",
       "description": "Titãs incluem Porto Alegre (RS) e Ribeirão Preto (SP) na rota da turnê que celebra os 40 anos de \"Cabeça Dinossauro\" Tonoshow"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Empresário Saul Klein vira réu por exploração sexual de mulheres",
-      "link": "https://www.metropoles.com/brasil/empresario-saul-klein-vira-reu-por-exploracao-sexual-de-mulheres",
-      "date": "2026-05-15T07:50:07",
-      "description": "Defesa alega que empresário mantinha relação consensual com mulheres, no contexto de dinâmica conhecida como \"sugar daddy\" e \"sugar baby\""
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Anvisa deve decidir nesta sexta (15/5) sobre suspensão de produtos Ypê",
-      "link": "https://www.metropoles.com/brasil/anvisa-deve-decidir-nesta-sexta-15-5-sobre-suspensao-de-produtos-ype",
-      "date": "2026-05-15T07:45:59",
-      "description": "Colegiado analisa pedido da empresa em reunião extraordinária. Devido ao recurso, a suspensão aplicada pela Anvisa não está valendo"
     },
     {
       "source": "CNN Brasil",
@@ -198,18 +662,18 @@
     {
       "source": "Google News",
       "group": "Nacional",
-      "title": "Do caminhão ao navio: como funciona a operação de grãos no Porto de Rio Grande",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1V4eHYtbkpnYW1PelUzWVQxYjAzdjRfVnZFajc5bWFuWUpScHk0dURJQWJyRUhzZEdaZmRaamk0WUZRNXFzM19YZTEtZDUyWnVEMUVFel9iZDVJbW9tcTRrdlRib0pwVTQwRjBPM3otaml2YXFNNUFFb2xyOW9Ob19QUHlGNk5CSC1IOEZHQWNZaDhkZUh3VHBZRHlPUUVGSWplMDZLMlYzLUIya0JwcmxOLUlyUQ?oc=5",
-      "date": "2026-05-15T07:04:41+00:00",
-      "description": "Do caminhão ao navio: como funciona a operação de grãos no Porto de Rio Grande  GZH"
-    },
-    {
-      "source": "Google News",
-      "group": "Nacional",
       "title": "Gado, erva e trabalho coletivo: herança missioneira que move a economia do Rio Grande",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPM1B4ZWpQQnhoXzRZUVU3TkNmcnBrckpMdHlQa1RLQ2ZGWlE1VVo0b3hEM0d6VE1pcms1SUlFaDhCTm9yRkJ5OXo5OUVRMThFZ1A5b3pDR2w4TGdYUFAzZWx1ZHNid2EtN3NQQVFTN3R5VUdKVklqR2FxRUhXWEJaVEl5WGpmMlVycE5oUVJDVjhJWVIzUlBQVW1JQUhMLVVCQWpBamJDT0RrajJlalMzaS1JYlFXNkVZTE53Wng1dHBwa0Q1QWZxbThvUVNIb05NdElJaXF0Z3p2OTNMNGN4MVRTaFRFYnZrSUxfZV9OeGxSTVBFcktoZGt5QXZUZFF4NzA5b01DVQ?oc=5",
       "date": "2026-05-15T07:04:41+00:00",
       "description": "Gado, erva e trabalho coletivo: herança missioneira que move a economia do Rio Grande  GZH"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Do caminhão ao navio: como funciona a operação de grãos no Porto de Rio Grande",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1V4eHYtbkpnYW1PelUzWVQxYjAzdjRfVnZFajc5bWFuWUpScHk0dURJQWJyRUhzZEdaZmRaamk0WUZRNXFzM19YZTEtZDUyWnVEMUVFel9iZDVJbW9tcTRrdlRib0pwVTQwRjBPM3otaml2YXFNNUFFb2xyOW9Ob19QUHlGNk5CSC1IOEZHQWNZaDhkZUh3VHBZRHlPUUVGSWplMDZLMlYzLUIya0JwcmxOLUlyUQ?oc=5",
+      "date": "2026-05-15T07:04:41+00:00",
+      "description": "Do caminhão ao navio: como funciona a operação de grãos no Porto de Rio Grande  GZH"
     },
     {
       "source": "CNN Brasil",
@@ -228,14 +692,6 @@
       "description": "A Entre Investimentos, empresa que teria sido utilizada por Daniel Vorcaro para financiar um filme sobre o ex-presidente Jair Bolsonaro ( PL ), é cotista de sete fundos na rede do Banco Master . Ao todo, esses fundos têm R$ 2,9 bilhões em ativos. Leia mais (05/15/2026 - 04h04)"
     },
     {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Trump encerra visita \"histórica\" e \"muito bem-sucedida\" à China",
-      "link": "https://www.metropoles.com/mundo/trump-encerra-visita-historica-e-muito-bem-sucedida-a-china",
-      "date": "2026-05-15T07:03:38",
-      "description": "Trump teve dois dias de conversas com Xi Jinping. Presidente chinês foi convidado a ir aos EUA em setembro"
-    },
-    {
       "source": "Folha de S.Paulo",
       "group": "Nacional",
       "title": "Não creio que morte da juíza tenha inspirado charge",
@@ -250,14 +706,6 @@
       "link": "https://www.cnnbrasil.com.br/politica/entorno-de-flavio-aposta-em-fidelizar-votos-e-em-2o-turno-apesar-de-crise/",
       "date": "2026-05-15T07:00:44",
       "description": "Entre a equipe do senador, há uma preocupação com migração de eleitores bolsonaristas para outros pré-candidatos da direita, e de eleitores de centro, muitos ainda indecisos"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Petista alvo de ação no STF acusa Flávio de tentar “silenciar” oposição",
-      "link": "https://www.metropoles.com/colunas/grande-angular/petista-alvo-de-acao-no-stf-acusa-flavio-de-tentar-silenciar-oposicao",
-      "date": "2026-05-15T07:00:43",
-      "description": "Rogério Correia (PT-MG) virou alvo de queixa-crime de Flávio Bolsonaro após vídeo sobre mansão atribuída a Richarlison em Angra dos Reis"
     },
     {
       "source": "CNN Brasil",
@@ -412,44 +860,12 @@
       "description": "Cadastro deve ser feito no site do Inep com o login da conta do gov.br"
     },
     {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Palestra de Gustavo Zerbino reforça o poder da esperança em cenários impossíveis",
-      "link": "https://www.metropoles.com/conteudo-especial/palestra-reforca-o-poder-da-esperanca-em-cenarios-impossiveis",
-      "date": "2026-05-15T06:07:27",
-      "description": "Gustavo Zerbino, um dos 16 sobreviventes do acidente aéreo que chocou o mundo em 1972, compartilha aprendizados em palestra em Brasília"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Treta sobre livro sobre sexualidade e gênero adotado por escola do CBMDF revolta pais: \"Podre\"",
-      "link": "https://www.metropoles.com/distrito-federal/na-mira/treta-sobre-livro-adotado-por-escola-do-cbmdf-revolta-pais-podre",
-      "date": "2026-05-15T06:03:37",
-      "description": "Famílias de alunos do 4º ano do Colégio Militar Dom Pedro II reagem à adoção de livro e questionam conteúdo apresentado a crianças de 9 anos"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Jogada de Zema contra Flávio respinga em Minas e isola Simões",
-      "link": "https://www.metropoles.com/minas-gerais/jogada-de-zema-contra-flavio-respinga-em-minas-e-isola-simoes",
-      "date": "2026-05-15T06:00:58",
-      "description": "Presidentes do PSD e do PL vêm prejuízo e muita dificuldade numa possível aproximação; ainda assim, Cássio Soares acredita em composição"
-    },
-    {
       "source": "G1 RS",
       "group": "Nacional",
       "title": "Entenda o impacto no RS da decisão da União Europeia que veta exportações de carne brasileira",
       "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/15/entenda-o-impacto-no-rs-da-decisao-da-uniao-europeia-que-veta-exportacoes-de-carne-brasileira.ghtml",
       "date": "2026-05-15T06:00:41",
       "description": "Entenda o impacto no RS da decisão da União Europeia que veta exportações de carne\nDevido às regras contra o uso excessivo de antimicrobianos na pecuária, a União Europeia (UE) excluiu o Brasil da lista de países autorizados a exportar carne e outros produtos de origem animal para a Europa. O país f"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "O que está na mesa em \"última cartada\" de Lula por Pacheco em MG",
-      "link": "https://www.metropoles.com/minas-gerais/o-que-esta-na-mesa-em-ultima-cartada-de-lula-por-pacheco-em-mg",
-      "date": "2026-05-15T06:00:35",
-      "description": "\"Convocado\" por Lula, Pacheco resiste a concorrer em Minas, mas deixa porta aberta para acerto considerado difícil"
     },
     {
       "source": "CNN Brasil",
@@ -460,14 +876,6 @@
       "description": "Denúncias feitas pela Unilever contra a Química Amparo, em 2025 e 2026, deram início as investigações"
     },
     {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Abono salarial PIS/Pasep 2026: novo pagamento será feito nesta sexta",
-      "link": "https://www.metropoles.com/brasil/abono-salarial-pis-pasep-2026-novo-pagamento-sera-feito-nesta-sexta",
-      "date": "2026-05-15T05:39:15",
-      "description": "Mais de 4,5 milhões de beneficiados integram o quarto lote do benefício, que deve distribuir R$ 5,7 bilhões."
-    },
-    {
       "source": "Folha de S.Paulo",
       "group": "Nacional",
       "title": "PT de Porto Alegre pede punição a vereador por arrancar microfone de colega",
@@ -476,52 +884,12 @@
       "description": "O PT de Porto Alegre e a bancada parlamentar do partido na Câmara Municipal vão pedir a punição do vereador Mauro Pinheiro (PP) após ele arrancar o microfone da vereadora Juliana de Souza (PT) enquanto ela fazia um aparte, em sessão realizada na quarta-feira (13). Leia mais (05/15/2026 - 02h38)"
     },
     {
-      "source": "Metrópoles",
+      "source": "Google News RS",
       "group": "Nacional",
-      "title": "\"Desprezo pela vida\", diz promotor em júri de assassino de Thalita Berquó",
-      "link": "https://www.metropoles.com/distrito-federal/desprezo-pela-vida-diz-promotor-em-juri-de-assassino-de-thalita-berquo",
-      "date": "2026-05-15T05:36:05",
-      "description": "Vítima de 36 anos foi morta com 18 facadas e golpeada com pauladas e pedradas por desavença com traficantes. Crime ocorreu no início de 2025"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Juíza ameaça busca e apreensão contra edital \"relâmpago\" do Poupatempo",
-      "link": "https://www.metropoles.com/sao-paulo/juiza-ameaca-busca-e-apreensao-contra-edital-relampago-do-poupatempo",
-      "date": "2026-05-15T05:30:40",
-      "description": "Justiça dá 15 dias para Prodesp se explicar se apresentou estudos somente após o chamamento para parceria privada na gestão do Poupatempo"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Sistema de tornozeleira eletrônica no DF já ocupa 44,3% da capacidade",
-      "link": "https://www.metropoles.com/distrito-federal/sistema-de-tornozeleira-eletronica-no-df-ja-ocupa-443-da-capacidade",
-      "date": "2026-05-15T05:25:39",
-      "description": "Segundo a Seape-DF, entre janeiro e abril de 2026, houve um aumento de 8,6% quanto ao uso de tornozeleiras eletrônicas na capital"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Advogado usava maquininha para oferecer falsos rendimentos a clientes",
-      "link": "https://www.metropoles.com/distrito-federal/na-mira/advogado-usava-maquininha-para-oferecer-falsos-rendimentos-a-clientes",
-      "date": "2026-05-15T05:17:47",
-      "description": "Advogado marcava encontros com amigos e familiares para oferecer “aportes jurídicos”, e uma das vítimas afirma ter parcelado R$ 80 mil"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "MBL luta na Justiça para trocar Kim por Arthur do Val na eleição de SP",
-      "link": "https://www.metropoles.com/sao-paulo/mbl-justica-sp",
-      "date": "2026-05-15T05:15:41",
-      "description": "Missão, partido do MBL, tenta reverter inelegibilidade de Arthur do Val no STJ e liberar Kim Kataguiri para reeleição como deputado federal"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "MPSP vê ligação entre “chave do tráfico” e PM que matou policial civil",
-      "link": "https://www.metropoles.com/sao-paulo/mpsp-ligacao-chave-trafico-pm-rota",
-      "date": "2026-05-15T05:15:15",
-      "description": "Denúncia do MPSP contra sargento da Rota destaca que o militar tinha acesso prévio a uma chave de portão instalado por traficantes"
+      "title": "Titãs abrem venda de ingressos para shows, em Porto Alegre (RS) e Ribeirão Preto (SP) - Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRzljVl9QeUd2ZndRNkdsYm16MDdPWmVVeHp3Z2h2Q1Eyc3hucFgxeUYtYWIzdHh2cHJGSzJNMjJ3Y1Bxa05sMkxmNzkyN3JfdkRSMFdwejdSNkdKWmNkWnFqSWFnZEdkMWdlYU5uR1lPLWFvNm9nTnpkSWRtUjBtYlJRbFgzdmk1VXNCUDhyYVdDWjFIcmJMaV9qRnF3eVpmUFYyU041QXdIYk45UzM2cDgtaEpWX3ExeWNwU096SnRZellVTlFVcQ?oc=5",
+      "date": "2026-05-15T05:32:49",
+      "description": "Titãs abrem venda de ingressos para shows, em Porto Alegre (RS) e Ribeirão Preto (SP) Radio Sanca Web TV"
     },
     {
       "source": "CNN Brasil",
@@ -530,30 +898,6 @@
       "link": "https://www.cnnbrasil.com.br/branded-content/economia/negocios/compra-de-imovel-como-avaliar-se-uma-construtora-e-confiavel/",
       "date": "2026-05-15T05:11:24",
       "description": "Especialistas recomendam análise de certidões, visitas a obras entregues e consulta a órgãos de defesa do consumidor para mitigar riscos"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "SP tem João Gomes e Gloria Groove de graça, Hamlet e feira do livro",
-      "link": "https://www.metropoles.com/sao-paulo/sp-joao-gomes-hamlet-livro",
-      "date": "2026-05-15T05:05:57",
-      "description": "Neste final de semana, a capital paulista recebe shows gratuitos de João Gomes e de Gloria Groove, exposição no Masp e programação infantil"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Exclusivo: chanceler do Irã revela clima em reunião polêmica dos Brics",
-      "link": "https://www.metropoles.com/mundo/exclusivo-chanceler-do-ira-revela-clima-em-reuniao-polemica-dos-brics",
-      "date": "2026-05-15T05:01:15",
-      "description": "Ao Metrópoles, chanceler Abbas Araghchi disse que a guerra no Oriente Médio gerou embates com os Emirados Árabes Unidos em reunião dos Brics"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Guerra no Irã expõe racha entre países dos Brics em reunião na Índia",
-      "link": "https://www.metropoles.com/mundo/guerra-no-ira-expoe-racha-entre-paises-dos-brics-em-reuniao-na-india",
-      "date": "2026-05-15T05:01:12",
-      "description": "Bloco se reúne nesta semana para Cúpula de Chanceleres dos Brics, na Índia, mas guerra no Oriente Médio elevou tensão entre membros"
     },
     {
       "source": "G1 RS",
@@ -586,6 +930,14 @@
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/05/acquavias-assina-contrato-com-governo-de-sao-paulo-para-travessias-hidricas.shtml",
       "date": "2026-05-15T04:00:00",
       "description": "Foi assinado nesta sexta-feira (15), o contrato da PPP (Parceria Público-Privada) do sistema de travessias hídricas. O acordo envolve o governo de São Paulo , por meio da SPI (Secretaria de Parcerias em Investimentos), e o consórcio Acquavias SP (liderado pela Internacional Marítima Ltda). O investi"
+    },
+    {
+      "source": "O Sul",
+      "group": "RS",
+      "title": "Com mais de 800 vagas para acolhimento emergencial de pessoas em situação de rua nos dias mais frios, começa em Porto Alegre a “Operação Inverno” de 2026",
+      "link": "https://www.osul.com.br/com-mais-de-800-vagas-para-acolhimento-emergencial-de-pessoas-em-situacao-de-rua-nos-dias-mais-frios-comeca-em-porto-alegre-a-operacao-inverno-de-2026/",
+      "date": "2026-05-15T03:44:26",
+      "description": "A Secretaria Municipal de Assistência Social (Smas) de Porto Alegre iniciou nesta sexta-feira (15) mais uma “Operação Inverno”, conjunto de ações..."
     },
     {
       "source": "Google News RS",
@@ -894,6 +1246,14 @@
     {
       "source": "Folha de S.Paulo",
       "group": "Nacional",
+      "title": "Em Cannes, Isabelle Huppert vive escritora em crise em filme de Asghar Farhadi",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/05/em-cannes-isabelle-huppert-vive-escritora-em-crise-em-filme-de-asghar-farhadi.shtml",
+      "date": "2026-05-15T02:00:00",
+      "description": "Distante de seus filmes mais celebrados, \"A Separação\" e \"O Apartamento\", que se passavam no Irã, o novo filme de Asghar Farhadi , \"Parallel Tales\" , exibido nesta quinta-feira em Cannes , acontece em Paris. Leia mais (05/14/2026 - 23h00)"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
       "title": "Setor de milho espera evolução acelerada na produção do cereal",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/05/setor-de-milho-espera-evolucao-acelerada-na-producao-do-cereal.shtml",
       "date": "2026-05-15T02:00:00",
@@ -1092,68 +1452,12 @@
       "description": "Ex-deputado também justificou o fato de seu advogado ser gestor dos recursos utilizados na produção do filme sobre Jair Bolsonaro: \"Tem mais de 40 anos de experiência\""
     },
     {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Líbia: torcedores ateiam fogo em prédio do governo em protesto contra juiz",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libia-torcedores-ateiam-fogo-em-predio-do-governo-em-protesto-contra-juiz/",
-      "date": "2026-05-15T01:52:24",
-      "description": "Revolta começou com um pênalti não marcado em partida contra o Swehly"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Taiwan agradece apoio dos EUA antes de novas conversas entre Trump e Xi",
-      "link": "https://www.cnnbrasil.com.br/internacional/taiwan-agradece-apoio-dos-eua-antes-de-novas-conversas-entre-trump-e-xi/",
-      "date": "2026-05-15T01:52:01",
-      "description": "Ilha foi abordada nas conversas entre os líderes; secretário de Estado americano afirmou que a posição dos Estados Unidos segue inalterada"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Trump e Xi vão se encontrar em Zhongnanhai, sede oficial do governo chinês",
-      "link": "https://www.cnnbrasil.com.br/internacional/trump-e-xi-vao-se-encontrar-em-zhongnanhai-sede-oficial-do-governo-chines/",
-      "date": "2026-05-15T01:42:07",
-      "description": "Complexo com seis milhões de metros quadrados é considerado a \"Casa Branca\" da China"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Paul McCartney alfineta influenciadores: “Não parecem talentosos”",
-      "link": "https://www.cnnbrasil.com.br/entretenimento/paul-mccartney-alfineta-influenciadores-nao-parecem-talentosos/",
-      "date": "2026-05-15T01:40:15",
-      "description": "O cantor falou que evita tocar no assunto para não parecer \"careta\""
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Advogado de Eduardo gere fundo usado em filme de Bolsonaro, diz Flávio",
-      "link": "https://www.cnnbrasil.com.br/politica/advogado-de-eduardo-gere-fundo-usado-em-filme-de-bolsonaro-diz-flavio/",
-      "date": "2026-05-15T01:37:17",
-      "description": "Senador nega que verba para produzir filme teria sido repassada ao próprio irmão, para bancar o ex-deputado nos Estados Unidos"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Paul McCartney explica porque não tira selfie com fãs: “Me sinto um macaco”",
-      "link": "https://www.cnnbrasil.com.br/entretenimento/paul-mccartney-explica-porque-nao-tira-selfie-com-fas-me-sinto-um-macaco/",
-      "date": "2026-05-15T01:30:03",
-      "description": "Astro desabafou sobre a nova forma de interação com o público após a popularização dos celulares"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Homem que abandonou criança em ônibus em Porto Alegre após feminicídio é condenado a 32 anos de prisão",
       "link": "https://www.osul.com.br/homem-que-abandonou-crianca-em-onibus-em-porto-alegre-apos-feminicidio-e-condenado-a-32-anos-de-prisao/",
       "date": "2026-05-15T01:28:35",
       "description": "Júri popular realizado em Porto Alegre nessa quinta-feira (14) resultou em sentença de 32 anos de prisão a um réu acusado..."
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Fortaleza perde pênalti, mas segura CRB e se classifica na Copa do Brasil",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/fortaleza-perde-penalti-mas-segura-crb-e-se-classifica-na-copa-do-brasil/",
-      "date": "2026-05-15T01:26:31",
-      "description": "Leão do Pici garantiu a vaga graças à vantagem do jogo de ida"
     },
     {
       "source": "O Sul",
@@ -1178,22 +1482,6 @@
       "link": "https://www.osul.com.br/o-principal-erro-que-os-corredores-iniciantes-cometem-e-que-pode-causar-uma-lesao/",
       "date": "2026-05-15T01:12:20",
       "description": "Correr parece, à primeira vista, um dos esportes mais simples: basta sair e começar. No entanto, essa aparente facilidade pode se..."
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "“Levanta a mão de novo pra você ver”, diz Diniz a Gabriel Paulista; veja",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/levanta-a-mao-de-novo-pra-voce-ver-diz-diniz-a-gabriel-paulista-veja/",
-      "date": "2026-05-15T01:10:38",
-      "description": "Treinador do Corinthians reclamou da postura do zagueiro em lance defensivo no duelo contra o Barra pela Copa do Brasil"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Sandra Hüller é ovaciada de pé por 6 minutos no Festival de Cannes",
-      "link": "https://www.cnnbrasil.com.br/entretenimento/sandra-huller-e-ovaciada-de-pe-por-6-minutos-no-festival-de-cannes/",
-      "date": "2026-05-15T01:10:30",
-      "description": "A atriz alemã se emocionou com a recepção do público à sua atuação em 'Featherlands', novo filme de Paweł Pawlikowski"
     },
     {
       "source": "Google News",
@@ -1234,22 +1522,6 @@
       "link": "https://www.osul.com.br/nomes-como-jorge-aragao-dudu-nobre-xand-aviao-e-dorgival-dantas-agitaram-o-publico-na-festa-do-ministro-nunes-marques/",
       "date": "2026-05-15T01:06:33",
       "description": "O ministro do Supremo Tribunal Federal (STF) Kassio Nunes Marques tomou posse na presidência do Tribunal Superior Eleitoral (TSE) em grande..."
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Waack: Xi Jinping deixa claro que China não teme Trump",
-      "link": "https://www.cnnbrasil.com.br/internacional/waack-xi-jinping-deixa-claro-que-china-nao-teme-trump/",
-      "date": "2026-05-15T01:05:10",
-      "description": "O homem forte da China falou a Trump da Armadilha de Tucídides; um general e historiador grego segundo o qual, quando uma potência cresce - é o caso da China - e desafia a potência dominante - é o caso dos EUA"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Corinthians garante valor milionário com classificação na Copa do Brasil",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-garante-valor-milionario-com-classificacao-na-copa-do-brasil/",
-      "date": "2026-05-15T01:00:54",
-      "description": "Timão enfrentou o Barra na quinta fase do torneio e agora disputará as oitavas de final; CBF paga verba de acordo com vaga para cada etapa da competição"
     },
     {
       "source": "Folha de S.Paulo",
@@ -1316,22 +1588,6 @@
       "description": "Quando falamos em açúcar, costumamos pensar logo em doces, mas a glicose de que precisamos – e que é gerada após..."
     },
     {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Vitória abre o placar diante do Flamengo com golaço de Erick; veja",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/vitoria-abre-o-placar-diante-do-flamengo-com-golaco-de-erick-veja/",
-      "date": "2026-05-15T00:52:41",
-      "description": "Equipes miram a classificação para as oitavas de final da Copa do Brasil"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Doméstica agredida pela patroa pode ter perda auditiva de 50%",
-      "link": "https://www.cnnbrasil.com.br/nacional/nordeste/ma/domestica-agredida-pela-patroa-pode-ter-perda-auditiva-de-50/",
-      "date": "2026-05-15T00:52:07",
-      "description": "Após sentir fortes dores nos ouvidos, Samara Regina, grávida de cinco meses, realizou um exame que pode indicar perda auditiva severa após situação de violência"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Do que Daniel Vorcaro é acusado? Veja as suspeitas da Polícia Federal contra o dono do Banco Master",
@@ -1346,38 +1602,6 @@
       "link": "https://www.osul.com.br/policia-civil-gaucha-desarticula-grupo-neonazista-em-porto-alegre-jovem-apontado-como-lider-e-preso/",
       "date": "2026-05-15T00:45:55",
       "description": "Operação deflagrada pela Polícia Civil gaúcha desarticulou nessa quinta-feira (14) um grupo que atuava na divugação de ideologia neonazista e recrutamento..."
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Desenrola 2.0: Renegociações do Fies batem R$ 1,34 bilhão",
-      "link": "https://www.cnnbrasil.com.br/economia/financas/desenrola-2-0-renegociacoes-do-fies-batem-r-1-34-bilhao/",
-      "date": "2026-05-15T00:45:45",
-      "description": "Etapa do programa focada em estudantes endividados com Financiamento Estudantil começou a valer na quarta-feira (13)"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Flávio diz que aporte para filme previa retorno financeiro para Vorcaro",
-      "link": "https://www.cnnbrasil.com.br/politica/flavio-diz-que-aporte-para-filme-previa-retorno-financeiro-para-vorcaro/",
-      "date": "2026-05-15T00:45:35",
-      "description": "Em nova nota, senador nega que dinheiro do ex-banqueiro tenha sido destinado a Eduardo Bolsonaro e afirma que os valores foram enviados para um fundo da produção, nos EUA"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Confira os principais looks do 3º dia do Festival de Cannes",
-      "link": "https://www.cnnbrasil.com.br/lifestyle/confira-os-principais-look-do-3o-dia-do-festival-de-cannes/",
-      "date": "2026-05-15T00:44:19",
-      "description": "Nomes como Sandra Hüller. Seth Rogen. Julia Louis-Dreyfus e Chloe Zhao marcaram presença para exibição de filmes"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Suspeito de integrar esquema de pirâmide financeira é preso no Rio",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/suspeito-de-integrar-esquema-de-piramide-financeira-e-preso-no-rio/",
-      "date": "2026-05-15T00:43:16",
-      "description": "Investigados teriam movimentado cerca de R$ 50 milhões desde 2020"
     },
     {
       "source": "O Sul",
@@ -1417,7 +1641,7 @@
       "title": "Casal morre e filha de 1 ano fica gravemente ferida em acidente na BR-116 entre carro e caminhão",
       "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/14/acidente-br-116-duas-mulheres-mortas-bebe-colisao-carro-caminhao.ghtml",
       "date": "2026-05-15T00:35:49",
-      "description": "Neila Patrícia Gomes de Medina e Débora Juliana Marques\nReprodução/ Redes Sociais\nUm casal morreu em um acidente de trânsito na BR-116, na altura do km 233, em Estância Velha, nesta quinta-feira (14). As vítimas foram identificadas como Neila Patrícia Gomes de Medina e Débora Juliana Marques. A iden"
+      "description": "Casal morre e filha de 1 ano fica gravemente ferida em acidente na BR-116\nUm casal morreu em um acidente de trânsito na BR-116, na altura do km 233, em Novo Hamburgo, na Região Metropolitana de Porto Alegre, nesta quinta-feira (14). As vítimas foram identificadas como Neila Patrícia Gomes de Medina "
     },
     {
       "source": "O Sul",
@@ -1562,14 +1786,6 @@
       "link": "https://www.osul.com.br/lula-planeja-destinar-credito-de-r-30-bilhoes-para-motoristas-de-aplicativo-e-taxi/",
       "date": "2026-05-14T23:46:16",
       "description": "O governo federal planeja a destinação de até R$ 30 bilhões de recursos do Tesouro Nacional ao programa de crédito voltado..."
-    },
-    {
-      "source": "O Sul",
-      "group": "RS",
-      "title": "Com mais de 800 vagas para acolhimento emergencial de pessoas em situação de rua nos dias mais frios, começa em Porto Alegre a “Operação Inverno” de 2026",
-      "link": "https://www.osul.com.br/com-mais-de-800-vagas-para-acolhimento-emergencial-de-pessoas-em-situacao-de-rua-nos-dias-mais-frios-comeca-em-porto-alegre-a-operacao-inverno-de-2026/",
-      "date": "2026-05-14T23:44:26",
-      "description": "A Secretaria Municipal de Assistência Social (Smas) de Porto Alegre inicia nesta sexta-feira (15) mais uma “Operação Inverno”, conjunto de ações..."
     },
     {
       "source": "Folha de S.Paulo",
@@ -2020,14 +2236,6 @@
       "description": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), disse nesta quinta-feira (14) que o senador Flávio Bolsonaro (PL-SP) “deu a..."
     },
     {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Em reunião com diretor da Secretaria Administrativa do Foro da Justiça Federal, Sintrajufe/RS cobra readequação da política sobre diárias; AQ só será pago em junho na JF - Sintrajufe",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNUHZMTktabDhIaV9EdEc1QmRsVlo5UmgzUXRCMUFTNzBoNG9KUmpxUkdRZUp0UWxaZFZrWXBJWDFWX0k1UG1SNEtKbXNaTjkzZzU1UjloUTlVbjRBT2ljaVlodnUwdE5uREtMX1U4b09BQ1NqX3V4OS1GamFnTnY4bEhHUkUxa2M3ZVRKTWljNmJoZG11VTdYNWdSYlhsVU51N09CaWphNHRJT3JkSXdMVXNwbGhvazdrNTRIcDdpd3hjcGFUdlFaXzdjMWFINmxhNGx2RkJuUlFxYWtXeW85c0FQaWhfN0NpOUs3OFlFUnZLQzhxMmdCdmFsc0lqNVF5TlpXYloybmYwMEU2NERJbUJnZlZGUnNiYVlEWkxvZw?oc=5",
-      "date": "2026-05-14T21:36:46+00:00",
-      "description": "Em reunião com diretor da Secretaria Administrativa do Foro da Justiça Federal, Sintrajufe/RS cobra readequação da política sobre diárias; AQ só será pago em junho na JF  Sintrajufe - RS"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Pezzolano prepara novidades no Inter para o embate contra o Vasco pelo Brasileirão",
@@ -2066,14 +2274,6 @@
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/05/cni-pede-ao-tcu-suspensao-do-leilao-de-energia-e-calcula-custos-de-ate-r-800-bi.shtml",
       "date": "2026-05-14T21:30:00",
       "description": "A CNI (Confederação Nacional da Indústria) protocolou pedido no TCU (Tribunal de Contas da União) de medida cautelar para suspender os atos de transferência e homologação do LRCAP 2026 (Leilão de Reserva de Capacidade de 2026) até que as análises técnicas da corte sejam realizadas. Leia mais (05/14/"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Novo Desenrola pode renegociar até R$ 77,7 bilhões em dívidas, estimam analistas",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/novo-desenrola-pode-renegociar-ate-r-777-bilhoes-em-dividas-estimam-analistas.shtml",
-      "date": "2026-05-14T21:30:00",
-      "description": "A nova versão do Desenrola Brasil tem potencial para renegociar entre R$ 62,7 bilhões e R$ 77,7 bilhões em dívidas de brasileiros, segundo relatórios do BTG Pactual e da XP Investimentos. Para as instituições financeiras, o programa pode aliviar a situação de consumidores endividados e inadimplentes"
     },
     {
       "source": "O Sul",
@@ -2132,14 +2332,6 @@
       "description": "Servidores do Judiciário protestam por reajuste salarial no RS  Brasil de Fato"
     },
     {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Violências sexuais contra prisioneiros palestinos em Gaza",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2026/05/violencias-sexuais-contra-prisioneiros-palestinos-em-gaza.shtml",
-      "date": "2026-05-14T21:14:00",
-      "description": "Li um artigo de Nicholas Kristof no jornal The New York Times sobre as denúncias de violências sexuais contra palestinos em prisões israelenses. O texto foi publicado nesta terça-feira (12) pela Folha graças à parceria entre os dois jornais e trouxe ao leitor informações detalhadas sobre estupros em"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "“Caso dele é de polícia”, diz o presidente Lula sobre pedido de dinheiro de Flávio Bolsonaro a Vorcaro",
@@ -2172,14 +2364,6 @@
       "description": "Numa manhã chuvosa em Paris, um pequeno grupo de funcionários da prefeitura da cidade sobe uma rua íngreme e estreita no..."
     },
     {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Elenco de 'Velozes e Furiosos' homenageia Paul Walker em Cannes",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/05/elenco-de-velozes-e-furiosos-homenageia-paul-walker-em-cannes.shtml",
-      "date": "2026-05-14T21:03:00",
-      "description": "Paul Walker foi homenageado nesta quinta-feira (14) durante uma celebração dos 25 anos de \" Velozes e Furiosos \" no Festival de Cannes . Parte do elenco da franquia se reuniu no Teatro Grand Lumière para uma sessão especial que relembrou a trajetória da saga e do ator, morto em 2013. Leia mais (05/1"
-    },
-    {
       "source": "Google News",
       "group": "Nacional",
       "title": "Governo do Estado é finalista da 10ª edição do Prêmio Sim à Igualdade Racial na categoria Escolas Sim: Secretarias de Educação",
@@ -2188,52 +2372,12 @@
       "description": "Governo do Estado é finalista da 10ª edição do Prêmio Sim à Igualdade Racial na categoria Escolas Sim: Secretarias de Educação  Portal do Estado do Rio Grande do Sul"
     },
     {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Oliver Stone diz que Vorcaro não financiou filme sobre Lula",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/05/oliver-stone-diz-que-vorcaro-nao-financiou-filme-sobre-lula.shtml",
-      "date": "2026-05-14T21:00:00",
-      "description": "O diretor norte-americano Oliver Stone afirma que o filme \"Lula\", que ele dirigiu em parceria com Rob Wilson, não recebeu qualquer recurso de Daniel Vorcaro . Leia mais (05/14/2026 - 18h00)"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Projeto quer elevar orçamento de Defensorias Públicas para 2% da receita dos estados",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/projeto-quer-elevar-orcamento-de-defensorias-publicas-para-2-da-receita-dos-estados.shtml",
-      "date": "2026-05-14T21:00:00",
-      "description": "Após articulação de defensores públicos, o Senado pode começar a analisar um projeto que amplia o orçamento destinado às Defensorias Públicas nos estados. O projeto do senador Jorge Kajuru ( PSB -GO) estabelece um patamar de 2% da receita dos estados para os órgãos. Leia mais (05/14/2026 - 18h00)"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "O risco mais perigoso quase nunca aparece no extrato",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/05/o-risco-mais-perigoso-quase-nunca-aparece-no-extrato.shtml",
-      "date": "2026-05-14T21:00:00",
-      "description": "Existem perdas que assustam imediatamente e perdas que acontecem em silêncio. Curiosamente, a maioria dos investidores teme muito mais as primeiras. Uma queda temporária no extrato provoca angústia instantânea. Já anos de perda de poder de compra causados pela inflação costumam passar despercebidos."
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Bocejo é contagioso até entre gestante e feto",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/suzanaherculanohouzel/2026/05/bocejo-e-contagioso-ate-entre-gestante-e-feto.shtml",
-      "date": "2026-05-14T21:00:00",
-      "description": "Somos macacos-de-imitação, todos nós: temos a tendência a repetir as ações que vemos os outros fazerem. Vittorio Gallese, neurocientista da Universidade de Parma, na Itália , foi um dos membros da equipe que, no início dos anos 1990, demonstrou como isso acontece, com a descoberta do que eles chamar"
-    },
-    {
       "source": "Agora RS",
       "group": "RS",
       "title": "Frio segue no RS, mas chuva volta no fim de semana",
       "link": "https://agorars.com/agora-no-tempo/frio-segue-no-rs-mas-chuva-volta-no-fim-de-semana/",
       "date": "2026-05-14T20:59:42",
       "description": "Crédito: Secretaria da Agricultura do RS /Divulgação Tempo fica firme na sexta e no sábado. Instabilidade deve atingir principalmente a Metade Norte e áreas próximas ao Litoral O post Frio segue no RS, mas chuva volta no fim de semana apareceu primeiro em Agora RS ."
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Juiz dos EUA determina retorno de colombiana deportada à República Democrática do Congo",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/05/juiz-dos-eua-determina-retorno-de-colombiana-deportada-a-republica-democratica-do-congo.shtml",
-      "date": "2026-05-14T20:58:00",
-      "description": "Um juiz federal entendeu na quarta-feira (13) que o governo de Donald Trump provavelmente violou a lei ao deportar uma colombiana para a República Democrática do Congo em abril, apesar de o país africano ter se recusado a recebê-la. Leia mais (05/14/2026 - 17h58)"
     },
     {
       "source": "Google News",
@@ -2260,84 +2404,12 @@
       "description": "Indústria gaúcha retoma crescimento e acelera ritmo de vendas no início de 2026  Portal do Estado do Rio Grande do Sul"
     },
     {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "PM agride homem rendido durante abordagem em favela de São Paulo",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/05/pm-agride-homem-rendido-durante-abordagem-em-favela-de-sao-paulo.shtml",
-      "date": "2026-05-14T20:46:00",
-      "description": "Um policial militar agrediu um homem durante abordagem na favela de Heliópolis, na zona sul, de São Paulo . A ação foi gravada por uma estemunha. Leia mais (05/14/2026 - 17h46)"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Trabalhadores por conta própria têm jornada 13,6% maior que a de empregados no Brasil",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/trabalhadores-por-conta-propria-tem-jornada-136-maior-que-a-de-empregados-no-brasil.shtml",
-      "date": "2026-05-14T20:45:00",
-      "description": "Profissionais por conta própria têm jornadas de trabalho maiores do que empregados e empregadores no Brasil, segundo dados divulgados nesta quinta-feira (14) pelo IBGE (Instituto Brasileiro de Geografia e Estatística). Leia mais (05/14/2026 - 17h45)"
-    },
-    {
       "source": "Google News",
       "group": "Nacional",
       "title": "Colheita de soja se aproxima do fim no Rio Grande do Sul",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMkNVc19WRGJ0ZTF5anJkNkNnLURtaGJwM3oyLVNQWnlMN3pmLWdXTHhtLXlRRFlqeVkxUktBcWpVbHdkNnRiX01uMTRmV21xaXJBanJTbi1aOHlXZHVrb3BuMW43V2czbC1raHZIdTZFdXNOelpqdkg2WW8wc1BWUGVsNGdZekVqemtyYXg3a1RxMkNOTlluV01GbkFqSWZxd0JTdXd0VTJ0Q0pZd0s0MkVrd0NUVzR0Qk1kUVl1RF9SZ9IB0AFBVV95cUxQbVFncVloWlZDUGhTdjBLdDJXdFpDYi1WUWJDM1B2TnVaR0o4cnBhd2FvQ3lnS2JMTFlwdlhqb2Ffd21YR0stNXRoaW4zQktBbjNxWGJ4Z2VOQkNVejhHemdsWXhCclE2TW82ckV6Y0NHdjd2TkJmSFdUb19RU3BJMDlFY045Y18xT3UwbEIyMFVhbzRlLTF4cGt4WFpYQlpPZVQxX1JJak1rcEVNelZXRDZhZkdzM2hheUdiVmVoMEhGVmRqRlpFSk1xNklHcDlZ?oc=5",
       "date": "2026-05-14T20:41:34+00:00",
       "description": "Colheita de soja se aproxima do fim no Rio Grande do Sul  Globo Rural"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Novas diretrizes para tratamento da fibromialgia incluem prática de atividade física",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/05/novas-diretrizes-para-tratamento-da-fibromialgia-incluem-pratica-de-atividade-fisica.shtml",
-      "date": "2026-05-14T20:41:00",
-      "description": "A prática de exercícios físicos , a psicoterapia e o tratamento interdisciplinar ganharam destaque nas novas diretrizes para o manejo da fibromialgia pela SBR (Sociedade Brasileira de Reumatologia). A atualização incorporada evidências científicas recentes, visto que as últimas recomendações eram de"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Consórcio liderado por Odebrecht espera assinatura de contrato para começar obra em linha do metrô",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/05/consorcio-liderado-por-odebrecht-espera-assinatura-de-contrato-do-metro-para-comecar-obra-em-linha-do-metro.shtml",
-      "date": "2026-05-14T20:40:00",
-      "description": "Nos bastidores da construção da Linha 19-Celeste, o vencedor do lote três, um consórcio liderado pela Odebrecht, espera movimentação do metrô de São Paulo para a assinatura dos contratos e início das obras. Também fazem parte do grupo vencedor a Álya e a italiana Ghella. Elas questionam a demora par"
-    },
-    {
-      "source": "Google News RS",
-      "group": "Nacional",
-      "title": "Titãs abrem venda de ingressos para shows, em Porto Alegre (RS) e Ribeirão Preto (SP), da turnê que celebra os 40 anos de \"Cabeça Dinossauro\" - Tonoshow",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNc3p3WHZsMXkwbHRjWVhLTjdNc1R6T29QT0Rqa0h5Nmt0RWd4Szl6aFp1RFlmNVB0TEhESzdkR3FsQ2IzTV9KdmZ3VTJmWThqdkRPb2Fkd1ZIdjZKcWFrM0N6NXY3eW9Rc0ktRldwSGNmaXR5ZUlIRWxodXlSU3VYY2M1bEhiNmV3MFp3YUpwaWJseWZkR3NiNldFempsbVVSMldYQmtPWlUxNmZfbVVIZmRtNmxFS3lRYzE1dXY4eTI5SGFrS2czSGVWUTdKZjlKSm1QRFozcFJaVnZLTGlUV2c2T1lPT20tMHdlc25GeWF0THZqci1KZXFCVQ?oc=5",
-      "date": "2026-05-14T20:39:21",
-      "description": "Titãs abrem venda de ingressos para shows, em Porto Alegre (RS) e Ribeirão Preto (SP), da turnê que celebra os 40 anos de \"Cabeça Dinossauro\" Tonoshow"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Vale abre vendas de bilhetes para trem noturno nas férias de julho",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/05/vale-abre-vendas-de-bilhetes-para-trem-noturno-nas-ferias-de-julho.shtml",
-      "date": "2026-05-14T20:34:00",
-      "description": "A Vale abrirá neste domingo (17) as vendas para as viagens do trem noturno da Estrada de Ferro Vitória a Minas para o mês de julho. Leia mais (05/14/2026 - 17h34)"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Fabio Porchat ironiza título de persona non grata no Rio: 'Vou continuar xingando político'",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/05/fabio-porchat-ironiza-titulo-de-persona-non-grata-no-rio-vou-continuar-xingando-politico.shtml",
-      "date": "2026-05-14T20:32:00",
-      "description": "O humorista e apresentador Fabio Porchat comentou com ironia a decisão da Comissão de Constituição e Justiça da Alerj que aprovou um projeto para declará-lo persona non grata no estado do Rio de Janeiro . Leia mais (05/14/2026 - 17h32)"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Leilão de saneamento da Paraíba recebe proposta da espanhola Acciona",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/leilao-de-saneamento-da-paraiba-recebe-proposta-da-espanhola-acciona.shtml",
-      "date": "2026-05-14T20:30:00",
-      "description": "A espanhola Acciona entregou proposta para o leilão do serviço de saneamento básico da Paraíba, que será realizado nesta sexta-feira (15), na B3, a Bolsa de Valores de São Paulo. Leia mais (05/14/2026 - 17h30)"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Entidades da sociedade civil discutem código de conduta dos tribunais com Fachin",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/05/entidades-da-sociedade-civil-discutem-codigo-de-conduta-dos-tribunais-com-fachin.shtml",
-      "date": "2026-05-14T20:30:00",
-      "description": "Nove entidades da sociedade civil se reúnem na próxima quarta-feira (20) com o presidente do STF (Supremo Tribunal Federal), ministro Edson Fachin , para tratar do código de conduta para ministros de tribunais superiores. Leia mais (05/14/2026 - 17h30)"
     },
     {
       "source": "Google News RS",
@@ -2442,14 +2514,6 @@
       "link": "https://www.osul.com.br/vinicola-galiotto-conquista-multiplos-premios/",
       "date": "2026-05-14T19:57:56",
       "description": "A Vinícola Galiotto está entre os destaques do 1º Concurso do Suco de Uva Brasileiro, promovido pela Associação Brasileira de Enologia...."
-    },
-    {
-      "source": "Google News RS",
-      "group": "Nacional",
-      "title": "Yan se apresenta no Rio Grande do Sul neste sábado - Jornal da Capital",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPby03OHktOUNPRVRrQ1NYaU9kZTJZei1UbEFaYkdZZVFNWjZzcVlqWXoycnhraTdSRmtVMVI0a1BaTnRDNjBhV3VkM3R5V0F2ZVU1MUkzWWR1anJiUDdpVmthczA3YTBvR0dTWnU5TzJGSmFOVXBlVnB6eVFqZnlNckRHc0hfTWZVUDBHMG9OSXAza3p5WWNrVkh4eVV1bEhpVkE?oc=5",
-      "date": "2026-05-14T19:54:25",
-      "description": "Yan se apresenta no Rio Grande do Sul neste sábado Jornal da Capital"
     },
     {
       "source": "Google News",
@@ -2668,14 +2732,6 @@
       "description": "Noite no Espaço Cultural 512 reúne o indie gaúcho para celebrar a nova fase da artista travesti que funde pop eletrônico e dance punk"
     },
     {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Desenrola Fies pode renegociar 39 mil contratos no RS — Ministério da Educação",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLUluazhJU2Q4LW5PX0VaVUFhTS0xTDBaa3N1ZGpqUk83ZzRSQ3o2VjQ2TDh0WWpGSVVJMzRYRHNBU1BsZEptVDRrTC05QWhmb0xxT2R0aVI3VkNsT1plUi1SMGpJQ0YwUFNUT1lLNlljQ2VHUHk3SU8zTUxQTWdYcVUtZkh1OXN3aEtlRjlQcW1fa0VnWk1xekM0MTJYNUdaYktWUU80MERIeU1IWUp3?oc=5",
-      "date": "2026-05-14T18:28:50+00:00",
-      "description": "Desenrola Fies pode renegociar 39 mil contratos no RS — Ministério da Educação  www.gov.br"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Relação entre  Flávio Bolsonaro e Daniel Vorcaro repercute na imprensa internacional",
@@ -2786,14 +2842,6 @@
       "link": "https://www.osul.com.br/gremio-enfrenta-o-confianca-nesta-quinta-feira-pela-copa-do-brasil/",
       "date": "2026-05-14T17:48:18",
       "description": "O Grêmio tem tudo para confirmar a classificação às oitavas de final da Copa do Brasil nesta quinta-feira (14), contra o..."
-    },
-    {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Cofen e Coren-RS fortalecem diálogo com instituições de saúde e ensino no interior gaúcho durante Semana da Enfermagem",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaHpwcXpfX0NreWhJeGl2RzJtNkdialBpaHdNaXRjekVWZHpjZE5kYmlUNE1ldHc4MGx6dWd5UVVTeTlrTV9hV25IMGpOZTdlcU5FcF9oOS1wbC1GMWRmalhSNmtBa3VfYlBkR1NjUHpta1lPUnRJOGk1OHBKTDVaZkFabmhSSjBzM3ZsVU5GamRYSmZLa3E5emw5dEJldWhLOV9ONnZqMHhJcDJCaWl2VzhkcW9taHMzNjNQNEJ4MDJWWWtPSFdNMFM1ZGJKTkNTRkNfNjRkUTlBeUdw?oc=5",
-      "date": "2026-05-14T17:42:07+00:00",
-      "description": "Cofen e Coren-RS fortalecem diálogo com instituições de saúde e ensino no interior gaúcho durante Semana da Enfermagem  Cofen"
     },
     {
       "source": "Google News RS",
@@ -2988,6 +3036,22 @@
       "description": "Brazil Week: Rio Grande do Sul leva portfólio bilionário e lança fundo para atrair capital estrangeiro  Times Brasil | CNBC"
     },
     {
+      "source": "Google News RS",
+      "group": "Nacional",
+      "title": "Jovens são suspeitos por colar cartazes\nnazistas em Porto Alegre - Portal iG",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa2NpU3RIelFNWWI2SV91bGFpTGt5Z1BGYUhwY01IZVFqSXlzS0llRVpKcjRaaXZ2WnZTc28xUFFCVEo3MjVuSlNRb2dRcndYY1NtSTg5WktJT2JQLU1Ma3d1RzVoRFU4Wi1xLUxzV01yVGJzODFaWU43SW14blFmUjIxZ01TR3FHTUlhWGxwMmltZjJZSkpsV01wbmxYN3Zi0gGmAUFVX3lxTE15czZPNFljcXl5endmM05vWldwS3RfbGx1LUtFZEVTdmVWckN5VWFjQ19acHJ3Xzg5RGhZV2JOdzBrNDF2ZHg2ZFhxYV9IV0JUSHNXWFlBWWpvRGZpQ3cxaHNLSTlweGlTQVdLUWNzSld2enpYYTdfQ2tMU1RBQmIyXzd1U0dRRGVMcXZJY2U0WTh6bGJFbHVyZzBZeGJsb3UwbmE2bkE?oc=5",
+      "date": "2026-05-14T15:10:00",
+      "description": "Jovens são suspeitos por colar cartazes\nnazistas em Porto Alegre Portal iG"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Jovens são suspeitos por colar cartazes\nnazistas em Porto Alegre",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa2NpU3RIelFNWWI2SV91bGFpTGt5Z1BGYUhwY01IZVFqSXlzS0llRVpKcjRaaXZ2WnZTc28xUFFCVEo3MjVuSlNRb2dRcndYY1NtSTg5WktJT2JQLU1Ma3d1RzVoRFU4Wi1xLUxzV01yVGJzODFaWU43SW14blFmUjIxZ01TR3FHTUlhWGxwMmltZjJZSkpsV01wbmxYN3Zi0gGmAUFVX3lxTE15czZPNFljcXl5endmM05vWldwS3RfbGx1LUtFZEVTdmVWckN5VWFjQ19acHJ3Xzg5RGhZV2JOdzBrNDF2ZHg2ZFhxYV9IV0JUSHNXWFlBWWpvRGZpQ3cxaHNLSTlweGlTQVdLUWNzSld2enpYYTdfQ2tMU1RBQmIyXzd1U0dRRGVMcXZJY2U0WTh6bGJFbHVyZzBZeGJsb3UwbmE2bkE?oc=5",
+      "date": "2026-05-14T15:10:00+00:00",
+      "description": "Jovens são suspeitos por colar cartazes\nnazistas em Porto Alegre  Portal iG"
+    },
+    {
       "source": "Agora RS",
       "group": "RS",
       "title": "“China e EUA poderão entrar em conflito”, diz Xi Jinping sobre Taiwan em encontro com Trump",
@@ -3082,14 +3146,6 @@
       "link": "https://www.osul.com.br/grupo-neonazista-e-alvo-de-operacao-da-policia-civil-em-porto-alegre-e-canoas/",
       "date": "2026-05-14T14:21:53",
       "description": "A DPCI (Delegacia de Polícia de Combate à Intolerância de Porto Alegre) deflagrou, na manhã desta quinta-feira (14), a Operação Revelare..."
-    },
-    {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Cemaden lidera elaboração de Nota Técnica sobre possíveis impactos do El Niño 2026-27 no RS",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVlFHZkVqNmU1YUVyaEFtcm9PSEQ1Z2VMeW1XVjRkeHFKVEw2YXNBVU1TYWFBSkxkQ3ZSWmp6ajVLcnRBN0dlNlRjWHF1UTZGRGlxbFdCWFF6dlhtbm9hWUY3S2JLeXRQMU84RHhrQ2w5eVQyaG1Pbm4zUXJIU0hrbzlEQmc1dElwaTFYVGE1Q2Uyb2ZCRENwc0s3bko4OXZvZVUwa2tHd3BmdVZTVXRjMGV0d19RdzhCRV84SnUwbnhUN3ppZHZnUENZTDBlME4xQWV6VnFRTlhiWFhmaGlPUUkxSTc?oc=5",
-      "date": "2026-05-14T14:21:13+00:00",
-      "description": "Cemaden lidera elaboração de Nota Técnica sobre possíveis impactos do El Niño 2026-27 no RS  www.gov.br"
     },
     {
       "source": "Google News",
@@ -3362,6 +3418,22 @@
       "link": "https://www.matinal.org/opiniao/tres-livros/",
       "date": "2026-05-14T09:00:54",
       "description": "Sugestões de leitura de lançamentos recentes"
+    },
+    {
+      "source": "Google News RS",
+      "group": "Nacional",
+      "title": "OSPA architecture: Edifício Bilbao, Porto Alegre, RS - Revista PROJETO",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYW5zLVQ4QTRyLVlUa2VtbDNrNGpnT2ZLLV8zMWF2ZGFtZDdRSDlaRktLODNGZFZ6d3pMM0Qwa01ITzhONUtNSFpDMWdndC1WZ3prWTRNbUJwYnFuOVA1alc2cEJEek00QzluRGxKTWwwT2E5NDBWSTdDbVFsNjlUVUM0dl94NjBEYnRWdWVZc2o?oc=5",
+      "date": "2026-05-14T07:02:49",
+      "description": "OSPA architecture: Edifício Bilbao, Porto Alegre, RS Revista PROJETO"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "OSPA architecture: Edifício Bilbao, Porto Alegre, RS",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYW5zLVQ4QTRyLVlUa2VtbDNrNGpnT2ZLLV8zMWF2ZGFtZDdRSDlaRktLODNGZFZ6d3pMM0Qwa01ITzhONUtNSFpDMWdndC1WZ3prWTRNbUJwYnFuOVA1alc2cEJEek00QzluRGxKTWwwT2E5NDBWSTdDbVFsNjlUVUM0dl94NjBEYnRWdWVZc2o?oc=5",
+      "date": "2026-05-14T07:02:49+00:00",
+      "description": "OSPA architecture: Edifício Bilbao, Porto Alegre, RS  Revista PROJETO"
     },
     {
       "source": "G1 RS",
@@ -3780,14 +3852,6 @@
       "description": "Por meio de seu Núcleo de Prevenção à Violência Extrema (NUPVE), o Ministério Público do Rio Grande do Sul (MPRS) atuou..."
     },
     {
-      "source": "Matinal",
-      "group": "RS",
-      "title": "Cristovão Tezza: “Esperei passar dos 70 para enfrentar meu pai”",
-      "link": "https://www.matinal.org/cultura/cristovao-tezza-esperei-passar-dos-70-para-enfrentar-meu-pai/",
-      "date": "2026-05-13T22:52:32",
-      "description": "Convidado do Festival Fronteiras, escritor falou à Matinal sobre a escrita da intimidade em “Visita ao Pai”, seu livro mais recente"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Governistas pedem quebra de sigilo de Flávio Bolsonaro após revelação de diálogo com Vorcaro",
@@ -3842,6 +3906,14 @@
       "link": "https://www.osul.com.br/veja-o-que-disse-pezzolano-apos-a-classificacao-do-inter-na-copa-do-brasil/",
       "date": "2026-05-13T21:36:02",
       "description": "Diante de mais de 8 mil torcedores no Beira-Rio e com gols de Borré, Allex e Bernabei, o Inter venceu o..."
+    },
+    {
+      "source": "Google News RS",
+      "group": "Nacional",
+      "title": "PIX ganha espaço no Dia dos Namorados em Porto Alegre - Rádio Pampa",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1hod1BlZFlNM3AwTVFyd3dmRUVPUkRyWW04UTRvRFN1ZWFhTnExd2wtZlpqWDYtOEJZcUJZOUpVUFN3XzhmS0hZTWhXajI2VWJaamk2dmdZYTZGdllwQktQT3NvZUxrOEVEVHBndTZsUVVIOVBrdzR4ZjlvV0psQl9WWVE3bUk2Z3VQRw?oc=5",
+      "date": "2026-05-13T21:34:24",
+      "description": "PIX ganha espaço no Dia dos Namorados em Porto Alegre Rádio Pampa"
     },
     {
       "source": "O Sul",
@@ -4036,14 +4108,6 @@
       "description": "As inscrições para a 41ª Maratona Internacional de Porto Alegre, considerada uma das principais provas de corrida de rua do País,..."
     },
     {
-      "source": "Matinal",
-      "group": "RS",
-      "title": "“Falas e Canções”, com Zeca Baleiro, marca abertura do Festival Fronteiras",
-      "link": "https://www.matinal.org/conteudo-pago/falas-e-cancoes-com-zeca-baleiro-marca-abertura-do-festival-fronteiras-2/",
-      "date": "2026-05-13T18:24:18",
-      "description": "O texto que você lê abaixo é um conteúdo parceiro produzido pelo Festival Fronteiras."
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Biscoitos Zezé celebra reconhecimento no Top of Mind e marca 100 mil seguidores no Instagram",
@@ -4098,6 +4162,14 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdnBMQnE1REZBZW90SWdBMHoyeFFFM1J2ejZHVDd6M3BnM0pPbkF2dXpHNjh3VlUzZ3ZDZ2dVY3RtdkY1QWowYzVkTkstN3VMRUhtVjNvSzl6YXJ3NmQ1bk9YUWFuOEhRby1QeVJIM1BxSXJfREw4Uy1feGVrWUFnMFk4Rmt2TVNYMjJpaDVVc05hMnlRUG1CUWxyTTcxUVB6MkRfRFJScnBjTFFUcGVJNzlvNHF3UHFlNWpyWUdSWnd2WXUybGRRQWtNWjdsQQ?oc=5",
       "date": "2026-05-13T17:03:26+00:00",
       "description": "MIDR repassa R$ 8,5 milhões para ações de defesa civil na Paraíba, Pernambuco e Rio Grande do Sul  www.gov.br"
+    },
+    {
+      "source": "Google News RS",
+      "group": "Nacional",
+      "title": "Missa em Porto Alegre encerra 150 anos da imigração italiana no RS - Leouve",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTTR6SzVOazJ6S3ZXRmlhdUdnU0dZdTRpZExmVy1xZE5XUnBrbndyLWhCQVNFakJKVWotamVsSHQ0cmFKY01XbDZ6WFRsT0xGSmp1V0l6TGtSZ2RUeHBZbDV3UEFJZkNqNnpiazMwcTJuQThnaHRJeTNXbjRNZGY2bGhIeHl2a21xcFRONjc1Z1ByelRfVFdKdHZZMUlXUQ?oc=5",
+      "date": "2026-05-13T17:01:13",
+      "description": "Missa em Porto Alegre encerra 150 anos da imigração italiana no RS Leouve"
     },
     {
       "source": "O Sul",
@@ -4422,18 +4494,18 @@
     {
       "source": "O Sul",
       "group": "RS",
-      "title": "Custo de factoide de Lula é 0,73% do lucro do crime",
-      "link": "https://www.osul.com.br/custo-de-factoide-de-lula-e-073-do-lucro-do-crime/",
-      "date": "2026-05-13T03:01:29",
-      "description": "O “Programa Brasil contra o Crime Organizado”, que Lula lançou ontem (12) para ter o que dizer nas eleições de outubro,..."
-    },
-    {
-      "source": "O Sul",
-      "group": "RS",
       "title": "Datacenters: a infraestrutura invisível e o desafio ambiental da era digital",
       "link": "https://www.osul.com.br/datacenters-a-infraestrutura-invisivel-e-o-desafio-ambiental-da-era-digital/",
       "date": "2026-05-13T03:01:29",
       "description": "Os datacenters deixaram de ser meros prédios cheios de servidores. Tornaram-se a espinha dorsal da sociedade digital contemporânea, sustentando desde bancos..."
+    },
+    {
+      "source": "O Sul",
+      "group": "RS",
+      "title": "Custo de factoide de Lula é 0,73% do lucro do crime",
+      "link": "https://www.osul.com.br/custo-de-factoide-de-lula-e-073-do-lucro-do-crime/",
+      "date": "2026-05-13T03:01:29",
+      "description": "O “Programa Brasil contra o Crime Organizado”, que Lula lançou ontem (12) para ter o que dizer nas eleições de outubro,..."
     },
     {
       "source": "G1 RS",
@@ -4775,7 +4847,7 @@
       "source": "Google News",
       "group": "Nacional",
       "title": "Governo do Estado assina convênio do projeto Horta Mais Comunitária em Caxias do Sul",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHhuQnRxVlIxTE15UUtWekE5YWVxX0xZVlJONk8teEFrUGswYVVvRVRtRkJLYVN6TmxPaDRjZnBuSnU4RGlDSEotZUNaTFptYUF1Qi1BNWtUeDBsbl9UeHNwTWdhWElHMVFVYWdpeXJfRU5heXJvS0YtVmhGb25VNUhiNGp4THpEWVFEaEs1UVhhTXF1RFFfMV9LWXoyWHBmZDJkN0ZzcEpNZndmQmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQTRIMnB1Yy1hZm03RnFGcWs4OUFUUFdLcEM4SUl2NmhLX1N0VWRXYlNZOXlPbGtNR1dGX0lBcDA4VTRJY0lWSUh6Rk9vR2xlaHgzbFlBdmlIUVNnUE14UG41Smc2VEpiZVBHa29vWEwtRGVJSThtRkdZOVlzVHhoWl9ZaVlGNF95Uk5HN3pIcnN3d040YTFJb3ZMdXhiREV6Mkh5THJjdTdkZnV5NjZRUm1hTQ?oc=5",
       "date": "2026-05-12T23:33:00+00:00",
       "description": "Governo do Estado assina convênio do projeto Horta Mais Comunitária em Caxias do Sul  Portal do Estado do Rio Grande do Sul"
     },
@@ -5084,12 +5156,12 @@
       "description": "Começou a obra de reforma da passarela de pedestres sobre o Arroio Dilúvio localizada na rua Albion com a avenida Ipiranga,..."
     },
     {
-      "source": "Google News",
+      "source": "Google News RS",
       "group": "Nacional",
-      "title": "Oportunidade no RS: Prefeitura de Porto Alegre abre 50 vagas na Defesa Civil",
+      "title": "Oportunidade no RS: Prefeitura de Porto Alegre abre 50 vagas na Defesa Civil - Ache Concursos",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT2RuNU1LMDdvLUpoMnE4NFZEVjJRTlRxSlNWdXk5bGFqUjFoTHFyT2Vhem1kc0tzR0syZmNYZnU0aFhRbGFVV3FpTmdjWjAzVVh4bjNpWGJRcHZJT2hSVlhBZ0UxQU9mMHFCYVlxaV9ka2l1VnpJWEo2S0cxaUpOWVJMYkNXQXdObDd0VmhqaExyNnhCZTRWY3hKUkZlRzVaNGNrWHA1d1U1ZWNUS1RORzVrMDdQNDFoN2JCSFd5cFPSAcYBQVVfeXFMTTAyMGtnZzh4RFpBUGJhNVE0SGxDbjQyZWRqXzRyLWRtRnc2dkZkVVNhdy15OU9fN3JqcmJfSnJBOHZfRnFmUnRQNkh6SGhEeXM1T3M1R3A0RGUtdnFjXzZzNzdNMzAyMzJMWjhfeGhxSm0wOGN6dmJEVE5kRFB5dEpzRXowWE9hNjFHLW1fblRVRVBQM1Q0RUloZ2NiTi1INWFYYnNiOTNWTUJSWko2djBkTGNWTXhOWHpTTGE2OVlOQXY0RkVB?oc=5",
-      "date": "2026-05-12T16:32:51+00:00",
-      "description": "Oportunidade no RS: Prefeitura de Porto Alegre abre 50 vagas na Defesa Civil  Ache Concursos"
+      "date": "2026-05-12T16:32:51",
+      "description": "Oportunidade no RS: Prefeitura de Porto Alegre abre 50 vagas na Defesa Civil Ache Concursos"
     },
     {
       "source": "O Sul",
@@ -5098,6 +5170,22 @@
       "link": "https://www.osul.com.br/nova-rodada-de-analise-da-balneabilidade-ocorre-no-guaiba-em-porto-alegre/",
       "date": "2026-05-12T16:23:40",
       "description": "O DMAE (Departamento Municipal de Água e Esgotos) iniciou nesta terça-feira (12), uma nova rodada de análises da água do Lago..."
+    },
+    {
+      "source": "Google News RS",
+      "group": "Nacional",
+      "title": "Governo do RS revoga concorrência para revitalizar o Cais Mauá - Agora RS",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQzBDSDE2cFM4RXVOeU5RVUhwTE9SODd6QU1abUd0bEE2MmhpR3hsVm9PQTU5ZnBfUWJTaVJfZFlvS1FuWHg4ZEFiS2NvMmx6YlVibklJbm1xQ29yMHJZdUJ3enJockdMMHQzVFZsQm9NYXl6cUwybnF1VW8xc1BHR2ZfZGdwb2Q3NlBnTy1ieF9nbk9KUGVHcEFBdDR5aTRw?oc=5",
+      "date": "2026-05-12T16:23:19",
+      "description": "Governo do RS revoga concorrência para revitalizar o Cais Mauá Agora RS"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Governo do RS revoga concorrência para revitalizar o Cais Mauá",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQzBDSDE2cFM4RXVOeU5RVUhwTE9SODd6QU1abUd0bEE2MmhpR3hsVm9PQTU5ZnBfUWJTaVJfZFlvS1FuWHg4ZEFiS2NvMmx6YlVibklJbm1xQ29yMHJZdUJ3enJockdMMHQzVFZsQm9NYXl6cUwybnF1VW8xc1BHR2ZfZGdwb2Q3NlBnTy1ieF9nbk9KUGVHcEFBdDR5aTRw?oc=5",
+      "date": "2026-05-12T16:23:19+00:00",
+      "description": "Governo do RS revoga concorrência para revitalizar o Cais Mauá  Agora RS"
     },
     {
       "source": "G1 RS",
@@ -5162,14 +5250,6 @@
       "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/12/porto-alegre-lanca-projeto-que-paga-transporte-para-mulheres-vitimas-de-violencia-buscarem-ajuda.ghtml",
       "date": "2026-05-12T15:10:22",
       "description": "Porto Alegre lança projeto que paga transporte para mulheres vítimas de violência buscarem\nA Prefeitura de Porto Alegre lançou, nesta terça-feira (12), um projeto para custear o transporte de mulheres vítimas de violência até os serviços da rede de proteção. Chamada de \"Tri Conta Comigo\", a iniciati"
-    },
-    {
-      "source": "Google News RS",
-      "group": "Nacional",
-      "title": "Governo do RS revoga leilão do Cais Mauá, em Porto Alegre - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLTFlb09DVFBJUkV0azEwOEVJS3BpYkstbXFPdG5oOTV2dGlUSXo3V21OREE0V3hMYUM3bDM0RFRHd29yYVdrOVNpMjZGQ2tjMExOT1VaRjY1S1dVTDFoN3BVR05yTDlKTEQ4Ni1tV0gybUFXSzNqM3ZQWUR4b19mSTFnUWdyYUNWek9zcmtXVjBETUVSMjV5ajFfMlAtMkZFUlhZM3hsUmM1ZVZYOUZkTk1JSVptLXZaNElSUWVnRnVlYV9uNTRwSEtUVFM2bWZMVGc?oc=5",
-      "date": "2026-05-12T14:27:00",
-      "description": "Governo do RS revoga leilão do Cais Mauá, em Porto Alegre Terra"
     },
     {
       "source": "O Sul",
@@ -5354,14 +5434,6 @@
       "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/12/comportamento-causa-mais-demissoes-do-que-falha-tecnica-especialista-explica-como-inteligencia-emocional-pode-ajudar-na-carreira.ghtml",
       "date": "2026-05-12T06:00:57",
       "description": "Inteligência emocional evita demissões, afirma psicóloga\nA falta de habilidades comportamentais é a principal causa de demissões no mercado de trabalho. É o que mostra uma pesquisa realizada pela PUC Carreiras, em 2024. Segundo a psicóloga especialista em comportamento Mariana Webel, desenvolver int"
-    },
-    {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Essa cidade gaúcha foi capital do Rio Grande do Sul por 10 anos e abriga a última reserva natural da região metropolitana",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTUZlS3VLOFZQcGlKWGtOM1dWY3dzZUljbHdOSXVxS1NFdFR2UFpUT1JZdE41V1dSMUs0elZ1STU3V1NFMGVxXzd2RDFXSzNpR0wyRGtER2VqVWllbW9tY2NLcUZSRDNJU1JSMmFGV3R2Z0I3ZXdvS2lLZjFucWMxQ2FxVUd3cGRTblMzQUhidU9DVUE5VGg5Ul9iYWlMdm1KN2Rxd2NwWDFLRVJyZ05uQ0JIdjVEZ21UVjhnZHo4WkRXQ0k5WjlURGV4MFlkNmpFaXRkaktVT0V1alBFRVJzODd1Y3h2aV93cnBHdHdRdmVFQkExMGh5XzZkeE5YQQ?oc=5",
-      "date": "2026-05-12T05:05:00+00:00",
-      "description": "Essa cidade gaúcha foi capital do Rio Grande do Sul por 10 anos e abriga a última reserva natural da região metropolitana  Revista Oeste"
     },
     {
       "source": "G1 RS",
@@ -5940,14 +6012,6 @@
       "description": "A Polícia Civil do Rio de Janeiro investiga o desaparecimento do desembargador federal Alcides Martins Ribeiro Filho, de 64 anos, do..."
     },
     {
-      "source": "Google News RS",
-      "group": "Nacional",
-      "title": "Maior construtora do país fará com R$ 43 milhões condomínio de 340 apartamentos no RS - GZH",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWFd5SHF5V2RZSXlxcFNYYlRlT0hQQy03LVZ5bDByYXcyWGthTTFibGpvZU1MVkdNeTlsMWlJaFg0bzNlWjJ6RlVYXy1kbEl0ckJSX045Nm85T21ROEdfb3ZHME83blVtaDlJLWJHVno2bklGM3BRTGJBenFRMXlZVVVHVi02X0FvZlp6NHlwclVXREFNWE96T1hzbks4UmtySHVZNjRiMTZFSkN1UGxuR3IzZ1JNM1E0bkV3NnphYU14WXpiM00zTzJXa1ZMZDJyLUZxaVhNeHExODZySmFhSzExY2w5WktHNkpOWFJSRlQ5bGI0Wi1kcmdRZkxjOTBLTzZtZHRHbkFWY19hMEdpVFA5SnU3UQ?oc=5",
-      "date": "2026-05-11T21:21:29",
-      "description": "Maior construtora do país fará com R$ 43 milhões condomínio de 340 apartamentos no RS GZH"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Jornada de trabalho: Congresso se mobiliza para debater fim da escala 6×1",
@@ -5970,14 +6034,6 @@
       "link": "https://www.osul.com.br/parlamentares-da-oposicao-criticaram-a-decisao-do-ministro-do-supremo-alexandre-de-moraes-de-barrar-a-aplicacao-da-lei-da-dosimetria-que-reduziria-as-penas-dos-condenados-pela-tentativa-de-golpe-no-8/",
       "date": "2026-05-11T20:55:55",
       "description": "A decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), de suspender a aplicação imediata da chamada Lei da..."
-    },
-    {
-      "source": "Google News RS",
-      "group": "Nacional",
-      "title": "Prefeitura de Porto Alegre (RS) lança 50 vagas + CR para cargo de nível médio - Concursos no Brasil",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHB2U25QOE1udHNaYjQ3S012b3dlT3N0Mk1UMkc4bExobmpqbFpwMnMwdy00WVpLa09VNVRoYzlFaEVRb2FQZ1BjTVZMREtpRVdZeWV6SWxwZjFsY2dQYy1FZ1hrNmc1dzdaVmpwbFhGNU4wZDA0MG9NR2lxb2xNUmdJeF9nOXU3VUhjX3VuTVg2Nk5pc2cyMFJWdTJLN2tja1p5S3IwS05ndEhmdVVnYlptSFVTMTFELWJIa0twZG1uMWRDVTdn?oc=5",
-      "date": "2026-05-11T20:07:58",
-      "description": "Prefeitura de Porto Alegre (RS) lança 50 vagas + CR para cargo de nível médio Concursos no Brasil"
     },
     {
       "source": "Google News RS",
@@ -6348,30 +6404,6 @@
       "description": "Padrasto é preso suspeito de causar incêndio que matou adolescente de 15 anos no RS\nPolícia Rodoviária Federal (PRF)\nUm homem de 35 anos foi preso suspeito de atear fogo na casa onde estava a enteada, de 15 anos, em Garruchos, no Noroeste do Rio Grande do Sul. O incêndio aconteceu por volta das 7h30"
     },
     {
-      "source": "O Sul",
-      "group": "RS",
-      "title": "Polícia Civil gaúcha começa a usar ferramenta de inteligência artificial em registros de violência contra as mulheres",
-      "link": "https://www.osul.com.br/policia-civil-gaucha-usara-ferramenta-de-inteligencia-artificial-em-registros-de-violencia-contra-as-mulheres/",
-      "date": "2026-05-11T13:22:53",
-      "description": "A Polícia Civil gaúcha começou a utilizar nesta segunda-feira (11), em todas as delegacias do Estado, um serviço de digitalização e..."
-    },
-    {
-      "source": "O Sul",
-      "group": "RS",
-      "title": "Lula veta projeto que reconhecia estágio como experiência profissional",
-      "link": "https://www.osul.com.br/lula-veta-projeto-que-reconhecia-estagio-como-experiencia-profissional/",
-      "date": "2026-05-11T13:22:07",
-      "description": "O presidente da República vetou integralmente, nessa segunda-feira (8), o Projeto de Lei nº 2.762/2019, que permitia considerar o período de..."
-    },
-    {
-      "source": "O Sul",
-      "group": "RS",
-      "title": "Pela nona semana consecutiva, mercado financeiro aumenta a estimativa de inflação para este ano no Brasil",
-      "link": "https://www.osul.com.br/pela-nona-semana-consecutiva-mercado-financeiro-aumenta-a-estimativa-de-inflacao-para-este-ano-no-brasil/",
-      "date": "2026-05-11T12:48:36",
-      "description": "Pela nona semana consecutiva, o mercado financeiro aumentou a sua estimativa para a inflação neste ano no Brasil. A projeção subiu..."
-    },
-    {
       "source": "G1 RS",
       "group": "Nacional",
       "title": "Trabalhador morre soterrado por carga de madeira no Norte do RS",
@@ -6604,12 +6636,12 @@
       "description": "Ana Paula Renault estreia como palestrante no Gramado Summit\nReprodução/ RBS TV\nA jornalista Ana Paula Renault estreou como palestrante nesta sexta-feira (8), durante a Gramado Summit, na Serra Gaúcha. A apresentação aconteceu no Palco Principal Vero e Rio Grande Seguros, no Serra Park.\nCom o tema \""
     },
     {
-      "source": "Google News RS",
+      "source": "Google News",
       "group": "Nacional",
-      "title": "Concurso EPTC Porto Alegre RS: banca em definição! - Blog Gran Cursos Online",
+      "title": "Concurso EPTC Porto Alegre RS: banca em definição!",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43RlhkRHFQam82d0pVMDNNWmFFclh0UnhmM3g2WjFBRW1wU0R0bU44cHc0RURsTktydmdPb0UxNDlyVDFNYnp2UGFhbGQ3amg0aXh4emFfRkd3bE5uWURWUEZEcHpLLXdKY1ZYNFM2MFo0U0ktT2c?oc=5",
-      "date": "2026-05-08T22:00:34",
-      "description": "Concurso EPTC Porto Alegre RS: banca em definição! Blog Gran Cursos Online"
+      "date": "2026-05-08T22:00:34+00:00",
+      "description": "Concurso EPTC Porto Alegre RS: banca em definição!  Blog Gran Cursos Online"
     },
     {
       "source": "G1 RS",
@@ -6676,19 +6708,11 @@
       "description": "Queda de árvores, aulas suspensas e vendaval: chuva causa transtornos no RS\nA instabilidade causada por uma frente fria que tomou conta do Rio Grande do Sul causou transtornos em diferentes regiões do estado entre a quinta (7) e esta sexta-feira (8). Foram registradas queda de árvores, destelhamento"
     },
     {
-      "source": "G1 RS",
-      "group": "Nacional",
-      "title": "Carro bate em poste, atinge portão e capota em Porto Alegre; motorista tentou fugir, mas foi detido",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/08/carro-bate-em-poste-atinge-portao-e-capota-em-porto-alegre-motorista-tentou-fugir-mas-foi-detido.ghtml",
-      "date": "2026-05-08T10:02:48",
-      "description": "Carro bate em poste, atinge portão e capota em Porto Alegre; motorista tentou fugir\nUm homem foi detido na madrugada desta sexta-feira (8), após capotar o carro e tentar fugir, na Zona Leste de Porto Alegre. O acidente aconteceu na Avenida Outeiro, bairro Partenon, por volta das 3h. Uma mulher que e"
-    },
-    {
       "source": "Google News",
       "group": "Nacional",
       "title": "Estudo sobre cheias no Rio Grande do Sul aponta causas do desastre",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLXdIZFdJS0ViOXkxb3VYZ0lWR1lXeXpHejNFVWluX1BtNmx5RUluUHVhZEVOeEZUY2JuQUstemVpbV9iVnkyQU9KQ0lzUll3NzVUZUxPWVRoMGlRYnVkdjh3alhMMEVoOG9RaTFvSHl1WGVrXzdqc21EQi1mWHl3R05uVFdYamJhOENaV3pGN3lyemlVcUdFWUxPNGhMUnRtQ0pxX2hUdEc1U0xCZGhRYWVadVZUOHhUak9QQ0haMzJFd210V052aA?oc=5",
-      "date": "2026-05-07T20:01:00+00:00",
+      "date": "2026-05-07T07:00:00+00:00",
       "description": "Estudo sobre cheias no Rio Grande do Sul aponta causas do desastre  Agência Brasil"
     },
     {
@@ -6706,6 +6730,14 @@
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPRzZhYVRRd1hXYlRiMnVyTWV0eG5VVHlOVUpEcnhuWlJaaXNrb3pEQU5SektOM3o2Tlp2UWpZWnNzNTdORlJrU0NyUjdIOTV5YjhEVkozSEVYZGhBVVBBUmZpVDVuQjFMeHkzby1XRTh6SVRSNUpYSzZCMXVEdUhuX1hnVTk0dXBQdGNISE5aLXZfenBfZGYtZm5QSnNWNWJ2SlNkSDgwaENRNXhkVDRpSUNJQzA4Z2pzTVNweHgxa2F5ZHRSRWlORWdBc2F2dG9XajQxSnV6S0EzZFlQLVRBakdYZXQxVkRaSTVTLThvcHJTa25rXy1iNGhuODdXamFkbzVQNWgxdzJ0MmpDQjhFMW1xNU9YTHfSAaYCQVVfeXFMUHNRTVBFalN5Tjc3VUFqTGxwS1Z4RklHOEVXSm5OUGlaRkdGMVprX2gwMHFwZS1tX1dDenZ0UVItRGYtcE1pY3IwRXlWU0tQX01oQmNTM0NhUzZiVzlMb0dxY0ZJR2tqN0pIZXpOLXZRSEF1cnFZbFNPTVFub3lkYUdjLVBhRk5JNHN6YkZoV1hEV183dktSSzRsYUpQWUlSNlh4azVrYU1qRXZYZHBFdmVrOUVNd3l3a1FvdTl3VTZFXzB6STBkMmVLeWxlUVhscE5nREY0UUJpYktiZjF0YUdDS1M4VG1SSGltNWZpY284bi1kekxsRGh1a2hGZ2F0UlViSTg3X0I1bFlqQ19jMUZITHFwR204NW1IUEdHbmNQWF9FOEFR?oc=5",
       "date": "2026-05-06T07:00:00+00:00",
       "description": "Alimentos vencidos, sem procedência e fora da temperatura: fiscalização descarta 2,5 toneladas em mercados no Interior do RS  G1"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Simulado de Aviso Meteorológico",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00REg5ZG5HVFFrQ1l4TlFXdlhFNjBMZ0V4M19kWURhLV80MURVVWNKdTRlQWJRRVdnSFdlbVNWVUpTN0ZTbW9ZTEtDb05hcHU1a1hWWm9xclYwYUszQmVNM0tPRUNkZHNieTItMXQ2MXBaak0?oc=5",
+      "date": "2026-05-06T07:00:00+00:00",
+      "description": "Simulado de Aviso Meteorológico  Defesa Civil do Rio Grande do Sul"
     },
     {
       "source": "Google News RS",
@@ -6790,6 +6822,14 @@
     {
       "source": "Google News RS",
       "group": "Nacional",
+      "title": "Porto Alegre terá obra emergencial contra cheias na zona Norte - Agora RS",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1lpU0lGMUMxUEtfRTM5eHQ0MXJoa3dfdTlYc2J1ekJxTllDSlNoREwwMVZrQ1oyOXhMQjVOUUFHS3hkZVhfX1h2Y2lNVS1DMFNpTm9SU2VCWWJXUzNUM3FPenBOeDg5dExfZWVtUGt2RUE2MWcxU1lMR1JpSUNpNjNMOGwwVlA4b2N3RTFqS3UteUlOS18yUUd2ajNBNXR4?oc=5",
+      "date": "2026-04-23T07:00:00",
+      "description": "Porto Alegre terá obra emergencial contra cheias na zona Norte Agora RS"
+    },
+    {
+      "source": "Google News RS",
+      "group": "Nacional",
       "title": "Governador se reúne com Prefeitura de Porto Alegre para reforçar alinhamento em ações de proteção contra cheias na capital - Defesa Civil do Rio Grande do Sul",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPODdWeFp3TTZTQWFjXzhfZVc2N0Fqa1l5MUduNHM1ZFpjeGk2LWZ4SGNtY295TTVMNDVfOFNJNGpWbFRqeDVIUlR5ZUZfOVMxZ2NFdV9tUHByLTR0NjJ4TEZ6VklfbXVQRFByenl3ZldWR1ZXTDJpU0xaaHVVN0dJV2dacW5ZdElSVU9UclpHV3VjVExFbmo1RjctamRJNnB6UjcyajdxTlYzakNvOXNWSUVZYnBxN3hWSHpqTkItUVhxdnBucGFIaXdDZmh3MGpQZkJfVFpkNkFzMUpjX3gyYUlWU3ZiUXhDZ3RLeDYtcVpSaW1p?oc=5",
       "date": "2026-04-20T07:00:00",
@@ -6802,6 +6842,14 @@
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX0JfOUI2djl2bWhyN3RSdFJCSjAzVjlGSDFHQUJkT29hOGJ0M2FLRk1weUNBazhLb1IxM0lKLXJyMEk2czZmUTdaakxRMkVzejZSenRlNEdYVW1IazVMS1c2ZWE0clNOZkRMUWFLMUhIaXJHNkYydWNyVjBzY3pDWFM3amFlMnMwMmtQbmJUSnlNY3pOMGs4eThTY0xULWhHM2Q0alMwMk5nZEdSc0JVc19wTENEQVNnRDVib1QzZXk4UkRRaGcyeXBZRVhDX2dpM1lTcHl0LUJhUTJ6VWU4OFcxRXE?oc=5",
       "date": "2026-04-17T07:00:00+00:00",
       "description": "A “Manchester Gaúcha” é a segunda maior cidade do Sul e combina multinacionais com forte herança italiana  Correio Braziliense"
+    },
+    {
+      "source": "Google News RS",
+      "group": "Nacional",
+      "title": "Câmara de Vereadores de Porto Alegre lança Pacto pela Criança para fortalecer rede de proteção contra a violência - Polícia Civil RS",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSEY3SzFid3RDckItdDVyQkEyNnllaEQxQmJXeTBHMTlSUUp1QjJNTnJ5MFBIX0R0Q1JBeVkzYVVkZjlFcGdWb1I0Q0g1SGY3WkptNDZheEdQQkFQdW5kV0NoTC1RSnE5bTd4WWtjd3hObW96S09qWDFWTmUyQ0p5M2J1a1lqYUVqdloyY1M2Uy1EX3hnbFAyUEhVekE3Qm1RZ0stTmU3NDc0S2F2NWxQZURvT0dLZ3FOQnI5NUFxNENPdDBFUm8ydTAwRjNWSzQyLVlSNw?oc=5",
+      "date": "2026-04-16T07:00:00",
+      "description": "Câmara de Vereadores de Porto Alegre lança Pacto pela Criança para fortalecer rede de proteção contra a violência Polícia Civil RS"
     },
     {
       "source": "Google News RS",
@@ -6828,12 +6876,12 @@
       "description": "Porto Alegre entrega primeiro Centro de Avaliação Multidisciplinar Educacional Prefeitura de Porto Alegre"
     },
     {
-      "source": "Google News",
+      "source": "Google News RS",
       "group": "Nacional",
-      "title": "Central de Vagas de Porto Alegre atende a comunidade escolar em novo endereço na capital",
+      "title": "Central de Vagas de Porto Alegre atende a comunidade escolar em novo endereço na capital - Portal do Estado do Rio Grande do Sul",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVNTcmhERkxYbGpjb3pZcWYzTDlnNTl4dzR0VlNRZjNGYjJ2dV9VTkNNanBRb0U5UzZyZnpUYVV1Wk9JSHNFaTgwME81Zkt4R1hvZzVzWDlMaWxlTFlTNUtSbUFETEp2ODJqbmltdGU2N2pXZjRiVTNmNVVnNlMyMUxTWmQwWkRhdUJqbngtYXNoOFp2dG5SdkxHMjNjc2VxdGk1eFV5NWgxVGYzNS1wNF92SHR0NGoz?oc=5",
-      "date": "2026-04-08T07:00:00+00:00",
-      "description": "Central de Vagas de Porto Alegre atende a comunidade escolar em novo endereço na capital  Portal do Estado do Rio Grande do Sul"
+      "date": "2026-04-08T07:00:00",
+      "description": "Central de Vagas de Porto Alegre atende a comunidade escolar em novo endereço na capital Portal do Estado do Rio Grande do Sul"
     },
     {
       "source": "Google News RS",
@@ -6842,22 +6890,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHZnZXFwVHNJZWVsOGtUMG0tczUyU0ozYk5nR20xa3RnR0F5QjlFb3hPczk1dEZyclpyUGwxUGVNUnlyZmFYbTkxbll4ZmhSM3pfdG01NVpRRXA3a09qeU5WLTV0UmQ1U0VLUkx4VEh6dzRvYlA5RkJmUUdLWkJ3cWVnenJSMS1BeEZMNjNlc1hBdFV6dy1KVVNmQ19UUVJZMk1Ndjh6VzllQ002NDdVVFdqa2VCTUYwdGNn?oc=5",
       "date": "2026-03-30T07:00:00",
       "description": "Medalha Cidade de Porto Alegre será entregue nesta segunda-feira a 30 homenageados Prefeitura de Porto Alegre"
-    },
-    {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Prefeitura entrega Medalha Cidade de Porto Alegre a lideranças e instituições da Capital",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWRQRDZpVmM5T01zSEd5RFhwaEFESVpTVFJkS3N4TEdNeUdjVjJ4TkxaTFhUZEFFbGNRM2U0eXQ3RlEwbmxnQmo4ZHVXTi13SDNFaUUwMnRqZjhDcnM1Wl9LcG5lX1RCZGJTVnVIX2JQWkdkVmxfSFpBM0l6dnZ5dTAxUGdHQ0NxYVBnZlZRTGQ0bG9PYlpqRjNmd2dkWUxTdGczeWlaMG9nZXVEZUt0MUhXbEZDa2pVZ19EbkpjV1podw?oc=5",
-      "date": "2026-03-30T07:00:00+00:00",
-      "description": "Prefeitura entrega Medalha Cidade de Porto Alegre a lideranças e instituições da Capital  Prefeitura de Porto Alegre"
-    },
-    {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Eventos alteram o trânsito em Porto Alegre no fim de semana",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbEl4MFpiWElidU5PZ3hEWjViWnNzeVVLVlB3WnNKbm1tcFNCeFJLWkIyRWkyLXh3WWpRVWNDbVFKUWpueTFTVkRLTEdoZW1Yd0pKZDBOVm5ibklqQjhIQVU3VEZOUUw3d2sxVkptdEFZN1RfcnpPSEYzN1JkT0pWZEZJN3Z6b1hvNTBUWnZ4X2VIVXNqbzBOU3Z0dHhicVhN?oc=5",
-      "date": "2026-03-28T07:00:00+00:00",
-      "description": "Eventos alteram o trânsito em Porto Alegre no fim de semana  Prefeitura de Porto Alegre"
     },
     {
       "source": "Google News RS",
@@ -6900,12 +6932,12 @@
       "description": "Trilhas, oficina e ações ambientais integram programação da Semana de Porto Alegre Prefeitura de Porto Alegre"
     },
     {
-      "source": "Google News RS",
+      "source": "Google News",
       "group": "Nacional",
-      "title": "Sul21, Brasil de Fato e IAB-RS promovem debate sobre o Plano Diretor de Porto Alegre no dia 30 - Brasil de Fato",
+      "title": "Sul21, Brasil de Fato e IAB-RS promovem debate sobre o Plano Diretor de Porto Alegre no dia 30",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMUd0TTRTX0JYNzRWSzJhTXhZWnZlMHNsVi1RNXBOZ2tfQ1prQjJnNXZKdDlsS3RaQ1Z1NmVyd1E2bElkZjhtLXpSYTlmSUI1VUJ1dDJwcnR5NGs2SDExeXFWUjMtbFhwVnF3dkVTQlNndmd3QXM4ZlV6T21xX1VUdlgzdGZZU1ZaNDUtNkpSRW1sTWtFSnNTWTRRQUV4czlPYi1FeXRsdG5SSEFFcnhzSVRHODZmejlDN2lCYV9CSUhibGVjQ0ZLclJ5bW9aY05hc1NF?oc=5",
-      "date": "2026-03-23T07:00:00",
-      "description": "Sul21, Brasil de Fato e IAB-RS promovem debate sobre o Plano Diretor de Porto Alegre no dia 30 Brasil de Fato"
+      "date": "2026-03-23T07:00:00+00:00",
+      "description": "Sul21, Brasil de Fato e IAB-RS promovem debate sobre o Plano Diretor de Porto Alegre no dia 30  Brasil de Fato"
     },
     {
       "source": "Google News",
@@ -6924,44 +6956,44 @@
       "description": "Defensoria oficia Secretaria da Saúde de Porto Alegre para apurar a interrupção dos atendimentos de reabilitação intelectual defensoria.rs.def.br"
     },
     {
-      "source": "Google News RS",
+      "source": "Google News",
       "group": "Nacional",
-      "title": "Porto Alegre: Prefeitura atualiza regras para instalação de parklets - Agora RS",
+      "title": "Porto Alegre: Prefeitura atualiza regras para instalação de parklets",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOVVVNWRlMEJSRnp2cktxYVFZYUdzYkIxS3NQOGxqRTJJWUtTcjFDZWM0ck1xUDFGVFZ4UEV6YlNUV3FwSUE3aVhyV1lDMV9WWmR5amtLMmpjMDNTVVc0R01XQUlJaGg2d1F6VmNPS0YzUXRpWjg2U2xqMl9FeDVWU1dB?oc=5",
-      "date": "2026-03-10T07:00:00",
-      "description": "Porto Alegre: Prefeitura atualiza regras para instalação de parklets Agora RS"
-    },
-    {
-      "source": "Google News RS",
-      "group": "Nacional",
-      "title": "Sine Municipal disponibiliza quase duas mil vagas de emprego em Porto Alegre - Prefeitura de Porto Alegre",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWhGOUFwdFFqRE4zeFBvUGdYM1k0UE5iVDhWeTl5cmd6R3FTTXFySTJIa2lLU2dVYXE2eWlOaHhsUmRyYVZ6ZE1qc3VLeHJYWk9nZ21aU0JDQ2RWdDBDVnlSV1lVZWRIbE1Jc2ZsQkl2cUwzTDlUcEtEeUdtRlJxVnlvZzFvaXl3aVZmTEJPamNWcFlnMUlrcVFSX3ZQQ2N0aTVLNWN4ZU1PZjVFMVZWTlZmZnVKMmUy?oc=5",
-      "date": "2026-03-09T07:00:00",
-      "description": "Sine Municipal disponibiliza quase duas mil vagas de emprego em Porto Alegre Prefeitura de Porto Alegre"
-    },
-    {
-      "source": "Google News RS",
-      "group": "Nacional",
-      "title": "Votação do novo Plano Diretor de Porto Alegre deve começar na quarta-feira (11) - Brasil de Fato",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOE42QzZ1dUF2TUxBbXRyaE9zZlotbWYwNERfdXdIcnlfVTBEeGVCeHNHT19PanpkMFAxUDM2cElWR3Y3aUJfazRGM1hFSlF0MWxpc1Bodml4aURNRFhGZ1Q0Z2VhT0tYVmtJbUk4YXItZHVZb1ltc1VaUVBxekRmSmF6UDNqU1BUTGNvRHN6OUhBUlhJZkExSEhSMFdEd2dmMGw2QWRZVEIwMXk3QVA3a3RLUGdfVnpxdm9qNGtn?oc=5",
-      "date": "2026-03-09T07:00:00",
-      "description": "Votação do novo Plano Diretor de Porto Alegre deve começar na quarta-feira (11) Brasil de Fato"
+      "date": "2026-03-10T07:00:00+00:00",
+      "description": "Porto Alegre: Prefeitura atualiza regras para instalação de parklets  Agora RS"
     },
     {
       "source": "Google News",
       "group": "Nacional",
-      "title": "Polícia Civil indicia 34 pessoas por fraude na Secretaria de Educação de Porto Alegre",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUpaR2k3eGRkVXo3dXZOXzQ4OTBBX0ZzODdSMHpfNXJKaW5tUkt2V2lUb2t2bVliLThPV2YxSnpyRlN3VzFpY1E0RC1kdGw1S1hJT2dSMlJQbzhvQ3E5blFjeGhkaExneHpVcDFHaFl6RmJDS2RIU2FoMFctdEYxY3B0WEZlQkktRmpiSk5FV3VVSVpDR1RTUVBXX0R5NHZiT21DelJiaVhhWmtvUUJYRA?oc=5",
-      "date": "2026-02-20T08:00:00+00:00",
-      "description": "Polícia Civil indicia 34 pessoas por fraude na Secretaria de Educação de Porto Alegre  ssp.rs.gov.br"
+      "title": "Sine Municipal disponibiliza quase duas mil vagas de emprego em Porto Alegre",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWhGOUFwdFFqRE4zeFBvUGdYM1k0UE5iVDhWeTl5cmd6R3FTTXFySTJIa2lLU2dVYXE2eWlOaHhsUmRyYVZ6ZE1qc3VLeHJYWk9nZ21aU0JDQ2RWdDBDVnlSV1lVZWRIbE1Jc2ZsQkl2cUwzTDlUcEtEeUdtRlJxVnlvZzFvaXl3aVZmTEJPamNWcFlnMUlrcVFSX3ZQQ2N0aTVLNWN4ZU1PZjVFMVZWTlZmZnVKMmUy?oc=5",
+      "date": "2026-03-09T07:00:00+00:00",
+      "description": "Sine Municipal disponibiliza quase duas mil vagas de emprego em Porto Alegre  Prefeitura de Porto Alegre"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Votação do novo Plano Diretor de Porto Alegre deve começar na quarta-feira (11)",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOE42QzZ1dUF2TUxBbXRyaE9zZlotbWYwNERfdXdIcnlfVTBEeGVCeHNHT19PanpkMFAxUDM2cElWR3Y3aUJfazRGM1hFSlF0MWxpc1Bodml4aURNRFhGZ1Q0Z2VhT0tYVmtJbUk4YXItZHVZb1ltc1VaUVBxekRmSmF6UDNqU1BUTGNvRHN6OUhBUlhJZkExSEhSMFdEd2dmMGw2QWRZVEIwMXk3QVA3a3RLUGdfVnpxdm9qNGtn?oc=5",
+      "date": "2026-03-09T07:00:00+00:00",
+      "description": "Votação do novo Plano Diretor de Porto Alegre deve começar na quarta-feira (11)  Brasil de Fato"
     },
     {
       "source": "Google News RS",
       "group": "Nacional",
-      "title": "Inquéritos sobre fraude na Educação em Porto Alegre são concluídos com 34 indiciados - G1",
+      "title": "Polícia Civil indicia 34 pessoas por fraude na Secretaria de Educação de Porto Alegre - ssp.rs.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUpaR2k3eGRkVXo3dXZOXzQ4OTBBX0ZzODdSMHpfNXJKaW5tUkt2V2lUb2t2bVliLThPV2YxSnpyRlN3VzFpY1E0RC1kdGw1S1hJT2dSMlJQbzhvQ3E5blFjeGhkaExneHpVcDFHaFl6RmJDS2RIU2FoMFctdEYxY3B0WEZlQkktRmpiSk5FV3VVSVpDR1RTUVBXX0R5NHZiT21DelJiaVhhWmtvUUJYRA?oc=5",
+      "date": "2026-02-20T08:00:00",
+      "description": "Polícia Civil indicia 34 pessoas por fraude na Secretaria de Educação de Porto Alegre ssp.rs.gov.br"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Inquéritos sobre fraude na Educação em Porto Alegre são concluídos com 34 indiciados",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNVhnVEFJdDFGT1R3U2IxSjNwMHZYRGxreTdaV21SX2l2aVhpeEo5ejZfbTBCdGpVYTQ5LVV0YnVQZ0NpNkxGcXlyTXd4Z3Q1US1BVkxDWXVMazFCdDNuNUMyVFdmUFNBMWRYalZ3cEZzbmVlVnJYSExvS2M0NmJwX05KdnlWSEV5VmJXLXpNY0Q4UjlsLTV0TEpfa1kwdlhhMzdpX1VDSk9KQTQxSHBZNmdPWWxxVVpnT1pMTWFhNGxUNzFqeW5adExWaDlfWmd3QzU0SjBZYUZCdFBPeGFjbE1zZHNjUdIB9AFBVV95cUxPU25PcXMwbzlJOEJGcVVPWlU0RldBV1o3NmdZNWJiMVBYMnhLa2ZMS0hJZzRzRklrSW1Id0RGLWIwRlgwZGRSbVptQ2RsVUhFRThtM0dMNXVSYjFKMWptX1hHcnFoemFZclhkbFNkd0d3enJwendqemk2LTR2bDNjZUJZM2p5VFBQRGVwOWtfTDJUTFdiVEppTmMxOFE0MVVITDFUM3dDUV95UTdtMDVDM3ExUHJoczYyZ1NnbVpoTVI4cFk5YWVCWEZ6Z016STRHQzBOSGZVak5NSG5UbUdYZ2JoTUQzU2JTM3ZpSDNXNjdQRjha?oc=5",
-      "date": "2026-02-19T08:00:00",
-      "description": "Inquéritos sobre fraude na Educação em Porto Alegre são concluídos com 34 indiciados G1"
+      "date": "2026-02-19T08:00:00+00:00",
+      "description": "Inquéritos sobre fraude na Educação em Porto Alegre são concluídos com 34 indiciados  G1"
     },
     {
       "source": "Google News RS",
@@ -6996,12 +7028,12 @@
       "description": "Governador Eduardo Leite realiza visita técnica para monitorar obras do Fundo a Fundo da Reconstrução em Porto Alegre Portal do Estado do Rio Grande do Sul"
     },
     {
-      "source": "Google News",
+      "source": "Google News RS",
       "group": "Nacional",
-      "title": "Porto Alegre encerra inscrições para participação no Rio2C 2026",
+      "title": "Porto Alegre encerra inscrições para participação no Rio2C 2026 - Prefeitura de Porto Alegre",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3ZCZlM1cHhub2xaWkZnZzkyM2RoaTRfXzJFTTd0ck1MeFBhNVZuZUlJMXpwWEQtbzN4VWJEQU95bHRibEdZMVA2Vk5lRmNQWHMtRU82N1dBRUpPLWx3OERWclRqM3RZTzRveDloUS1WV21CR0NWZExoV2dveWJoSkVOdlpBTlpXRE5yazRNS09DUVhmU29mai05ZmhRalA5Z2N1S2tFSzc?oc=5",
-      "date": "2026-01-16T08:00:00+00:00",
-      "description": "Porto Alegre encerra inscrições para participação no Rio2C 2026  Prefeitura de Porto Alegre"
+      "date": "2026-01-16T08:00:00",
+      "description": "Porto Alegre encerra inscrições para participação no Rio2C 2026 Prefeitura de Porto Alegre"
     },
     {
       "source": "Google News RS",
@@ -7012,14 +7044,6 @@
       "description": "Eduardo Leite anuncia retomada da navegação de longo curso no Porto de Porto Alegre e liberação da navegação noturna Portal do Estado do Rio Grande do Sul"
     },
     {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Irregularidades impedem avanço da revisão do Plano Diretor de Porto Alegre",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOE1DVkNTLUI4SHJscTVjSTNxdlREZzRIcDVVSDVmWUs3anJTMW40REdQS09LSlQ3UkpwVnFPV1FjZzZ1Y2dFa0xCSE9wdGEzZVFJdnByWDgzSjBtRXd1T0xLd1hPUjN6NlhadmNsT3o1NGVuaHJpTmNSOTFtTjl3X1ZTTXZEZGxwTnlYZVE3bDluZkEtTTcweFc4elpiTExobWk1NjNqVXJ0NGZrM2UtbU9teHBzYTdKM3c?oc=5",
-      "date": "2025-12-16T08:00:00+00:00",
-      "description": "Irregularidades impedem avanço da revisão do Plano Diretor de Porto Alegre  Brasil de Fato"
-    },
-    {
       "source": "Google News RS",
       "group": "Nacional",
       "title": "ACNUR e Prefeitura de Porto Alegre (RS) lançam cartilha para enfrentamento da violência contra meninas e mulheres - ACNUR",
@@ -7028,12 +7052,12 @@
       "description": "ACNUR e Prefeitura de Porto Alegre (RS) lançam cartilha para enfrentamento da violência contra meninas e mulheres ACNUR"
     },
     {
-      "source": "Google News RS",
+      "source": "Google News",
       "group": "Nacional",
-      "title": "Porto Alegre regulamenta e conclui seleção de beneficiários da Operação Terra Forte - Prefeitura de Porto Alegre",
+      "title": "Porto Alegre regulamenta e conclui seleção de beneficiários da Operação Terra Forte",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOC11bjAtbWFoYXRBNkZlcUFKTkN4VEtnUm1Ed2N4SkFrbzZMVXE4NFJ2LVVsbXc1cEwyTHdqMFRKdm1FMEJfUUpVQ2xNNlhxeERpWTVCMl9EczMwVHlNS1k5cWJ5Yzg1Zlc4LXhpVk41X3p6TlZycWc4VlFvWTIxVkxWbmlzR0lZQ1I0SUNHZ25qbmxVMTFkcl9fU0NnUDlCMEU4bFVIMUY5UWs1RndSWjdCQzFwekc3MDEzRG00VUVWQQ?oc=5",
-      "date": "2025-11-25T08:00:00",
-      "description": "Porto Alegre regulamenta e conclui seleção de beneficiários da Operação Terra Forte Prefeitura de Porto Alegre"
+      "date": "2025-11-25T08:00:00+00:00",
+      "description": "Porto Alegre regulamenta e conclui seleção de beneficiários da Operação Terra Forte  Prefeitura de Porto Alegre"
     },
     {
       "source": "Google News RS",
@@ -7058,302 +7082,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdjVuVUVlc2ktQ2U0N1BSUGhLMzQ3LUVoV0FxMVJqZnBrUGh1b0xoTExVNWRpSVROYUVxZHNFTk9JTzRYQlIweURHWkdDMjVmcGRHQXB4WGZMUFpwYV81VHV6bHNKaDJ6YVN0RHlYUFk4SFIzQ2JLcDBWQ0RNQWxhQmh0ME5PR015VnNzY1hHbmdWMW80Y1dnNXRhZk5scVVnMFhfNzBn?oc=5",
       "date": "2025-08-16T07:00:00+00:00",
       "description": "Porto Alegre ultrapassa marca de 400 prefeitos de praças nomeados  Prefeitura de Porto Alegre"
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Descolonizando o código: Projetos comunitários unem saberes ancestrais à  programação e IA",
-      "link": "https://www.nonada.com.br/2026/05/projetos-comunitarios-unem-saberes-ancestrais-a-programacao-e-ia/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Entre o baile e o silêncio:  no RJ, artistas reavivam cena cultural de favelas marcadas pelo  fundamentalismo",
-      "link": "https://www.nonada.com.br/2026/05/entre-o-baile-e-o-silencio-no-rj-artistas-revivem-cena-cultural-de-favelas-marcadas-pelo-fundamentalismo/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "“Uma data dos brancos”: o que pensam pesquisadores indígenas sobre os 400 anos das missões",
-      "link": "https://www.nonada.com.br/2026/05/uma-data-dos-brancos-o-que-pensam-pesquisadores-indigenas-sobre-os-400-anos-das-missoes/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Novo Plano Nacional do Livro e Leitura quer transformar ao menos 55% dos brasileiros em leitores",
-      "link": "https://www.nonada.com.br/2026/04/novo-plano-nacional-do-livro-e-leitura-quer-transformar-ao-menos-55-dos-brasileiros-em-leitores/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Representações precárias: Estátuas de personalidades negras ainda são menores e menos preservadas no Brasil",
-      "link": "https://www.nonada.com.br/2026/03/representacoes-precarias-estatuas-de-personalidades-negras-ainda-sao-menores-e-menos-preservadas-no-brasil/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Que terra? Como a cultura Hip Hop denuncia racismo ambiental e injustiça social",
-      "link": "https://www.nonada.com.br/2026/05/que-terra-como-a-cultura-hip-hop-denuncia-racismo-ambiental-e-injustica-social/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Em duplas, artistas e jornalistas criam projetos sobre o papel das culturas populares na luta pelo meio ambiente",
-      "link": "https://www.nonada.com.br/2026/05/em-duplas-artistas-e-jornalistas-criam-projetos-sobre-o-papel-das-culturas-populares-na-luta-pelo-meio-ambiente/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "A escrita política de Helena do Sul, romancista negra nos anos 80",
-      "link": "https://www.nonada.com.br/2026/04/a-escrita-politica-de-helena-do-sul-romancista-negra-nos-anos-80/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Ialorixá Futurista: conheça o legado da intelectual e escritora Mãe Stella de Oxóssi",
-      "link": "https://www.nonada.com.br/2025/12/ialorixa-futurista-conheca-o-legado-da-intelectual-e-escritora-mae-stella-de-oxossi/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Como Mãe Bia de Iemanjá articula Carnaval e educação para fortalecer sua comunidade em Porto Alegre",
-      "link": "https://www.nonada.com.br/2026/01/como-mae-bia-de-iemanja-articula-carnaval-e-educacao-para-fortalecer-sua-comunidade-em-porto-alegre/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Gervane de Paula: “O mercado da arte é uma armadilha para o artista”",
-      "link": "https://www.nonada.com.br/2026/03/gervane-de-paula-o-mercado-da-arte-e-uma-armadilha-para-o-artista/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Glossário do Pensamento Contracolonial",
-      "link": "https://www.nonada.com.br/glossario-do-pensamento-contracolonial-brasileiro/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Nonada e NoiteSuja lançam documentário sobre clima e cultura co-criado por 10 jovens paraenses",
-      "link": "https://www.nonada.com.br/2026/03/nonada-e-noitesuja-lancam-documentario-sobre-clima-e-cultura-co-criado-por-10-jovens-paraenses/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Lançada biblioteca que coleta histórias sobre a crise climática no Sul Global",
-      "link": "https://www.nonada.com.br/2025/11/projeto-traz-biblioteca-que-coleta-historias-sobre-a-crise-climatica-no-sul-global/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Livro inédito conta a história de 8 mestres da cultura popular afro-gaúcha",
-      "link": "https://www.nonada.com.br/2025/09/livro-inedito-conta-a-historia-de-8-mestres-da-cultura-popular-afro-gaucha/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Cinema quilombola conecta histórias de resistência e reafirma identidades entre crianças",
-      "link": "https://www.nonada.com.br/2025/09/cinema-quilombola-conecta-historias-de-resistencia-e-reafirma-identidades-entre-criancas/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "O talento que rompe as ruas: como a arte ajuda pessoas em centros de acolhimento de São Paulo a superarem a exclusão",
-      "link": "https://www.nonada.com.br/2025/05/o-talento-que-rompe-as-ruas-como-a-arte-ajuda-pessoas-em-centros-de-acolhimento-de-sao-paulo-a-superarem-a-exclusao/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "40% das pessoas não têm acesso à educação na língua materna, diz Unesco",
-      "link": "https://www.nonada.com.br/2026/02/40-das-pessoas-nao-tem-acesso-a-educacao-na-lingua-materna-diz-unesco/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "De forma inédita, Patrimônio Cultural entra na agenda de ação da COP30",
-      "link": "https://www.nonada.com.br/2025/11/de-forma-inedita-patrimonio-cultural-entra-na-agenda-de-acao-da-cop30/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Na COP30, artistas paraenses aproximam a população local do debate climático",
-      "link": "https://www.nonada.com.br/2025/11/na-cop30-artistas-paraenses-aproximam-a-populacao-local-do-debate-climatico/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Como o jovem indígena Benki Piyãko inspirou Milton Nascimento pela defesa da Amazônia",
-      "link": "https://www.nonada.com.br/2026/04/como-o-jovem-indigena-benki-piyako-inspirou-milton-nascimento-pela-defesa-da-amazonia/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Nova pesquisa sobre clima e cultura traz matérias do Nonada como referência bibliográfica",
-      "link": "https://www.nonada.com.br/2024/11/nova-pesquisa-sobre-clima-e-cultura-traz-materias-do-nonada-como-referencia-bibliografica/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Alunas de escola pública criam coletivo cultural para abordar direitos fundamentais",
-      "link": "https://www.nonada.com.br/2025/01/alunas-de-escola-publica-criam-coletivo-cultural-para-abordar-direitos-fundamentais/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Nas bibliotecas públicas de SP, estrangeiros circulam mais que autores periféricos",
-      "link": "https://www.nonada.com.br/2026/03/nas-bibliotecas-publicas-de-sp-estrangeiros-circulam-mais-que-autores-perifericos/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Comunica: Potencializando Culturas Locais",
-      "link": "https://www.nonada.com.br/comunica/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Lezeira, coco e repente: as histórias de mestres que mantêm vivas expressões culturais do nordeste",
-      "link": "https://www.nonada.com.br/2026/03/lezeira-coco-e-repente-as-historias-de-mestres-que-mantem-vivas-expressoes-culturais-do-nordeste/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Iniciativas criativas nas artes expandem o uso da acessibilidade para além de um recurso padronizado",
-      "link": "https://www.nonada.com.br/2025/10/iniciativas-criativas-nas-artes-expandem-o-uso-da-acessibilidade-para-alem-de-um-recurso-padronizado/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Yacunã Tuxá: “Tentam negar aos artistas indígenas o direito à subjetividade”",
-      "link": "https://www.nonada.com.br/2025/03/yacuna-tuxa-tentam-negar-aos-artistas-indigenas-o-direito-a-subjetividade/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Como mulheres indígenas de diferentes territórios lideram negócios com respeito ao meio ambiente",
-      "link": "https://www.nonada.com.br/2025/06/como-mulheres-indigenas-de-diferentes-territorios-lideram-negocios-com-respeito-ao-meio-ambiente/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Juliana Xukuru: “Na nossa infância indígena, a arte é fundamental e está presente desde cedo”",
-      "link": "https://www.nonada.com.br/2025/04/juliana-xukuru-na-nossa-infancia-indigena-a-arte-e-fundamental-e-esta-presente-desde-cedo/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Como o artesanato de comunidades tradicionais preserva o meio ambiente e as culturas ancestrais nos territórios",
-      "link": "https://www.nonada.com.br/2025/03/como-o-artesanato-de-comunidades-tradicionais-preserva-o-meio-ambiente-e-as-culturas-ancestrais-nos-territorios/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Como o turismo indígena e quilombola quebra estereótipos e fortalece territórios",
-      "link": "https://www.nonada.com.br/2026/02/como-o-turismo-indigena-e-quilombola-quebra-estereotipos-e-fortalece-territorios/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Por que valorizar os mestres da cultura popular na era da Inteligência Artificial?",
-      "link": "https://www.nonada.com.br/2026/01/por-que-valorizar-os-mestres-da-cultura-popular-na-era-da-inteligencia-artificial/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Gingar com a natureza: como mestres de capoeira aliam consciência socioambiental à tradição",
-      "link": "https://www.nonada.com.br/2026/04/gingar-com-a-natureza-como-mestres-de-capoeira-aliam-consciencia-socioambiental-a-tradicao/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Sem incentivo, artesãs que trabalham com palha de butiá resistem à extinção do bem cultural no RS",
-      "link": "https://www.nonada.com.br/2026/04/sem-incentivo-artesas-que-trabalham-com-palha-de-butia-resistem-a-extincao-do-bem-cultural-no-rs/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Política Nacional das Artes é lançada com propostas de valorização dos direitos autorais dos artistas frente à IA",
-      "link": "https://www.nonada.com.br/2025/06/politica-nacional-das-artes-e-lancada-com-propostas-de-valorizacao-dos-direitos-autorais-dos-artistas-frente-a-ia-e-da-liberdade-artistica/",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Nonada",
-      "group": "RS",
-      "title": "Eventos de cultura negra e LGBTQIA+ são os mais cancelados pelo poder público em São Paulo",
-      "link": "https://www.nonada.com.br/2025/11/eventos-de-cultura-negra-e-lgbtqia-sao-os-mais-cancelados-pelo-poder-publico-em-sao-paulo/",
-      "date": null,
-      "description": ""
     },
     {
       "source": "Prefeitura POA",
@@ -7446,8 +7174,184 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Avó de 92 anos é mulher mais idosa contratada com carteira assinada no Brasil: 'É a chave para chegar aos 100'",
-      "link": "https://www.terra.com.br/noticias/educacao/carreira/avo-de-92-anos-e-mulher-mais-idosa-contratada-com-carteira-assinada-no-brasil-e-a-chave-para-chegar-aos-100,7e5a189c60ef65f713db6e566a6e510a82m6erp0.html",
+      "title": "Zoológico de Sapucaia do Sul fecha após morte de 15 cisnes",
+      "link": "https://www.terra.com.br/noticias/zoologico-de-sapucaia-do-sul-fecha-apos-morte-de-15-cisnes,c4b26a11dc96d02a5e138e14788eb2ddsii6aeo7.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Criminosos fazem reféns durante assalto a revenda de carros em Porto Alegre",
+      "link": "https://www.terra.com.br/noticias/brasil/cidades/criminosos-fazem-refens-durante-assalto-a-revenda-de-carros-em-porto-alegre,f1fd09c86315c9bdf3477b23c498c34bv8m7cce5.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Especialistas apontam risco de El Niño intenso e aumento das chuvas no RS",
+      "link": "https://www.terra.com.br/noticias/previsao-do-tempo/especialistas-apontam-risco-de-el-nino-intenso-e-aumento-das-chuvas-no-rs,4b98b4be1cb4c806c6092924bc204ebcedn35j5c.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Trump e Xi concluem encontro \"muito bem-sucedido\" na China",
+      "link": "https://www.terra.com.br/noticias/trump-e-xi-concluem-encontro-muito-bem-sucedido-na-china,50ee7fefb649fdc53edd21657becbc150x0wfw49.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "PF cumpre mandados de busca contra ex-governador do RJ Cláudio Castro e dono da Refit, dizem fontes",
+      "link": "https://www.terra.com.br/noticias/pf-cumpre-mandados-de-busca-contra-ex-governador-do-rj-claudio-castro-e-dono-da-refit-dizem-fontes,e32a899650c726a59a7e263d21ccf7deti8pb6kg.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Câmara aprova regras para aposentadoria compulsória de empregados públicos aos 75 anos",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/camara-aprova-regras-para-aposentadoria-compulsoria-de-empregados-publicos-aos-75-anos,31d4016a2cdc701e93ef6fe95e773b968mo3ylmf.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Cármen Lúcia relata que evitava reclamar do trabalho para não ser estigmatizada",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/carmen-lucia-relata-que-evitava-reclamar-do-trabalho-para-nao-ser-estigmatizada,655d7aa8087978d9596008479c3e313fb3hx6ov5.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Eduardo Bolsonaro nega ter recebido dinheiro de filme sobre o pai para ficar nos EUA",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/eduardo-bolsonaro-nega-ter-recebido-dinheiro-de-filme-sobre-o-pai-para-ficar-nos-eua,3d2066e61a5f064378a0fa75ea6fd236yao7pkef.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Ypê: Anvisa detecta mais de 100 lotes comprometidos por irregularidades",
+      "link": "https://www.terra.com.br/vida-e-estilo/saude/ype-anvisa-detecta-mais-de-100-lotes-comprometidos-por-irregularidades,04b29b4ca61975ed899fae17fb4cb7769w33t2cw.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Sem astro do Real Madrid, França anuncia convocados para a Copa do Mundo 2026; veja a lista completa",
+      "link": "https://www.terra.com.br/esportes/franca/sem-astro-do-real-madrid-franca-anuncia-convocados-para-a-copa-do-mundo-2026-veja-a-lista-completa,f1597c01a18142c2468c29a336b8dc34c207nkev.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Unilever, dona da Cif e Omo, denunciou presença de bactéria em produtos Ypê à Anvisa",
+      "link": "https://www.terra.com.br/vida-e-estilo/saude/unilever-dona-da-cif-e-omo-denunciou-presenca-de-bacteria-em-produtos-ype-a-anvisa,14ad29070b238a7f87a5323a41fdcf462vwrkxyg.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Produtora contradiz Flávio Bolsonaro e nega recursos de Vorcaro para filme 'Dark Horse'",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/produtora-contradiz-flavio-bolsonaro-e-nega-recursos-de-vorcaro-para-filme-dark-horse,6fcca7b3d39793749e614761ac1adaf09uvo3czp.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Corinthians x Barra FC: onde assistir AO VIVO e prováveis escalações",
+      "link": "https://www.terra.com.br/esportes/corinthians-x-barra-fc-onde-assistir-ao-vivo-e-provaveis-escalacoes,4b40232b0f2184e6b4bc1732bd15a3829gzssegs.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "O que investimento de Joesley Batista em fabricante brasileira de armamentos em dificuldade indica sobre boom do setor bélico",
+      "link": "https://www.terra.com.br/noticias/brasil/o-que-investimento-de-joesley-batista-em-fabricante-brasileira-de-armamentos-em-dificuldade-indica-sobre-boom-do-setor-belico,a43ae36c851f614c432a4034d5bf930dgmr33czr.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Ex-governador Cláudio Castro é alvo de operação da PF contra o grupo Refit",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/ex-governador-claudio-castro-e-alvo-de-operacao-da-pf-contra-o-grupo-refit,efd50fe845b57ffbecfaf65628536d53hp13a1zj.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Ataque massivo russo deixa 24 mortos na capital da Ucrânia",
+      "link": "https://www.terra.com.br/noticias/ataque-massivo-russo-deixa-24-mortos-na-capital-da-ucrania,54cd7e23e455a53c15155725b8b53795gjqacl0h.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Proximidade de Flávio Bolsonaro com dono do Master pode enterrar sua candidatura à presidência",
+      "link": "https://www.terra.com.br/noticias/brasil/proximidade-de-flavio-bolsonaro-com-dono-do-master-pode-enterrar-sua-candidatura-a-presidencia,f4c7504c8de8d143bf1b97964ab783a2x4rt2tw1.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Islândia adota semana de 4 dias e resultados surpreendem: menos estresse e mais produtividade no trabalho",
+      "link": "https://www.terra.com.br/noticias/mundo/islandia-adota-semana-de-4-dias-e-resultados-surpreendem-menos-estresse-e-mais-produtividade-no-trabalho,2238b89255ae25a2e119f39841afc62ca1212as1.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "20 anos da pior (e mais engraçada) entrevista feita pela BBC",
+      "link": "https://www.terra.com.br/noticias/videos/20-anos-da-pior-e-mais-engracada-entrevista-feita-pela-bbc,5324c25dcf1e6434f114b1475b34ba89ptstdvo8.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Trump conclui giro na China sem avanços concretos no Golfo e mantém pressão por acordo com o Irã",
+      "link": "https://www.terra.com.br/noticias/mundo/trump-conclui-giro-na-china-sem-avancos-concretos-no-golfo-e-mantem-pressao-por-acordo-com-o-ira,67e5810e69f393f81dbd8a2d91adefe7d9urufvj.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Trump deixa Pequim com poucas vitórias, mas com palavras calorosas para Xi",
+      "link": "https://www.terra.com.br/noticias/mundo/trump-deixa-pequim-com-poucas-vitorias-mas-com-palavras-calorosas-para-xi,426c181beb92a5ec1b8a52e1b6bc8092sjnwyfgt.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Ex-nadadora Joanna Maranhão sobre xenofobia contra o filho na Alemanha: 'Não é para ser realidade na vida de uma criança de 6 anos'",
+      "link": "https://www.terra.com.br/esportes/ex-nadadora-joanna-maranhao-sobre-xenofobia-contra-o-filho-na-alemanha-nao-e-para-ser-realidade-na-vida-de-uma-crianca-de-6-anos,fca82be991a0e731e4a0466c58c3aea5ahhizxoy.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Vazamento 'bombástico' ameaça candidatura de Flávio Bolsonaro, diz a revista The Economist",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/bolsonaro/vazamento-bombastico-ameaca-candidatura-de-flavio-bolsonaro-diz-a-revista-the-economist,99410eb3991a1bcbbed114f4cd5e4fb9r6t9zejp.html",
       "date": null,
       "description": ""
     },
@@ -7471,47 +7375,7 @@
       "source": "Terra",
       "group": "Nacional",
       "title": "Gravação de Flávio Bolsonaro com Vorcaro impulsiona Caiado e Zema, mas não beneficia Lula: 'Eleitor olhou para o lado'",
-      "link": "https://www.terra.com.br/noticias/brasil/gravacao-de-flavio-bolsonaro-com-vorcaro-impulsiona-caiado-e-zema-mas-nao-beneficia-lula-eleitor-olhou-para-o-lado,0296a69be92bb1ac2e875dfd499b3a859dta2kgl.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Palmeiras busca rescisão por justa causa com jogador",
-      "link": "https://www.terra.com.br/esportes/palmeiras/palmeiras-busca-rescisao-por-justa-causa-com-jogador,cac7dfe2f355a7e732ef0b2cf1bc4c2dpk5s2z1e.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Corinthians x Barra FC: onde assistir AO VIVO e prováveis escalações",
-      "link": "https://www.terra.com.br/esportes/corinthians-x-barra-fc-onde-assistir-ao-vivo-e-provaveis-escalacoes,4b40232b0f2184e6b4bc1732bd15a3829gzssegs.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Unilever, dona da Cif e Omo, denunciou presença de bactéria em produtos Ypê à Anvisa",
-      "link": "https://www.terra.com.br/vida-e-estilo/saude/unilever-dona-da-cif-e-omo-denunciou-presenca-de-bacteria-em-produtos-ype-a-anvisa,14ad29070b238a7f87a5323a41fdcf462vwrkxyg.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Sem astro do Real Madrid, França anuncia convocados para a Copa do Mundo 2026; veja a lista completa",
-      "link": "https://www.terra.com.br/esportes/franca/sem-astro-do-real-madrid-franca-anuncia-convocados-para-a-copa-do-mundo-2026-veja-a-lista-completa,f1597c01a18142c2468c29a336b8dc34c207nkev.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Produtora contradiz Flávio Bolsonaro e nega recursos de Vorcaro para filme 'Dark Horse'",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/produtora-contradiz-flavio-bolsonaro-e-nega-recursos-de-vorcaro-para-filme-dark-horse,6fcca7b3d39793749e614761ac1adaf09uvo3czp.html",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/bolsonaro/gravacao-de-flavio-bolsonaro-com-vorcaro-impulsiona-caiado-e-zema-mas-nao-beneficia-lula-eleitor-olhou-para-o-lado,0296a69be92bb1ac2e875dfd499b3a859dta2kgl.html",
       "date": null,
       "description": ""
     },
@@ -7542,16 +7406,16 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Chefe da CIA visita Cuba enquanto Trump pede mudanças radicais para negociações",
-      "link": "https://www.terra.com.br/noticias/mundo/chefe-da-cia-visita-cuba-enquanto-trump-pede-mudancas-radicais-para-negociacoes,1c4c9aa9d0230bcd958cf33444ff7fdefey8ks8g.html",
+      "title": "'Brasil falha em não formar alunos para o mercado', diz presidente do Insper",
+      "link": "https://www.terra.com.br/noticias/educacao/brasil-falha-em-nao-formar-alunos-para-o-mercado-diz-presidente-do-insper,fbf82c66f0b6b6a1ec3c2e9930fbb3c5zn5j5aku.html",
       "date": null,
       "description": ""
     },
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "'Brasil falha em não formar alunos para o mercado', diz presidente do Insper",
-      "link": "https://www.terra.com.br/noticias/educacao/brasil-falha-em-nao-formar-alunos-para-o-mercado-diz-presidente-do-insper,fbf82c66f0b6b6a1ec3c2e9930fbb3c5zn5j5aku.html",
+      "title": "Chefe da CIA visita Cuba enquanto Trump pede mudanças radicais para negociações",
+      "link": "https://www.terra.com.br/noticias/mundo/chefe-da-cia-visita-cuba-enquanto-trump-pede-mudancas-radicais-para-negociacoes,1c4c9aa9d0230bcd958cf33444ff7fdefey8ks8g.html",
       "date": null,
       "description": ""
     },
@@ -7590,16 +7454,16 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Flávio admite negociações com Vorcaro para produção do filme sobre o pai, mas nega repasse a Eduardo",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/videos/flavio-admite-negociacoes-com-vorcaro-para-producao-do-filme-sobre-o-pai-mas-nega-repasse-a-eduardo,dfd7eceb4d17f4484356e55d3d33dca59s2ld8rg.html",
+      "title": "Flávio: É falsa insinuação de que recursos de Vorcaro foram para Eduardo Bolsonaro",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/flavio-e-falsa-insinuacao-de-que-recursos-de-vorcaro-foram-para-eduardo-bolsonaro,76ef0f6b360e59dcd2fe5a49a0555af6jd6wb8n0.html",
       "date": null,
       "description": ""
     },
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Flávio: É falsa insinuação de que recursos de Vorcaro foram para Eduardo Bolsonaro",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/flavio-e-falsa-insinuacao-de-que-recursos-de-vorcaro-foram-para-eduardo-bolsonaro,76ef0f6b360e59dcd2fe5a49a0555af6jd6wb8n0.html",
+      "title": "Flávio admite negociações com Vorcaro para produção do filme sobre o pai, mas nega repasse a Eduardo",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/videos/flavio-admite-negociacoes-com-vorcaro-para-producao-do-filme-sobre-o-pai-mas-nega-repasse-a-eduardo,dfd7eceb4d17f4484356e55d3d33dca59s2ld8rg.html",
       "date": null,
       "description": ""
     },
@@ -7638,6 +7502,14 @@
     {
       "source": "Terra",
       "group": "Nacional",
+      "title": "Dengue, combustível, posto de saúde e nota fiscal: prefeitos mostram uso prático da IA no SPIW",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/dengue-combustivel-posto-de-saude-e-nota-fiscal-prefeitos-mostram-uso-pratico-da-ia-no-spiw,752ecb05b23c61a53850398151a576c9g0t9hk86.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
       "title": "Mário Frias dá nova versão sobre dinheiro de Vorcaro depois de contradizer Flávio",
       "link": "https://www.terra.com.br/noticias/brasil/politica/mario-frias-da-nova-versao-sobre-dinheiro-de-vorcaro-depois-de-contradizer-flavio,17f57ce46f238a57b45424a32446e3e2sz0hhq4q.html",
       "date": null,
@@ -7654,16 +7526,16 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Líderes do PT, PCdoB e PV encaminham representação criminal contra Flávio e Eduardo à PGR",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/lideres-do-pt-pcdob-e-pv-encaminham-representacao-criminal-contra-flavio-e-eduardo-a-pgr,6d091852fdadf7a0095533759ebae5f71rau4sce.html",
+      "title": "Beber menos para ganhar mais? Daniela Cachich explica a estratégia que mudou o Carnaval de São Paulo",
+      "link": "https://www.terra.com.br/noticias/beber-menos-para-ganhar-mais-daniela-cachich-explica-a-estrategia-que-mudou-o-carnaval-de-sao-paulo,661802b3ba8012420b5fc64b17af66cegxhk95ku.html",
       "date": null,
       "description": ""
     },
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Beber menos para ganhar mais? Daniela Cachich explica a estratégia que mudou o Carnaval de São Paulo",
-      "link": "https://www.terra.com.br/noticias/beber-menos-para-ganhar-mais-daniela-cachich-explica-a-estrategia-que-mudou-o-carnaval-de-sao-paulo,661802b3ba8012420b5fc64b17af66cegxhk95ku.html",
+      "title": "Líderes do PT, PCdoB e PV encaminham representação criminal contra Flávio e Eduardo à PGR",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/lideres-do-pt-pcdob-e-pv-encaminham-representacao-criminal-contra-flavio-e-eduardo-a-pgr,6d091852fdadf7a0095533759ebae5f71rau4sce.html",
       "date": null,
       "description": ""
     },
@@ -7680,14 +7552,6 @@
       "group": "Nacional",
       "title": "Juiz avalia tentativa dos democratas de bloquear decreto de Trump sobre votação",
       "link": "https://www.terra.com.br/noticias/mundo/juiz-avalia-tentativa-dos-democratas-de-bloquear-decreto-de-trump-sobre-votacao,79a7ee8848db1cc4ea7ac7369a5cb6e8fgvy80dd.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Flávio Bolsonaro: Não dá para você querer trazer a preço de agora o contexto do final de 2024",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/flavio-bolsonaro-nao-da-para-voce-querer-trazer-a-preco-de-agora-o-contexto-do-final-de-2024,d37af77ab0f058991c5abf33e752c4a0xl7cdh1z.html",
       "date": null,
       "description": ""
     },
@@ -7726,16 +7590,16 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Congelamento de óvulos como estratégia de preservação da fertilidade",
-      "link": "https://www.terra.com.br/noticias/congelamento-de-ovulos-como-estrategia-de-preservacao-da-fertilidade,7998a34fb0db1eb949772fa26e2255d5dukk2j6s.html",
+      "title": "Flávio Bolsonaro: Não dá para você querer trazer a preço de agora o contexto do final de 2024",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/flavio-bolsonaro-nao-da-para-voce-querer-trazer-a-preco-de-agora-o-contexto-do-final-de-2024,d37af77ab0f058991c5abf33e752c4a0xl7cdh1z.html",
       "date": null,
       "description": ""
     },
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "\"É um caso de polícia, não é meu\": Lula comenta sobre áudios entre Flávio Bolsonaro e Vorcaro",
-      "link": "https://www.terra.com.br/noticias/e-um-caso-de-policia-nao-e-meu-lula-comenta-sobre-audios-entre-flavio-bolsonaro-e-vorcaro,7f5f51e7ea7d2213554d10bf19807e8c1a8qivcw.html",
+      "title": "Líder do PT na Câmara aciona Coaf por repasses a filme sobre Jair Bolsonaro",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/lider-do-pt-na-camara-aciona-coaf-por-repasses-a-filme-sobre-jair-bolsonaro,1fef713b4694631ed64f3a8547c0e365n2q2zrhz.html",
       "date": null,
       "description": ""
     },
@@ -7758,8 +7622,16 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Chefe da Patrulha de Fronteira dos EUA pede demissão abruptamente",
-      "link": "https://www.terra.com.br/noticias/mundo/chefe-da-patrulha-de-fronteira-dos-eua-pede-demissao-abruptamente,3a7faa797f097dc0d59214e894104b1di6ulhxvw.html",
+      "title": "Congelamento de óvulos como estratégia de preservação da fertilidade",
+      "link": "https://www.terra.com.br/noticias/congelamento-de-ovulos-como-estrategia-de-preservacao-da-fertilidade,7998a34fb0db1eb949772fa26e2255d5dukk2j6s.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "\"É um caso de polícia, não é meu\": Lula comenta sobre áudios entre Flávio Bolsonaro e Vorcaro",
+      "link": "https://www.terra.com.br/noticias/e-um-caso-de-policia-nao-e-meu-lula-comenta-sobre-audios-entre-flavio-bolsonaro-e-vorcaro,7f5f51e7ea7d2213554d10bf19807e8c1a8qivcw.html",
       "date": null,
       "description": ""
     },
@@ -7768,6 +7640,22 @@
       "group": "Nacional",
       "title": "Sobreviventes de queda de avião passam 5 horas no mar após acidente perto da Flórida; e escapam por pouco de uma tempestade",
       "link": "https://www.terra.com.br/amp/story/noticias/sobreviventes-de-queda-de-aviao-passam-5-horas-no-mar-apos-acidente-perto-da-florida-e-escapam-por-pouco-de-uma-tempestade,3c8de2e915aa6c81fb24b319afe9b5e3v3scqn8u.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Chefe da Patrulha de Fronteira dos EUA pede demissão abruptamente",
+      "link": "https://www.terra.com.br/noticias/mundo/chefe-da-patrulha-de-fronteira-dos-eua-pede-demissao-abruptamente,3a7faa797f097dc0d59214e894104b1di6ulhxvw.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Áudio de Flávio Bolsonaro a Vorcaro faz caso Master bater recorde de repercussão, diz instituto",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/audio-de-flavio-bolsonaro-a-vorcaro-faz-caso-master-bater-recorde-de-repercussao-diz-instituto,32ebcbf9f4b9b0770d85949ae7a845227i1bf1v8.html",
       "date": null,
       "description": ""
     },
@@ -7784,14 +7672,6 @@
       "group": "Nacional",
       "title": "Vereadora vai pedir punição na Comissão de Ética após ter microfone arrancado durante discurso",
       "link": "https://www.terra.com.br/noticias/brasil/politica/vereadora-vai-pedir-punicao-na-comissao-de-etica-apos-ter-microfone-arrancado-durante-discurso,6d46b274b880f6745d748b655ba0980fxwf8l73t.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Áudio de Flávio Bolsonaro a Vorcaro faz caso Master bater recorde de repercussão, diz instituto",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/audio-de-flavio-bolsonaro-a-vorcaro-faz-caso-master-bater-recorde-de-repercussao-diz-instituto,32ebcbf9f4b9b0770d85949ae7a845227i1bf1v8.html",
       "date": null,
       "description": ""
     },
@@ -7854,14 +7734,6 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Caso dele é de polícia, diz Lula sobre áudio de Flávio Bolsonaro e Vorcaro",
-      "link": "https://www.terra.com.br/noticias/brasil/caso-dele-e-de-policia-diz-lula-sobre-audio-de-flavio-bolsonaro-e-vorcaro,e509bbd52b3b25093519aff1335e61a5lxjle8lx.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
       "title": "STF valida por unanimidade lei de igualdade salarial entre homens e mulheres",
       "link": "https://www.terra.com.br/noticias/brasil/politica/stf-valida-por-unanimidade-lei-de-igualdade-salarial-entre-homens-e-mulheres,427a11693199ee7fcb38f125bb270c97yk3pn8dp.html",
       "date": null,
@@ -7880,6 +7752,14 @@
       "group": "Nacional",
       "title": "Arena Cross 2026 abre temporada com pilotos internacionais",
       "link": "https://www.terra.com.br/noticias/arena-cross-2026-abre-temporada-com-pilotos-internacionais,90f9ebc41475e8eb77561290e1b2e54aubn5rtpu.html",
+      "date": null,
+      "description": ""
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Caso dele é de polícia, diz Lula sobre áudio de Flávio Bolsonaro e Vorcaro",
+      "link": "https://www.terra.com.br/noticias/brasil/caso-dele-e-de-policia-diz-lula-sobre-audio-de-flavio-bolsonaro-e-vorcaro,e509bbd52b3b25093519aff1335e61a5lxjle8lx.html",
       "date": null,
       "description": ""
     },
@@ -7926,14 +7806,6 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Lula diz que revelação de conversas entre Flávio Bolsonaro e Vorcaro é 'caso de polícia'",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/lula-diz-que-revelacao-de-conversas-entre-flavio-bolsonaro-e-vorcaro-e-caso-de-policia,c1ea54e737061587ddd992e4c5fd63e4qp78kvf1.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
       "title": "Livro discute desafios da liderança em produtos digitais",
       "link": "https://www.terra.com.br/noticias/livro-discute-desafios-da-lideranca-em-produtos-digitais,768bb4cd904212da4c59ab2e2e63ac3abr22tg90.html",
       "date": null,
@@ -7942,8 +7814,8 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Búfalo albino de quase 700 kg é apelidado de 'Donald Trump' e vira atração turística",
-      "link": "https://www.terra.com.br/noticias/mundo/bufalo-albino-de-quase-700-kg-e-apelidado-de-donald-trump-e-vira-atracao-turistica,8c230faf1e1d396be83be23e054060d34k1t6l2k.html",
+      "title": "Lula diz que revelação de conversas entre Flávio Bolsonaro e Vorcaro é 'caso de polícia'",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/lula-diz-que-revelacao-de-conversas-entre-flavio-bolsonaro-e-vorcaro-e-caso-de-policia,c1ea54e737061587ddd992e4c5fd63e4qp78kvf1.html",
       "date": null,
       "description": ""
     },
@@ -7958,8 +7830,8 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "AP Exata: Áudio com Vorcaro derruba confiança em Flávio Bolsonaro nas redes e impulsiona Zema",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/ap-exata-audio-com-vorcaro-derruba-confianca-em-flavio-bolsonaro-nas-redes-e-impulsiona-zema,376d2dae054dc098ce9e7605bc8e80ccxrpfd0yi.html",
+      "title": "Búfalo albino de quase 700 kg é apelidado de 'Donald Trump' e vira atração turística",
+      "link": "https://www.terra.com.br/noticias/mundo/bufalo-albino-de-quase-700-kg-e-apelidado-de-donald-trump-e-vira-atracao-turistica,8c230faf1e1d396be83be23e054060d34k1t6l2k.html",
       "date": null,
       "description": ""
     },
@@ -7990,112 +7862,8 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Impacto do racismo no cérebro e na saúde mental",
-      "link": "https://www.terra.com.br/noticias/impacto-do-racismo-no-cerebro-e-na-saude-mental,912227759e1abc8a4299e76b93291fc50iujxzt7.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "BuyCo assessora venda da marca Vale do Sol para a Baldini",
-      "link": "https://www.terra.com.br/noticias/buyco-assessora-venda-da-marca-vale-do-sol-para-a-baldini,9701c09a3fe432581dfa10cd4bc9faa4fm7i5ta5.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Iniciativa global, Japan House apresenta Japão para o mundo",
-      "link": "https://www.terra.com.br/noticias/iniciativa-global-japan-house-apresenta-japao-para-o-mundo,e0d5f0b0f711adf0c8b8d063f77c3bccz6xy6qh4.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Canela, especiaria antiga, pode ajudar no controle do apetite",
-      "link": "https://www.terra.com.br/amp/story/noticias/canela-especiaria-antiga-pode-ajudar-no-controle-do-apetite,5c7da3df4a987cf031a5e43b747b4bd8uzn77yn9.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Por onde anda Sikêra Jr? Apresentador pernambucano está a semanas sem aparecer na TV",
-      "link": "https://www.terra.com.br/noticias/por-onde-anda-sikera-jr-apresentador-pernambucano-esta-a-semanas-sem-aparecer-na-tv,20c7a666dd5c67fdc0054ffe1f9a1426r53l3qc8.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Falhas na ANM afetam fiscalização e arrecadação mineral",
-      "link": "https://www.terra.com.br/noticias/falhas-na-anm-afetam-fiscalizacao-e-arrecadacao-mineral,606c504069de58e7b691346f21a0d02asyvrukqr.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "França anuncia 26 jogadores que buscarão o tri na Copa do Mundo de 2026",
-      "link": "https://www.terra.com.br/noticias/mundo/europa/franca-anuncia-26-jogadores-que-buscarao-o-tri-na-copa-do-mundo-de-2026,9327503552db9b0eef6c4720a5a1fb601e2pymru.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Missão científica vai ao Ushuaia tentar identificar origem da contaminação por hantavírus",
-      "link": "https://www.terra.com.br/noticias/mundo/missao-cientifica-vai-ao-ushuaia-tentar-identificar-origem-da-contaminacao-por-hantavirus,c8eb0e7c6d9d78f3cae97665aebf0b95ai84svg1.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Andrea Illy é homenageado por fortalecer relações entre Brasil e Itália",
-      "link": "https://www.terra.com.br/noticias/mundo/andrea-illy-e-homenageado-por-fortalecer-relacoes-entre-brasil-e-italia,0e7a0fe4044b56a087d6f609ef27b2147dkza18j.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Rio Tietê é coberto por espuma tóxica no interior de São Paulo",
-      "link": "https://www.terra.com.br/noticias/brasil/cidades/rio-tiete-e-coberto-por-espuma-toxica-no-interior-de-sao-paulo,7661b24196ef59f0797909c62ab181b1sm9x9y9v.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "MIS-SP recebe 11ª edição do MegaCities ShortDocs",
-      "link": "https://www.terra.com.br/noticias/mis-sp-recebe-11-edicao-do-megacities-shortdocs,883787910a9551e4213c63bff2fd13bb77h6shaa.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Quem trabalha hoje precisa engolir a CLT, que é venerada pela esquerda, diz Zema na Brazil Week",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/quem-trabalha-hoje-precisa-engolir-a-clt-que-e-venerada-pela-esquerda-diz-zema-na-brazil-week,ddb5fb466ef26a673a81d554eb6bcf9cz0f4r9cn.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Revelação de pedido de dinheiro de Flávio Bolsonaro a Vorcaro pega aliados de surpresa e preocupa campanha",
-      "link": "https://www.terra.com.br/noticias/brasil/revelacao-de-pedido-de-dinheiro-de-flavio-bolsonaro-a-vorcaro-pega-aliados-de-surpresa-e-preocupa-campanha,4b7b5bbfe80685bceb9235a9f911dce60jlfb1da.html",
-      "date": null,
-      "description": ""
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Aliados do PL, partido Novo do PR e SC, dizem que Zema foi 'precipitado' ao criticar Flávio",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/aliados-do-pl-partido-novo-do-pr-e-sc-dizem-que-zema-foi-precipitado-ao-criticar-flavio,06e10c92fb5d31c825724dd5115aa195k1qa386z.html",
+      "title": "AP Exata: Áudio com Vorcaro derruba confiança em Flávio Bolsonaro nas redes e impulsiona Zema",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/ap-exata-audio-com-vorcaro-derruba-confianca-em-flavio-bolsonaro-nas-redes-e-impulsiona-zema,376d2dae054dc098ce9e7605bc8e80ccxrpfd0yi.html",
       "date": null,
       "description": ""
     }
