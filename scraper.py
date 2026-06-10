@@ -18,6 +18,8 @@ from bs4 import BeautifulSoup
 import openpyxl
 from openpyxl.styles import Font, PatternFill, Alignment
 
+from categorization import classify_category, classify_location
+
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
 log = logging.getLogger(__name__)
 
@@ -46,6 +48,8 @@ class Article:
     date: Optional[datetime.datetime] = None
     description: str = ''
     group: str = 'Sem RSS'
+    location: str = 'Brasil'
+    category: str = 'Sem classificação'
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -294,6 +298,78 @@ def scrape_diario_gaucho() -> list[Article]:
     ], BASE, 'Diário Gaúcho', 'RS'))
 
 
+def scrape_ghz() -> list[Article]:
+    """GZH (gauchazh.clicrbs.com.br) — maior portal RS, RSS descontinuado."""
+    BASE = 'https://gauchazh.clicrbs.com.br'
+    SECTIONS = ['/ultimas-noticias/', '/porto-alegre/', '/politica/', '/geral/']
+    SELECTORS = [
+        'h2 a[href*="clicrbs.com.br"]', 'h3 a[href*="clicrbs.com.br"]',
+        'article h2 a', 'article h3 a',
+        '[class*="title"] a[href*="clicrbs.com.br"]',
+        '[class*="headline"] a[href*="clicrbs.com.br"]',
+    ]
+    articles: list[Article] = []
+    for path in SECTIONS:
+        soup = get_soup(BASE + path)
+        if not soup:
+            time.sleep(DELAY)
+            continue
+        arts = extract_titles(soup, SELECTORS, BASE, 'GZH', 'RS')
+        # fallback: qualquer link interno com slug longo
+        if not arts:
+            for a in soup.find_all('a', href=True):
+                link = abs_url(a['href'], BASE)
+                if re.search(r'gauchazh\.clicrbs\.com\.br/\w[^/]+/\w[^/]+/\d{4}/\d{2}/', link):
+                    title = a.get_text(separator=' ', strip=True)
+                    if len(title) >= 20:
+                        arts.append(Article('GZH', title, link, group='RS'))
+        articles += arts
+        time.sleep(DELAY)
+    return dedupe(articles)
+
+
+def scrape_correio_povo() -> list[Article]:
+    """Correio do Povo — RSS descontinuado, scraping da homepage."""
+    BASE = 'https://www.correiodopovo.com.br'
+    soup = get_soup(BASE + '/')
+    if not soup:
+        return []
+    articles: list[Article] = []
+    seen: set[str] = set()
+    article_re = re.compile(r'correiodopovo\.com\.br/not', re.IGNORECASE)
+    for a in soup.find_all('a', href=True):
+        href = abs_url(a.get('href', ''), BASE)
+        title = a.get_text(separator=' ', strip=True)
+        if article_re.search(href) and len(title) >= 20 and href not in seen:
+            seen.add(href)
+            articles.append(Article('Correio do Povo', title, href, group='RS'))
+    return dedupe(articles)
+
+
+def scrape_jc() -> list[Article]:
+    """Jornal do Comércio — RSS descontinuado, scraping por padrão de URL."""
+    BASE = 'https://www.jornaldocomercio.com'
+    soup = get_soup(BASE + '/')
+    if not soup:
+        return []
+    article_re = re.compile(
+        r'^/(?:economia|politica|geral|cultura|esportes|ge2|brasil|mundo|rs|porto-alegre)'
+        r'/\d{4}/\d{2}/\d+-[a-z0-9-]+\.html$'
+    )
+    articles: list[Article] = []
+    seen: set[str] = set()
+    for a in soup.find_all('a', href=True):
+        href = a.get('href', '')
+        if not article_re.match(href):
+            continue
+        full = BASE + href
+        title = a.get_text(separator=' ', strip=True)
+        if len(title) >= 20 and full not in seen:
+            seen.add(full)
+            articles.append(Article('Jornal do Comércio', title, full, group='RS'))
+    return dedupe(articles)
+
+
 def scrape_google_news(query: str = 'Porto Alegre RS') -> list[Article]:
     """Google News via RSS público (sem API key necessária)."""
     url = (
@@ -356,6 +432,9 @@ def scrape_yahoo_noticias() -> list[Article]:
 # ─────────────────────────────────────────────────────────────────────────────
 
 SCRAPERS: list[tuple[str, callable]] = [
+    ('GZH',                  scrape_ghz),
+    ('Correio do Povo',      scrape_correio_povo),
+    ('Jornal do Comércio',   scrape_jc),
     ('Google News (POA)',    lambda: scrape_google_news('Porto Alegre RS')),
     ('Google News (RS)',     lambda: scrape_google_news('Rio Grande do Sul')),
     ('Nonada',               scrape_nonada),
@@ -382,6 +461,10 @@ def run_all(verbose: bool = True) -> list[Article]:
             all_articles.extend(arts)
         except Exception as e:
             log.error(f"  → ERRO em {name}: {e}")
+            arts = []
+        for art in arts:
+            art.category = classify_category(art.title, art.description)
+            art.location = classify_location(art.title, art.description)
         if idx < total_sources:
             time.sleep(DELAY)
     return all_articles

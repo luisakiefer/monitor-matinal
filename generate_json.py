@@ -57,6 +57,8 @@ def main() -> None:
                 "link":        a.link,
                 "date":        a.date.isoformat() if a.date else None,
                 "description": a.description,
+                "location":    a.location,
+                "category":    a.category,
             }
             for a in sorted(all_articles, key=sort_key, reverse=True)
         ],

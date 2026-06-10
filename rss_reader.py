@@ -16,6 +16,7 @@ import requests
 from bs4 import BeautifulSoup
 
 from scraper import Article, HEADERS, TIMEOUT, DELAY, dedupe
+from categorization import classify_category, classify_location
 
 log = logging.getLogger(__name__)
 
@@ -25,21 +26,8 @@ log = logging.getLogger(__name__)
 
 RSS_SOURCES: list[dict] = [
     # ── RS ───────────────────────────────────────────────────────────────────
-    {
-        'id': 'ghz', 'name': 'GZH', 'group': 'RS', 'color': '#d32f2f',
-        'feeds': [
-            'https://gauchazh.clicrbs.com.br/rss/noticias.xml',
-            'https://gauchazh.clicrbs.com.br/rss/ultimas-noticias.xml',
-        ],
-    },
-    {
-        'id': 'correio', 'name': 'Correio do Povo', 'group': 'RS', 'color': '#1565c0',
-        'feeds': ['https://www.correiodopovo.com.br/feed'],
-    },
-    {
-        'id': 'jc', 'name': 'Jornal do Comércio', 'group': 'RS', 'color': '#2e7d32',
-        'feeds': ['https://www.jornaldocomercio.com/_conteudo/rss/geral.xml'],
-    },
+    # GZH, Correio do Povo e Jornal do Comércio removeram seus feeds RSS.
+    # Cobertura deles é feita via scraping em scraper.py.
     {
         'id': 'osul', 'name': 'O Sul', 'group': 'RS', 'color': '#6a1b9a',
         'feeds': ['https://www.osul.com.br/feed/'],
@@ -98,6 +86,44 @@ RSS_SOURCES: list[dict] = [
         'feeds': [
             'https://news.google.com/rss/search?q=Porto+Alegre+RS&hl=pt-BR&gl=BR&ceid=BR:pt-419'
         ],
+    },
+    # ── Jornalismo investigativo/independente ─────────────────────────────────
+    {
+        'id': 'ponte', 'name': 'Ponte Jornalismo', 'group': 'Nacional', 'color': '#e53935',
+        'feeds': ['https://ponte.org/feed/'],
+    },
+    {
+        'id': 'intercept', 'name': 'The Intercept Brasil', 'group': 'Nacional', 'color': '#212121',
+        'feeds': ['https://theintercept.com/brasil/feed/'],
+    },
+    {
+        'id': 'reporter', 'name': 'Repórter Brasil', 'group': 'Nacional', 'color': '#c62828',
+        'feeds': ['https://reporterbrasil.org.br/feed/'],
+    },
+    {
+        'id': 'publica', 'name': 'Agência Pública', 'group': 'Nacional', 'color': '#1565c0',
+        'feeds': ['https://apublica.org/feed/'],
+    },
+    {
+        'id': 'cartacapital', 'name': 'Carta Capital', 'group': 'Nacional', 'color': '#b71c1c',
+        'feeds': ['https://www.cartacapital.com.br/feed/'],
+    },
+    # ── Local RS ─────────────────────────────────────────────────────────────
+    {
+        'id': 'nonada', 'name': 'Nonada', 'group': 'RS', 'color': '#d32f2f',
+        'feeds': ['https://nonada.com.br/feed/'],
+    },
+    {
+        'id': 'jornalvs', 'name': 'Jornal VS', 'group': 'RS', 'color': '#2e7d32',
+        'feeds': ['https://www.jornalvs.com.br/feed/'],
+    },
+    {
+        'id': 'cpers', 'name': 'CPERS Sindicato', 'group': 'RS', 'color': '#6a1b9a',
+        'feeds': ['https://www.cpers.com.br/feed/'],
+    },
+    {
+        'id': 'plural', 'name': 'Plural', 'group': 'RS', 'color': '#00695c',
+        'feeds': ['https://www.plural.jor.br/feed/'],
     },
 ]
 
@@ -221,6 +247,10 @@ def fetch_all_rss() -> list[Article]:
             all_articles.extend(arts)
             if done < total:
                 time.sleep(DELAY / 2)
+
+    for art in all_articles:
+        art.category = classify_category(art.title, art.description)
+        art.location = classify_location(art.title, art.description)
 
     return dedupe(all_articles)
 
