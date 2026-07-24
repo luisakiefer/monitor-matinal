@@ -1,36 +1,686 @@
 {
-  "generated_at": "2026-07-24T09:32:17.527862Z",
-  "generated_at_br": "24/07/2026 09:32 UTC",
-  "total": 1153,
+  "generated_at": "2026-07-24T11:19:10.146875Z",
+  "generated_at_br": "24/07/2026 11:19 UTC",
+  "total": 1178,
   "articles": [
     {
       "source": "Metrópoles",
       "group": "Nacional",
-      "title": "Agências do trabalhador terminam a semana com 636 vagas de emprego",
-      "link": "https://www.metropoles.com/distrito-federal/agencias-do-trabalhador-terminam-a-semana-com-636-vagas-de-emprego",
-      "date": "2026-07-24T09:24:52",
-      "description": "Interessados nas vagas devem cadastrar o currículo em aplicativo ou ir a uma agência, das 8h às 17h, de segunda a sexta-feira",
-      "location": "Brasil",
-      "category": "Educação"
+      "title": "Europa em chamas: Macron pede ajuda à UE e Espanha decreta emergência",
+      "link": "https://www.metropoles.com/mundo/europa-em-chamas-macron-pede-ajuda-a-ue-e-espanha-decreta-emergencia",
+      "date": "2026-07-24T11:14:46",
+      "description": "Região sul do continente europeu sofre com incêndios florestais que já causaram a evacuação de dezenas de milhares de pessoas",
+      "location": "Porto Alegre",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Prefeitura dá ordem de início para construção do primeiro Centro de Parto Normal do Rio Grande do Sul",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnhQTk1DOWdUQ3Y2bFpRaUpLX0tZV011NjJTX1J4VVVwM0dKemZQT1lDdmJ4emtKa0lITllXenpoZm8wV1B4S3VRNGlWQzJ2SnFSVGl2cHJYRGtCcFhSRE9sNnhfN1A1ZEo1SUZuWl92UzAwRjhxSmNBeGhTaG1RSjk4RllqcU40LVpFaV85ZGVmTk9LY3dHTkx4aHRYaUlFX240MF9Kb045WjUxem5YNHVVSm9QZE5Mc1FDRThITS02T2wzYnJuUW95TjlLdkZDYlJxelFR?oc=5",
+      "date": "2026-07-24T11:14:28+00:00",
+      "description": "Prefeitura dá ordem de início para construção do primeiro Centro de Parto Normal do Rio Grande do Sul  bage.rs.gov.br",
+      "location": "RS",
+      "category": "Política"
     },
     {
       "source": "Metrópoles",
       "group": "Nacional",
-      "title": "Áreas do Jardim Botânico ficarão sem energia nesta sexta-feira (24/7)",
-      "link": "https://www.metropoles.com/distrito-federal/areas-do-jardim-botanico-ficarao-sem-energia-nesta-sexta-feira-24-7",
-      "date": "2026-07-24T09:17:06",
-      "description": "O desligamento ocorrerá das 9h às 15h para garantir a segurança das equipes durante a execução dos serviços de modernização da rede",
+      "title": "Ratinho lamenta morte de Azulão e faz homenagem: \"Até sempre\"",
+      "link": "https://www.metropoles.com/celebridades/ratinho-lamenta-morte-de-azulao-e-faz-homenagem-ate-sempre",
+      "date": "2026-07-24T11:11:21",
+      "description": "O apresentou usou as redes para relembrar a amizade de décadas com Azulão, que morreu aos 95 anos e marcou o antigo Ratinho Livre",
+      "location": "Brasil",
+      "category": "Sem classificação"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Homem é preso após incendiar cadela viva para atingir ex em MG",
+      "link": "https://www.metropoles.com/minas-gerais/homem-e-preso-apos-incendiar-cadela-viva-para-atingir-ex-em-mg",
+      "date": "2026-07-24T11:07:24",
+      "description": "Suspeito invadiu a casa da ex-companheira, a agrediu e colocou fogo no animal; cadela morreu após ser socorrida em Passos (MG)",
+      "location": "Brasil",
+      "category": "Saúde"
+    },
+    {
+      "source": "O Sul",
+      "group": "RS",
+      "title": "Justiça do Rio de Janeiro determina bloqueio de contas do Banco Master e de empresas",
+      "link": "https://www.osul.com.br/justica-do-rio-de-janeiro-determina-bloqueio-de-contas-do-banco-master-e-de-empresas/",
+      "date": "2026-07-24T11:03:13",
+      "description": "A Justiça do Rio de Janeiro determinou o bloqueio de contas do Banco Master, da Trustee Distribuidora de Títulos e Valores...",
+      "location": "Brasil",
+      "category": "Economia"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Volpato, meia da Austrália na Copa, testa positivo para uso de cocaína",
+      "link": "https://www.metropoles.com/esportes/volpato-meia-da-australia-na-copa-testa-positivo-para-uso-de-cocaina",
+      "date": "2026-07-24T11:01:50",
+      "description": "Cristian Volpato disputou a Copa do Mundo de 2026 pela Austrália. Jogador testou positivo para cocaína após abordagem policial",
+      "location": "Brasil",
+      "category": "Esporte"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Esposa e enteado de atirador de atentado contra tenente da Rota são presos",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/esposa-e-enteado-de-atirador-de-atentado-contra-tenente-da-rota-sao-presos/",
+      "date": "2026-07-24T11:01:34",
+      "description": "Claudia teria auxiliado fuga do investigado logo após o crime e seu filho, Vinicius, teria atuado no monitoramento da rotina do tenente nos dias que antecederam o atentado",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Erika Hilton reage à suspensão de resposta no SBT e aponta ilegalidade",
+      "link": "https://www.metropoles.com/colunas/fabia-oliveira/erika-hilton-reage-a-suspensao-de-resposta-no-sbt-e-aponta-ilegalidade",
+      "date": "2026-07-24T11:00:25",
+      "description": "Erika pede que a Justiça revogue a suspensão do direito de resposta e obrigue o SBT a exibir o pronunciamento antes do julgamento do recurso",
+      "location": "Brasil",
+      "category": "Segurança"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Dois vídeos e um acordo: a \"paz\" de Flávio e Michelle",
+      "link": "https://www.metropoles.com/blog-do-noblat/dois-videos-e-um-acordo-a-paz-de-flavio-e-michelle",
+      "date": "2026-07-24T11:00:13",
+      "description": "Michelle aceita desculpas de Flávio em público, marca posição e deixa o enteado no papel de devedor",
+      "location": "Brasil",
+      "category": "Sem classificação"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "Como nascem as divas pop, como Olivia Rodrigo e Miley Cyrus?",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/07/como-nascem-as-divas-pop-como-olivia-rodrigo-e-miley-cyrus.shtml",
+      "date": "2026-07-24T11:00:00",
+      "description": "Antes de ocupar palcos cercados por milhares de fãs e aparecerem nas paradas musicais do mundo inteiro, muitas divas pop foram crianças que iniciaram a carreira atuando em séries, filmes ou programas de TV. Com o tempo, elas descobriram outros talentos -como cantar, compor e até dançar- e acabaram e",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "Quando as cidades vão sair do concreto?",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/07/quando-as-cidades-vao-sair-do-concreto.shtml",
+      "date": "2026-07-24T11:00:00",
+      "description": "Com um El Niño de grande intensidade em formação sobre um planeta já superaquecido, a agenda de cidades resilientes deixou de ser pauta ambiental periférica para se tornar questão central para a economia e a sobrevivência urbana. Leia mais (07/24/2026 - 08h00)",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "PCC é 'paradigma da nova geopolítica criminal', diz assessor do governo italiano",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/07/pcc-e-paradigma-da-nova-geopolitica-criminal-diz-assessor-do-governo-italiano.shtml",
+      "date": "2026-07-24T11:00:00",
+      "description": "A facção criminosa brasileira PCC (Primeiro Comando da Capital) tornou-se admirada por organizações criminosas estrangeiras e é considerada um modelo a ser seguido pelas facções internacionais. Leia mais (07/24/2026 - 08h00)",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
+      "source": "Agência Pública",
+      "group": "Nacional",
+      "title": "Michelle Bolsonaro e o voto das mulheres conservadoras – com Jacqueline Teixeira",
+      "link": "https://apublica.org/podcast/2026/07/podcast-pauta-publica/michelle-bolsonaro-e-o-voto-das-mulheres-conservadoras-com-jacqueline-teixeira/",
+      "date": "2026-07-24T11:00:00",
+      "description": "Antropóloga Jacqueline Teixeira analisa a atuação das mulheres conservadoras na política",
+      "location": "Brasil",
+      "category": "Sem classificação"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Filho de Xanddy e Carla Perez surpreende com ensaio de casamento “fitness”",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/filho-de-xanddy-e-carla-perez-surpreende-com-ensaio-de-casamento-fitness/",
+      "date": "2026-07-24T10:58:37",
+      "description": "Victor Alexandre e Jarline Batista namoram desde a adolescência e agora se preparam para oficializar a união",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Luis Roberto conclui o tratamento contra o câncer e revela detalhes",
+      "link": "https://www.metropoles.com/colunas/fabia-oliveira/luis-roberto-conclui-o-tratamento-contra-o-cancer-e-revela-detalhes",
+      "date": "2026-07-24T10:56:11",
+      "description": "O narrador esportivo usou o Instagram, na quinta-feira (23/7), para contar sobre o acompanhamento médico: \"33 sessões de radioterapia\"",
+      "location": "Brasil",
+      "category": "Saúde"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Cachorro é resgatado após ficar com cabeça presa em portão",
+      "link": "https://www.metropoles.com/distrito-federal/entorno/cachorro-e-resgatado-apos-ficar-com-cabeca-presa-em-portao",
+      "date": "2026-07-24T10:55:56",
+      "description": "Animal foi resgatado nessa quinta-feira (23/7), sem ferimentos, e devolvido em segurança aos responsáveis",
+      "location": "Brasil",
+      "category": "Segurança"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Diniz pondera sobre venda de titulares do Corinthians: “Será apenas um”",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/diniz-pondera-sobre-venda-de-titulares-do-corinthians-sera-apenas-um/",
+      "date": "2026-07-24T10:55:28",
+      "description": "Treinador do Timão detalha desafios financeiros e planos para o elenco diante do transfer ban da Fifa",
+      "location": "Brasil",
+      "category": "Economia"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Atacante da Austrália testa positivo para cocaína durante abordagem",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/atacante-da-australia-testa-positivo-para-cocaina-durante-abordagem/",
+      "date": "2026-07-24T10:53:27",
+      "description": "Cristian Volpato foi parado por excesso de velocidade em Sydney e submetido a exame antidrogas",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Manchester City nega contato do Real Madrid por Rodri",
+      "link": "https://www.metropoles.com/esportes/manchester-city-nega-contato-do-real-madrid-por-rodri",
+      "date": "2026-07-24T10:52:47",
+      "description": "Imprensa europeia noticia que Rodri tem o sonho de jogador no Real Madrid e retornar à Espanha",
+      "location": "Brasil",
+      "category": "Esporte"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Nova tarifa dos EUA atinge mais de 3 mil itens, segundo Amcham",
+      "link": "https://www.cnnbrasil.com.br/economia/nova-tarifa-dos-eua-atinge-mais-de-3-mil-itens-segundo-amcham/",
+      "date": "2026-07-24T10:50:21",
+      "description": "Câmara Americana de Comércio para o Brasil estima impacto de US$ 12,5 bilhões em exportações; 85% dos itens sofrerão cobrança cumulativa de 37,5%",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Investigado por morte de policial é baleado e preso em operação no Rio",
+      "link": "https://www.metropoles.com/colunas/mirelle-pinheiro/investigado-por-morte-de-policial-e-baleado-e-preso-em-operacao-no-rio",
+      "date": "2026-07-24T10:49:02",
+      "description": "Durante a operação, os agentes também localizaram e desativaram uma central clandestina de internet",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Nível do Rio Taquari cai mais três metros e sai da cota de inundação",
+      "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/nivel-do-rio-taquari-cai-mais-tres-metros-e-sai-da-cota-de-inundacao/",
+      "date": "2026-07-24T10:44:20",
+      "description": "Na manhã desta sexta-feira (24), às 6h30, o nível estava em 16,6 metros, uma redução de 3,26 metros nas últimas 10 horas, segundo o Serviço Geológico do Brasil",
+      "location": "Brasil",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "A disputa entre Lula e Flávio Bolsonaro no Amapá, segundo o Real Time Big Data",
+      "link": "https://www.cartacapital.com.br/politica/a-disputa-entre-lula-e-flavio-bolsonaro-no-amapa-segundo-o-real-time-big-data/",
+      "date": "2026-07-24T10:41:50",
+      "description": "O presidente lidera a corrida no primeiro turno; no segundo há empate técnico, com vantagem numérica para o filho de Jair Bolsonaro",
+      "location": "Brasil",
+      "category": "Esporte"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Rios acima da cota de inundação em oito municípios, Guaíba em elevação e Vale do Sinos em alerta; veja a situação do acúmulo de chuva no RS",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPTnU1aS1kcVNIQTV3bklNRGVVbGZ6cjhKOHlJYVNFZkdfbmQ0c3VZZk1nTUVydW1PbE5WU09aQ25mOFNmNS1rem5jVUk2blVwRDdxSDNGLTk2czV3bHRhbjB4MHZULVA3NGQ4TG4ycnpyd0xLSXlVdGFTTWNHa0VreFZBd3ZJVDFFZVRUa0JwY0k4YzA2dEtWTEstejV6ODhFNjdFTlJFQncySnU5dXRPd3NGS09RS3Bmcy1sM2todXliSmpXMVBVeXFFeGVpV2RqSnNUV1FLb0Faa0tIMnExZHZwVkRkTkNFekhpUjMtT3NBbG83WERtSXpGMC0ySEYtaS1YTFlIUUFfaFZNbTVqeng0UGFQbTRpd0RaR3VDa0ZyQk5CLUJGeTNESHktYXMtQ0JrcnIxekp0WXRDdXc?oc=5",
+      "date": "2026-07-24T10:41:15+00:00",
+      "description": "Rios acima da cota de inundação em oito municípios, Guaíba em elevação e Vale do Sinos em alerta; veja a situação do acúmulo de chuva no RS  GZH",
+      "location": "RM",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Nevasca deixa 39 mineradores isolados em acampamento remoto no Chile",
+      "link": "https://www.cnnbrasil.com.br/internacional/nevasca-deixa-39-mineradores-isolados-em-acampamento-remoto-no-chile/",
+      "date": "2026-07-24T10:40:16",
+      "description": "Operários enfrentam temperaturas negativas e falta de água, diz sindicato; mineradora afirmou que trabalhadores devem ser resgatados de helicóptero nesta sexta-feira (24)",
+      "location": "Brasil",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "Google News RS",
+      "group": "Nacional",
+      "title": "Defesa Civil do RS emite alerta de inundação para ilhas de Porto Alegre - CBN",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX0w3bzg1SWJmc0dRMGxZcGgwcERJZnV3cXZDWmRyV1ZMN0ZhUVk5VGc3REVjMWFkMVlrNUpIZDJNQjhTTWJpN21zMjNJNTkzNTFiRklOWmp5QUh1Q0tEd1VyYUhoT3dIVVZtMUZqUzRhNHB6cFdYSE1rcW9FZWtIRmd5N0I3TmdfRW5BMnJZWXZOZjdXckpWUlZnemdmNnhDdW5CNDRjMzFlQXEtdW1BYkxGSjd6Q3JiT2FsbmNENENIMEnSAdIBQVVfeXFMUDVIZ1FCVGpyVGVPRUFVSHlPQk9DN0FhNXZjaEFiZF9xODVVbmV0RVZCV1ZXaXBGbDdjYzJOaDJtdW9STVljVTZaOVZ0OUxCQVBSZ2hQUUxyVWVqWl9KQUk4TEdrR1lzYWt2LTJ5STBsODZaSWhsRGJNN2FLTzJDaFc0clliakhtcnYxSkw1LVdvRUpfV2ZuNE5YN3FnR29uSzNVRjZsMzNPMkJjZ2hHbXhxUXpBRDlWOUJNclQ3Y1hYNnU4dVUyMExHYXJnWkkxVV9n?oc=5",
+      "date": "2026-07-24T10:38:08",
+      "description": "Defesa Civil do RS emite alerta de inundação para ilhas de Porto Alegre CBN",
+      "location": "Porto Alegre",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Alemanha anuncia Jürgen Klopp como novo técnico da seleção",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/alemanha-anuncia-jurgen-klopp-como-novo-tecnico-da-selecao/",
+      "date": "2026-07-24T10:37:33",
+      "description": "Ex-treinador do Liverpool e Borussia Dortmund assinou contrato de quatro anos com a equipe",
+      "location": "Brasil",
+      "category": "Esporte"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Polícia prende um dos principais líderes do Comando Vermelho no RJ",
+      "link": "https://www.metropoles.com/colunas/mirelle-pinheiro/policia-prende-um-dos-principais-lideres-do-comando-vermelho-no-rj",
+      "date": "2026-07-24T10:36:15",
+      "description": "Segundo a Polícia Civil, Lafado comandava o tráfico de drogas em diversas comunidades de Maricá",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "João Gomes é levado ao hospital e esposa desabafa: \"Está mal demais\"",
+      "link": "https://www.metropoles.com/celebridades/joao-gomes-passa-mal-e-e-levado-ao-hospital-esta-mal-demais",
+      "date": "2026-07-24T10:35:28",
+      "description": "João Gomes apareceu recebendo medicação na veia e foi acompanhado pela esposa, Ary Mirelle, que comentou o estado de saúde do cantor",
+      "location": "Brasil",
+      "category": "Saúde"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Café brasileiro escapa de taxas nos EUA em duas rodadas da Seção 301",
+      "link": "https://www.cnnbrasil.com.br/agro/cafe-brasileiro-escapa-de-taxas-nos-eua-em-duas-rodadas-da-secao-301/",
+      "date": "2026-07-24T10:35:15",
+      "description": "Café verde, torrado e moído e solúvel entraram na lista de exceção tanto na investigação específica contra o Brasil quanto na apuração que envolveu outros 60 países fornecedores dos Estados Unidos",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Termômetros sobem em BH, que pode ter máxima de 30°C nesta sexta",
+      "link": "https://www.metropoles.com/minas-gerais/termometros-sobem-em-bh-que-pode-ter-maxima-de-30c-nesta-sexta",
+      "date": "2026-07-24T10:33:42",
+      "description": "Capital mineira terá predomínio de sol, calor durante a tarde e umidade do ar pode cair para 25%, segundo a Defesa Civil",
+      "location": "Brasil",
+      "category": "Sem classificação"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Empresário de Carapicuíba: 4º suspeito de sequestro e morte é preso",
+      "link": "https://www.metropoles.com/sao-paulo/empresario-de-carapicuiba-4o-suspeito-de-sequestro-e-morte-e-preso",
+      "date": "2026-07-24T10:31:10",
+      "description": "Empresário estava desaparecido desde a última quinta (17/7) e teve corpo encontrado uma semana depois em área de mata às margens de rio",
+      "location": "Brasil",
+      "category": "Saúde"
+    },
+    {
+      "source": "O Sul",
+      "group": "RS",
+      "title": "“O resultado mais importante é que preservamos vidas”, diz o governador Eduardo Leite sobre as enchentes no RS",
+      "link": "https://www.osul.com.br/o-resultado-mais-importante-e-que-preservamos-vidas-diz-o-governador-eduardo-leite-sobre-as-enchentes-no-rs/",
+      "date": "2026-07-24T10:30:54",
+      "description": "O governador do Rio Grande do Sul, Eduardo Leite, destacou o trabalho de preparação para as fortes chuvas realizado pela Defesa...",
+      "location": "RS",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "Pilotos da Voepass não relatavam falhas nas aeronaves, diz Cenipa",
+      "link": "https://www.cartacapital.com.br/sociedade/relatorio-da-queda-do-aviao-em-vinhedo-em-2024-aponta-19-fatores/",
+      "date": "2026-07-24T10:29:36",
+      "description": "Relatório da queda do avião em Vinhedo, em 2024, aponta 19 fatores",
+      "location": "Brasil",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "PM é investigado por liderar esquema de transporte clandestino no Rio",
+      "link": "https://www.metropoles.com/colunas/mirelle-pinheiro/pm-e-investigado-por-liderar-esquema-de-transporte-clandestino-no-rio",
+      "date": "2026-07-24T10:27:11",
+      "description": "O grupo mantinha um monopólio da atividade por meio de ameaças, violência e cobrança ilegal de taxas de motoristas que atuavam nas rotas",
+      "location": "Brasil",
+      "category": "Mobilidade"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Web liga atitude de Zé Felipe à volta de Virginia com Vini Jr.",
+      "link": "https://www.metropoles.com/celebridades/web-liga-atitude-de-ze-felipe-a-volta-de-virginia-com-vini-jr",
+      "date": "2026-07-24T10:20:33",
+      "description": "Internautas associaram a curtida de Zé Felipe em uma foto de Ana Castela à recente reconciliação de Virginia Fonseca e Vini Jr.",
+      "location": "Brasil",
+      "category": "Esporte"
+    },
+    {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "Nova pesquisa reforça o favoritismo do clã Furlan nas eleições do Amapá",
+      "link": "https://www.cartacapital.com.br/politica/nova-pesquisa-reforca-o-favoritismo-do-cla-furlan-nas-eleicoes-do-amapa/",
+      "date": "2026-07-24T10:17:41",
+      "description": "Levantamento do Real Time Big Data mostra que Dr. Furlan é o favorito para comandar o governo do estado; Rayssa Furlan lidera pesquisa para o Senado",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Mulher leva tapa de motociclista após confusão de trânsito no DF",
+      "link": "https://www.metropoles.com/distrito-federal/na-mira/mulher-leva-tapa-de-motociclista-apos-confusao-de-transito-no-df",
+      "date": "2026-07-24T10:17:07",
+      "description": "Agressão teria acontecido após a mulher buzinar para a moto em um semáforo; a vítima diz ter sido seguida até um posto em Ceilândia",
+      "location": "Brasil",
+      "category": "Mobilidade"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Incêndios florestais: Espanha declara estado de emergência nacional",
+      "link": "https://www.cnnbrasil.com.br/internacional/incendios-florestais-espanha-declara-estado-de-emergencia-nacional/",
+      "date": "2026-07-24T10:16:42",
+      "description": "Temporada de fogo já é uma das mais letais das últimas décadas, com 13 mortes registradas no país; fenômeno atinge áreas próximas de Madri",
       "location": "Porto Alegre",
       "category": "Tecnologia"
     },
     {
       "source": "Metrópoles",
       "group": "Nacional",
-      "title": "\"Passou mal\": mensagens mostram como creche avisou pai de bebê morto",
-      "link": "https://www.metropoles.com/sao-paulo/passou-mal-mensagens-mostram-como-creche-avisou-pai-de-bebe-morto",
-      "date": "2026-07-24T09:10:45",
-      "description": "Bebê morreu após ficar com a cabeça presa em uma grade da creche. Mensagens enviadas ao pai são questionadas pelo advogado da família",
+      "title": "Mega: 4 apostas de MG faturam até R$ 82,8 mil na quina; veja cidades",
+      "link": "https://www.metropoles.com/minas-gerais/mega-4-apostas-de-mg-faturam-ate-r-828-mil-na-quina-veja-cidades",
+      "date": "2026-07-24T10:15:11",
+      "description": "Nenhuma aposta acertou as seis dezenas do concurso 3035 da Mega, e o prêmio principal acumulou em R$ 70 milhões para o próximo sorteio",
       "location": "Brasil",
+      "category": "Sem classificação"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Polícia prende quarto suspeito de homicídio de empresário em SP",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policia-prende-quarto-suspeito-de-homicidio-de-empresario-em-sp/",
+      "date": "2026-07-24T10:14:54",
+      "description": "Homem estava foragido após supostamente auxiliar no sequestro de Marcelo Magalhães em Carapicuíba (SP), no último dia 16 de julho",
+      "location": "Brasil",
+      "category": "Saúde"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Enchente de 2024 deixou mais de 1 milhão de domicílios atingidos sem auxílio no RS - Instituto Humanitas Unisinos",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1VCTzNiY2tWUF93ZEpBYWk3UlZwNm1GdTBHUGlreTV5YnF6RVc4d2hMVFp1bENLanFoTjg4NXNtU28yUGFsMHhFV1lGaS15YVAyR00xcUVVZGhjUFNnUlVNeTNtMDB6OHp4bVBCWm5SVk9kbEpsVEJRRjZYOHJvNWF2YUk0VEdjUWN3TnpqNlRoOFJWdVpWUUJiTXU5aTdyazFzWUxPZVhWdU1sU2tfU2JEeWYwa0Ny?oc=5",
+      "date": "2026-07-24T10:12:33+00:00",
+      "description": "Enchente de 2024 deixou mais de 1 milhão de domicílios atingidos sem auxílio no RS  Instituto Humanitas Unisinos - IHU",
+      "location": "Brasil",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "Google News RS",
+      "group": "Nacional",
+      "title": "Ferrovia de Porto Alegre: a chegada do trem na Vila Nova - GZH",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdEJ4Tk9XckZPOUFfN0tGMl85dk9MVEg1NmVDbWRJOWdFTzZTamFZUVhscnNEWlkxcGxaN19jam1aUEl4UGZ6bUsxV2FvSW5PM1NCTFUwN1pxT0JxN3A0Q0RkOWd4d0N4ZFBGenFFN0dfSjVrWGhab3pkeDhDUDItUVZzbkVDZW5QTkNMZ3YxYkplOWFDYjRiTTJyMEtOYXBjbUZVOFk5S2ZMckxhbU1jSXZIUS1PZDhhcElXVzRka3U2UmI3T18yaWdSWFc1M2lGQjV4RURSX09TNjR5MUhvMFZuZ1VrWHhGZEtaU2ZiOXJjZw?oc=5",
+      "date": "2026-07-24T10:11:18",
+      "description": "Ferrovia de Porto Alegre: a chegada do trem na Vila Nova GZH",
+      "location": "Porto Alegre",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Ferrovia de Porto Alegre: a chegada do trem na Vila Nova",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdEJ4Tk9XckZPOUFfN0tGMl85dk9MVEg1NmVDbWRJOWdFTzZTamFZUVhscnNEWlkxcGxaN19jam1aUEl4UGZ6bUsxV2FvSW5PM1NCTFUwN1pxT0JxN3A0Q0RkOWd4d0N4ZFBGenFFN0dfSjVrWGhab3pkeDhDUDItUVZzbkVDZW5QTkNMZ3YxYkplOWFDYjRiTTJyMEtOYXBjbUZVOFk5S2ZMckxhbU1jSXZIUS1PZDhhcElXVzRka3U2UmI3T18yaWdSWFc1M2lGQjV4RURSX09TNjR5MUhvMFZuZ1VrWHhGZEtaU2ZiOXJjZw?oc=5",
+      "date": "2026-07-24T10:11:18+00:00",
+      "description": "Ferrovia de Porto Alegre: a chegada do trem na Vila Nova  GZH",
+      "location": "Porto Alegre",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "O Grande Debate: Qual o impacto do inquérito sobre Dark Horse para Flávio?",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/o-grande-debate-qual-o-impacto-do-inquerito-sobre-dark-horse-para-flavio/",
+      "date": "2026-07-24T10:09:55",
+      "description": "Ministro André Mendonça autorizou a PF a apurar os repasses de Daniel Vorcaro ao filme sobre Jair Bolsonaro",
+      "location": "Brasil",
+      "category": "Sem classificação"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Brasileiro gasta mais de R$ 1 mil por mês no supermercado, mostra estudo",
+      "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/brasileiro-gasta-mais-de-r-1-mil-por-mes-no-supermercado-mostra-estudo/",
+      "date": "2026-07-24T10:06:28",
+      "description": "Valor representa quase metade da renda da maior parte das famílias consultadas pela pesquisa; população afirma dividir a compra em até quatro redes de mercado para driblar preços",
+      "location": "Brasil",
+      "category": "Economia"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Monte Fuji: idosa de 99 anos é resgatada após noite na montanha",
+      "link": "https://www.metropoles.com/mundo/monte-fuji-idosa-de-99-anos-e-resgatada-apos-noite-na-montanha",
+      "date": "2026-07-24T10:04:28",
+      "description": "Resagate aconteceu no mesmo dia em que homem de 58 anos morreu após passar mal durante a escalada do Monte Fuji",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "Horóscopo semanal: previsões para os signos de 27 de julho a 02 de agosto de 2026",
+      "link": "https://www.cartacapital.com.br/astrologia/horoscopo-semanal-previsoes-para-os-signos-de-27-de-julho-a-02-de-agosto-de-2026/",
+      "date": "2026-07-24T10:02:54",
+      "description": "Nesta semana, o Sol no signo de Leão fará conjunção com Júpiter, favorecendo crescimento, criatividade e iniciativas importantes. Como consequência, haverá mais disposição para assumir desafios e acreditar no próprio potencial. Por outro lado, o Astro-Rei também formará oposição a Plutão, indicando ",
+      "location": "Brasil",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "Horóscopo do dia: previsão para os 12 signos em 24/07/2026",
+      "link": "https://www.cartacapital.com.br/astrologia/horoscopo-do-dia-previsao-para-os-12-signos-em-24-07-2026/",
+      "date": "2026-07-24T10:02:51",
+      "description": "A seguir, confira as previsões do horóscopo para o seu signo e descubra como transformar os obstáculos em oportunidades de crescimento e aprendizado",
+      "location": "Brasil",
+      "category": "Educação"
+    },
+    {
+      "source": "G1 RS",
+      "group": "Nacional",
+      "title": "Governo federal reconhece situação de emergência em mais de 20 cidades do RS",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/24/governo-federal-reconhece-situacao-de-emergencia-em-mais-de-20-cidades-do-rs.ghtml",
+      "date": "2026-07-24T10:02:47",
+      "description": "Eldorado do Sul decreta emergência após temporal; passa de 700 o número de desalojados\nReprodução/RBS TV\nMais de 20 municípios do Rio Grande do Sul tiveram situação de emergência decretada pelo governo federal nesta semana. Apesar dos temporais dos últimos dias, os decretos são referentes às chuvas ",
+      "location": "RM",
+      "category": "Política"
+    },
+    {
+      "source": "Metrópoles",
+      "group": "Nacional",
+      "title": "Frase do dia",
+      "link": "https://www.metropoles.com/blog-do-noblat/frases-do-dia/frase-do-dia-1839",
+      "date": "2026-07-24T10:00:55",
+      "description": "Ronaldo Caiado",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Tom Hiddleston entrega projeto mais pessoal em “Pompeia”: “Nunca fiz antes”",
+      "link": "https://www.cnnbrasil.com.br/pop/streaming/tom-hiddleston-entrega-projeto-mais-pessoal-em-pompeia-nunca-fiz-antes/",
+      "date": "2026-07-24T10:00:44",
+      "description": "Ator compara experiência de apresentar a série documental à atuação e diz que a empatia foi a principal lição da produção da National Geographic",
+      "location": "Brasil",
+      "category": "Saúde"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Cannabis manipulada pode reduzir em até 50% o custo dos tratamentos no país",
+      "link": "https://www.cnnbrasil.com.br/saude/cannabis-manipulada-pode-reduzir-em-ate-50-o-custo-dos-tratamentos-no-pais/",
+      "date": "2026-07-24T10:00:28",
+      "description": "Medida regulatória inaugura uma nova etapa da cadeia produtiva da cannabis medicinal no Brasil pela capacidade de ampliar o acesso aos tratamentos à base de canabidiol",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Ampliação da Régis Bittencourt deve começar entre 2028 e 2029, diz EPR",
+      "link": "https://www.cnnbrasil.com.br/infra/ampliacao-da-regis-bittencourt-deve-comecar-entre-2028-e-2029-diz-epr/",
+      "date": "2026-07-24T10:00:25",
+      "description": "CEO da empresa afirma que fase de ampliação da capacidade da rodovia se dará a partir do terceiro ano de concessão, com a implementação de terceiras faixas em trechos próximos a São Paulo e Curitiba",
+      "location": "Brasil",
+      "category": "Economia"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Beauvallet vê ausência demanda chinesa como maior desafio para indústria",
+      "link": "https://www.cnnbrasil.com.br/agro/beauvallet-ve-ausencia-demanda-chinesa-como-maior-desafio-para-industria/",
+      "date": "2026-07-24T10:00:17",
+      "description": "Empresa afirma que mercado chinês representava até metade das exportações e defende novo modelo de distribuição das cotas para evitar paralisações na indústria",
+      "location": "Brasil",
+      "category": "Economia"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "A difícil vida das mulheres no transporte público",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mauro-calliari/2026/07/a-dificil-vida-das-mulheres-no-transporte-publico.shtml",
+      "date": "2026-07-24T10:00:00",
+      "description": "Ninguém está satisfeito em passar horas nos deslocamentos pelas metrópoles brasileiras . Quem mora em periferias e depende do transporte público sofre mais. E as mulheres, mais ainda. Leia mais (07/24/2026 - 07h00)",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "'O celular é mais democrático que a biblioteca', diz ministro da Educação na Flip",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/07/o-celular-e-mais-democratico-que-a-biblioteca-diz-ministro-da-educacao-na-flip.shtml",
+      "date": "2026-07-24T10:00:00",
+      "description": "Enquanto defende menos telas no ambiente escolar, o Ministério da Educação (MEC) aposta agora no celular como porta de entrada para a leitura dos estudantes brasileiros. A pasta lançou uma biblioteca digital gratuita e busca transformar o aparelho, apontado como um dos principais fatores de distraçã",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "Além do signo solar: como Sol, Lua e ascendente moldam sua personalidade",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/07/alem-do-signo-solar-como-sol-lua-e-ascendente-moldam-sua-personalidade.shtml",
+      "date": "2026-07-24T10:00:00",
+      "description": "Você já se perguntou por que, mesmo sendo de um signo solar específico, suas reações em momentos de estresse ou sua primeira impressão em um novo ambiente parecem ser de outro? Essa sensação é comum e a astrologia tem uma explicação: você é muito mais do que apenas o seu signo. O segredo está no Big",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "O Sul",
+      "group": "RS",
+      "title": "Madrasta é condenada a mais de 41 anos de prisão por torturar e matar criança na Região Sul do RS",
+      "link": "https://www.osul.com.br/madrasta-e-condenada-a-mais-de-41-anos-de-prisao-por-torturar-e-matar-crianca-na-regiao-sul-do-rs/",
+      "date": "2026-07-24T09:55:39",
+      "description": "O Tribunal do Júri de Pelotas, na Região Sul do RS, condenou a 41 anos e 8 meses de prisão, em...",
+      "location": "RS",
+      "category": "Mobilidade"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Trens voltam a operar normalmente em São Paulo, após incêndio em vagão",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/trens-voltam-a-operar-normalmente-em-sao-paulo-apos-incendio-em-vagao/",
+      "date": "2026-07-24T09:54:25",
+      "description": "Na manhã desta quinta-feira (23), um vagão de um trem da Trivia Trens pegou fogo na região do Brás; transporte estava lotado de passageiros",
+      "location": "Brasil",
+      "category": "Mobilidade"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Chuvas deixam mais de 1,8 mil pessoas fora de casa no Rio Grande do Sul",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYjBhYmpZVUtUYTBTY0Qtc3pEaXNKVEwtOHJGSnloTjZjNUctanB3cjBEclo4Si1NSUNfY3BoLXp2YW9BaXQ1T0ljNGN2aWhTRUlabHpzbVp6M244bHhJVG5FU3gzUzJ2ZGE3c3BJU3k5ZHpaV1c2X29URTFrSDIzUG56SHVocjNhSFNKeDA3WUl5cFQzUU1MNENvQmNhU2hVUkJ0N2JpSVlpYnY5YzVSdU9PSm1Kc0liOV9V?oc=5",
+      "date": "2026-07-24T09:51:52+00:00",
+      "description": "Chuvas deixam mais de 1,8 mil pessoas fora de casa no Rio Grande do Sul  Jornal de Brasília",
+      "location": "RS",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Elevação do rio Guaíba causa alerta para inundações na Grande Porto Alegre",
+      "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/elevacao-do-rio-guaiba-causa-alerta-para-inundacoes-na-grande-porto-alegre/",
+      "date": "2026-07-24T09:48:45",
+      "description": "Segundo a Defesa Civil estadual, há alto risco para inundação principalmente nas ilhas da cidade; Rio Uruguai e Jacuí também estão em inundação",
+      "location": "Porto Alegre",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "Prefeito de Kiev diz que capital ucraniana está sob ataque da Rússia",
+      "link": "https://www.cnnbrasil.com.br/internacional/prefeito-de-kiev-diz-que-capital-ucraniana-esta-sob-ataque-da-russia/",
+      "date": "2026-07-24T09:46:41",
+      "description": "Testemunhas da agência de notícias Reuters relataram diversos estrondos na cidade, com pessoas buscando abrigos em meio ao bombardeio",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "Governo Trump reacende a guerra comercial com nova leva de tarifas",
+      "link": "https://www.cartacapital.com.br/mundo/governo-trump-reacende-a-guerra-comercial-com-nova-leva-de-tarifas/",
+      "date": "2026-07-24T09:39:09",
+      "description": "O Brasil está entre os países mais afetados pelas novas cobranças impostas sobre produtos importados pelos EUA",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "PoderData: para 50%, idade de Lula não é problema; para 43%, é problema",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/poderdata-para-50-idade-de-lula-nao-e-problema-para-43-e-problema/",
+      "date": "2026-07-24T09:31:20",
+      "description": "Pesquisa ouviu 2.500 pessoas entre 18 e 20 de julho, em todo o território nacional; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+      "location": "Brasil",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "Matinal",
+      "group": "RS",
+      "title": "✉️ Condomínio na Lomba do Pinheiro barrado pela justiça, alerta de elevação do Guaíba, suspensão do lançamento de esgoto no Rio Tramandaí: as notícias desta sexta-feira",
+      "link": "https://www.matinal.org/6a6274fea5076d0001456057/",
+      "date": "2026-07-24T09:30:35",
+      "description": "Edição #1687",
+      "location": "RM",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "CNN Brasil",
+      "group": "Nacional",
+      "title": "PoderData: 52% preferem elevar relações comerciais com China; 35%, com EUA",
+      "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/poderdata-52-preferem-elevar-relacoes-comerciais-com-china-35-com-eua/",
+      "date": "2026-07-24T09:30:23",
+      "description": "Pesquisa ouviu 2.500 eleitores entre os dias 18 e 20 de julho; margem de erro é de dois pontos percentuais, para mais ou para menos",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "group": "Nacional",
+      "title": "A literatura infantil como estratégia de educação midiática",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/07/a-literatura-infantil-como-estrategia-de-educacao-midiatica.shtml",
+      "date": "2026-07-24T09:30:00",
+      "description": "Na floresta do livro infantil \"O Lobo de Cueca\", de Wilfrid Lupano e Mayana Itoïzed (Via Lúdica), a vida gira em torno de uma certeza: no alto da colina vive um lobo feroz, de dentes afiados, pronto para atacar a qualquer momento. Há jornais que alimentam o medo, cartazes espalhados pelas árvores, l",
+      "location": "Porto Alegre",
       "category": "Educação"
     },
     {
@@ -72,16 +722,6 @@
       "description": "Militar diz que tropas são atacadas o tempo todo com morteiros, artilharia e drones, enquanto os russos tentam avançar usando qualquer veículo, inclusive motos e quadriciclos",
       "location": "Brasil",
       "category": "Política"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Derrete ou não?",
-      "link": "https://www.metropoles.com/blog-do-noblat/enquetes/derrete-ou-nao",
-      "date": "2026-07-24T09:00:17",
-      "description": "Enquete",
-      "location": "Brasil",
-      "category": "Sem classificação"
     },
     {
       "source": "CNN Brasil",
@@ -164,26 +804,6 @@
       "category": "Tecnologia"
     },
     {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Clima: frente fria leva chuva ao Sudeste enquanto ar seco domina país",
-      "link": "https://www.metropoles.com/brasil/clima-frente-fria-leva-chuva-ao-sudeste-enquanto-ar-seco-domina-pais",
-      "date": "2026-07-24T08:55:34",
-      "description": "Impulsionado pela presença contínua do El Niño, o cenário nacional do clima reforça o padrão de polarização climática no inverno",
-      "location": "Brasil",
-      "category": "Meio Ambiente"
-    },
-    {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Rios acima da cota de inundação em oito municípios, Guaíba em elevação e Vale do Sinos em alerta; veja a situação da enchente no RS",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPTnU1aS1kcVNIQTV3bklNRGVVbGZ6cjhKOHlJYVNFZkdfbmQ0c3VZZk1nTUVydW1PbE5WU09aQ25mOFNmNS1rem5jVUk2blVwRDdxSDNGLTk2czV3bHRhbjB4MHZULVA3NGQ4TG4ycnpyd0xLSXlVdGFTTWNHa0VreFZBd3ZJVDFFZVRUa0JwY0k4YzA2dEtWTEstejV6ODhFNjdFTlJFQncySnU5dXRPd3NGS09RS3Bmcy1sM2todXliSmpXMVBVeXFFeGVpV2RqSnNUV1FLb0Faa0tIMnExZHZwVkRkTkNFekhpUjMtT3NBbG83WERtSXpGMC0ySEYtaS1YTFlIUUFfaFZNbTVqeng0UGFQbTRpd0RaR3VDa0ZyQk5CLUJGeTNESHktYXMtQ0JrcnIxekp0WXRDdXc?oc=5",
-      "date": "2026-07-24T08:46:07+00:00",
-      "description": "Rios acima da cota de inundação em oito municípios, Guaíba em elevação e Vale do Sinos em alerta; veja a situação da enchente no RS  GZH",
-      "location": "RM",
-      "category": "Meio Ambiente"
-    },
-    {
       "source": "Matinal",
       "group": "RS",
       "title": "Justiça Federal suspende obras de condomínio popular na Lomba do Pinheiro",
@@ -201,26 +821,6 @@
       "date": "2026-07-24T08:30:13",
       "description": "Circuito é desafiador com poucas oportunidades de ultrapassagem e curvas de baixa velocidade, exigindo precisão dos pilotos",
       "location": "Brasil",
-      "category": "Meio Ambiente"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Baixa no PT da Bahia fortalece campanha de Benedita no Rio",
-      "link": "https://www.metropoles.com/colunas/milena-teixeira/baixa-no-pt-da-bahia-fortalece-campanha-de-benedita",
-      "date": "2026-07-24T08:30:06",
-      "description": "Secretário de Comunicação deixa cargo para chefiar campanha da deputada Benedita da Silva ao Senado Federal",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Chuva recua, mas rios em alta mantêm alerta de inundação no Guaíba e no interior do RS",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNaldNa095a0hEX2lDZ09tLVZOb0R4RE1iSDJnWTRCaTdBY3VCeFlkQlE1QUpHTHU2MUJ4eFFWOW1wNk1RUlBrV2ppUEg3UXFDZ2hxMjBuQXJWa2R6UlVuTVpIcHVMYlhKV0QxakgwQ2hRcTdia2NtWkw2QUk5NGZNdmgyOUVZVnFWNkRiUnFXTno0dnpRdmJJUTE4c0VCR3VKd2JYQ0U3OGtLdVlrNE5FZUpEeDYyazlhQUNMdTNvMU9scFU3d3FpRE4wQy1XRnZfeW9zNEZMTUpYTGljV1hnYWUxU05nd0dYbTVUUlFVSVNhMVdFa0IzMmRTbUNCUXBLRlE?oc=5",
-      "date": "2026-07-24T08:15:18+00:00",
-      "description": "Chuva recua, mas rios em alta mantêm alerta de inundação no Guaíba e no interior do RS  GZH",
-      "location": "RM",
       "category": "Meio Ambiente"
     },
     {
@@ -254,12 +854,12 @@
       "category": "Política"
     },
     {
-      "source": "Metrópoles",
+      "source": "Google News",
       "group": "Nacional",
-      "title": "Charge do Aroeira",
-      "link": "https://www.metropoles.com/blog-do-noblat/charges/charge-do-aroeira-866",
-      "date": "2026-07-24T08:00:23",
-      "description": "Humor",
+      "title": "Chuvas no RS já causam estragos em lavouras",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRktfX0hOQXhpYnY4Vm9la2gtLWFPRWJFdEw0Rlk2bjFtVm44Y1NNaUVMSVR5QU9ac3VsR0hDaXNBd2YzRzBXX1VacGpmNUNCQjVwQjU4ZXR3NXUtR3g1TkJiZlBtMk5PSlBqSlhoTm9yZ1hPN09yY3JqT0ZJTTJiY2VSZElDMVlKMm5hMktISVF4OW5mbnc0NXM4ZmY3dFMwVTEyYlREMWvSAbcBQVVfeXFMTXdSVjdTd2o4MndBczl2UTRRLVpEbW9GZTl5VnNGeGpPOFBoVDJ1MmczMFRaRzZWbTkybFlZdzQwRldGVGhGUGwzODhZRUYxMjBCalVKWU5XSl9oNlFLWExBRjhYZUM4ZW5qSDBfMnRXMlJBaUg3bVRsYVNVTzFNQlFrOGllVllxNERWZUlPTkw3ZmRMM0RqV0UzcTJGNkZ3QXV5b0h4dW91d2R2aGZFcHpTT2hHNWNZ?oc=5",
+      "date": "2026-07-24T08:00:17+00:00",
+      "description": "Chuvas no RS já causam estragos em lavouras  Valor Econômico",
       "location": "Brasil",
       "category": "Sem classificação"
     },
@@ -276,7 +876,7 @@
     {
       "source": "Folha de S.Paulo",
       "group": "Nacional",
-      "title": "'Impressão digital química' de árvores pode ajuda no combate ao tráfico de madeira da amazônia",
+      "title": "'Impressão digital química' de árvores pode ajudar no combate ao tráfico de madeira da amazônia",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/07/impressao-digital-quimica-de-arvores-pode-ajuda-no-combate-ao-trafico-de-madeira-da-amazonia.shtml",
       "date": "2026-07-24T08:00:00",
       "description": "Um mapa da distribuição de isótopos na madeira de árvores amazônicas pode ser usado para ajudar na identificação de madeira extraída ilegalmente da floresta. O uso da razão entre diferentes formas de elementos como oxigênio, carbono, nitrogênio e estrôncio permite apontar com maior precisão a região",
@@ -304,63 +904,13 @@
       "category": "Segurança"
     },
     {
-      "source": "Metrópoles",
+      "source": "Google News",
       "group": "Nacional",
-      "title": "Chinesa resolve problema centenário e ganha \"Nobel\" da matemática",
-      "link": "https://www.metropoles.com/mundo/chinesa-resolve-problema-centenario-e-ganha-nobel-da-matematica",
-      "date": "2026-07-24T07:44:36",
-      "description": "Estudo respondendo à questão feita em 1917 foi publicado no ano passado. Matemática chinesa Wang Hong ganhou a Medalha Fields 2026",
-      "location": "Brasil",
-      "category": "Meio Ambiente"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Venezuela ainda não tem caminho da reconstrução um mês após terremotos",
-      "link": "https://www.metropoles.com/mundo/venezuela-ainda-nao-tem-caminho-da-reconstrucao-um-mes-apos-terremotos",
-      "date": "2026-07-24T07:30:53",
-      "description": "Terremotos que abalaram a Venezuela completam um mês nesta sexta-feira, enquanto país tenta se reerguer e encontrar vítimas da tragédia",
-      "location": "Brasil",
-      "category": "Urbanismo"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Master: PT retoma ofensiva a Flávio após inquérito sobre Dark Horse",
-      "link": "https://www.metropoles.com/brasil/master-pt-retoma-ofensiva-a-flavio-apos-inquerito-sobre-dark-horse",
-      "date": "2026-07-24T07:30:36",
-      "description": "Polícia Federal vai investigar o repasse de R$ 61 milhões para a produção do filme Dark Horse, sobre o ex-presidente Jair Bolsonaro",
-      "location": "Brasil",
-      "category": "Tecnologia"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Caso Master volta a gerar preocupação nos aliados de Flávio Bolsonaro",
-      "link": "https://www.metropoles.com/brasil/caso-master-volta-a-gerar-preocupacao-nos-aliados-de-flavio-bolsonaro",
-      "date": "2026-07-24T07:30:18",
-      "description": "Interlocutores avaliam que abertura de inquérito prolonga crise e aumenta a resistência de partidos do Centrão",
-      "location": "Brasil",
-      "category": "Esporte"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "O que a campanha de Lula calcula para participação em debates na TV",
-      "link": "https://www.metropoles.com/brasil/o-que-a-campanha-de-lula-calcula-para-participacao-em-debates-na-tv",
-      "date": "2026-07-24T07:30:05",
-      "description": "Lula teme virar alvo de ataques coordenados de adversários durante confrontos na campanha pela reeleição. Decisão ainda não está tomada",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Convenção e Caso Master levaram Flávio a pedir desculpas a Michelle",
-      "link": "https://www.metropoles.com/colunas/igor-gadelha/convencao-e-caso-master-levaram-flavio-a-pedir-desculpas-a-michelle",
-      "date": "2026-07-24T07:30:01",
-      "description": "Vídeo de Flávio Bolsonaro pedindo desculpas foi exigência de Michelle para reatar com o senador, que resistiu inicialmente a fazer o gesto",
-      "location": "Brasil",
+      "title": "Governo reconhece situação de emergência em 17 cidades do Rio Grande do Sul",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnU2NGtRajVFTk1lQ2NmNDFyWEpmdU9HdEdzcDhPN0doRnNCaTVOclFrQUpmOWVUTHNjbGg5LXlnOU5nY1hDaTdRSTJsUjd4aEtDUlBleW56RXlxeVVza1pEQXp2Q1hVZWxJZWc5S3IyUGU0eDZ0X2ZGNV9UM1IxSXVTTTVnbFJTbXNiZlRHVTJXMlEwdVA0LTBjci1hUUluTGluX01GaTNpVWFYTWdsQ2VrU0RITG1tNFBrbtIBwgFBVV95cUxPWXR0X0pkSGY4OGc4SGhPaHA4QzdJWmJuNnV0WWNPRy1wSEtvNFE3VDFwVkpMRXdnUnh2eGNLQjdJRW9acGp2UFhwbDMzVUl3a1I4em44OFNqNGkzSTZ1c25aa2Z5ajhYVkJrNmdKWmlpZnRzOU12aVZjTy1zbFpqYXdGbUp2eG8zSG03TmIxNm9qckVnOV9uY2tTZDJROTZ6Uk10Ynlwa3lCendjNEcxNXdtNkR4NXhXY3k4LTFzUWdyQQ?oc=5",
+      "date": "2026-07-24T07:30:28+00:00",
+      "description": "Governo reconhece situação de emergência em 17 cidades do Rio Grande do Sul  O TEMPO",
+      "location": "RS",
       "category": "Política"
     },
     {
@@ -384,26 +934,6 @@
       "category": "Sem classificação"
     },
     {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Vorcaro é intimado a pagar honorários em ação defendida pela mulher de Moraes",
-      "link": "https://www.metropoles.com/colunas/manoela-alcantara/vorcaro-e-intimado-a-pagar-honorarios-em-acao-defendida-pela-mulher-de-moraes",
-      "date": "2026-07-24T07:15:02",
-      "description": "Banqueiro perdeu ação por calúnia e difamação e é representado no processo por Viviane Barci, esposa de Moraes",
-      "location": "Brasil",
-      "category": "Meio Ambiente"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Filho de golpista, golpista é. Os Bolsonaros são prova disso",
-      "link": "https://www.metropoles.com/blog-do-noblat/ricardo-noblat/filho-de-golpista-golpista-e-os-bolsonaros-sao-prova-disso",
-      "date": "2026-07-24T07:03:09",
-      "description": "Qual é a jogada de Michelle?",
-      "location": "Brasil",
-      "category": "Esporte"
-    },
-    {
       "source": "CNN Brasil",
       "group": "Nacional",
       "title": "Ações do governo Lula somam ao menos R$ 256,9 bilhões no ano eleitoral",
@@ -422,16 +952,6 @@
       "description": "Diplomatas presentes em evento com o senador Flávio Bolsonaro ( PL -RJ), na última terça (21), avaliaram que a fala do presidenciável propagando informações falsas a respeito das urnas eletrônicas foi inadequada e pode jogar sombra sobre as eleições brasileiras. Leia mais (07/24/2026 - 04h02)",
       "location": "Brasil",
       "category": "Política"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Países contestam novas taxas impostas pelos EUA: \"Sem fundamento\"",
-      "link": "https://www.metropoles.com/mundo/paises-contestam-novas-taxas-impostas-pelos-eua-sem-fundamento",
-      "date": "2026-07-24T07:01:50",
-      "description": "Diversos países foram taxados pelos EUA ao fim de uma investigação sobre trabalho forçado. Tarifas variam de 10% a 12,5%",
-      "location": "Brasil",
-      "category": "Tecnologia"
     },
     {
       "source": "CNN Brasil",
@@ -464,26 +984,6 @@
       "category": "Sem classificação"
     },
     {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Policial preso nos EUA por ordem de Moraes voltará a receber salário",
-      "link": "https://www.metropoles.com/colunas/manoela-alcantara/policial-preso-nos-eua-por-ordem-de-moraes-voltara-a-receber-salario",
-      "date": "2026-07-24T07:00:39",
-      "description": "Conhecido como \"Bonitão\", o policial é investigado pela PF por suposta atuação em favor do CV para obstruir a extradição de um traficante",
-      "location": "Brasil",
-      "category": "Economia"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "EUA taxa produtos brasileiros em até 37,5% a partir desta 6ª",
-      "link": "https://www.metropoles.com/brasil/produtos-brasileiros-serao-taxados-em-ate-375-a-partir-desta-6a-veja-lista",
-      "date": "2026-07-24T07:00:32",
-      "description": "Nova sobretaxa dos EUA atinge cerca de 3 mil produtos brasileiros e eleva tributação para até 37,5%",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
       "source": "CNN Brasil",
       "group": "Nacional",
       "title": "Fórmula 1: horário e onde assistir ao Grande Prêmio da Hungria",
@@ -492,16 +992,6 @@
       "description": "Circuito de Hungaroring será palco da 11ª etapa da temporada de 2026",
       "location": "Brasil",
       "category": "Meio Ambiente"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Celina ajudou a elaborar roteiro dos vídeos de Flavio e Michelle",
-      "link": "https://www.metropoles.com/colunas/milena-teixeira/celina-ajudou-a-elaborar-roteiro-dos-videos-de-flavio-e-michelle",
-      "date": "2026-07-24T07:00:10",
-      "description": "Governadora do DF ajudou a mediar a paz entre Flávio e Michelle e participou da elaboração dos vídeos de reconciliação",
-      "location": "Brasil",
-      "category": "Tecnologia"
     },
     {
       "source": "CNN Brasil",
@@ -600,16 +1090,6 @@
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/camila-morgado-volta-a-globo-apos-dois-anos-para-fazer-vila-na-proxima-novela-das-seis.shtml",
       "date": "2026-07-24T07:00:00",
       "description": "Fora da Globo desde 2024, quando fez Dona Patroa no remake de \" Renascer \" (2024), a atriz Camila Morgado está de volta à emissora. Ela assinou contrato na última quinta-feira (23) para fazer a grande vilã de \"Lá na Minha Terra\", próxima novela das seis da emissora. Leia mais (07/24/2026 - 04h00)",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
-      "source": "Metrópoles",
-      "group": "Nacional",
-      "title": "Missão lança ex-funkeiro do Bonde do Rolê a deputado federal no Paraná",
-      "link": "https://www.metropoles.com/colunas/andreza-matais/missao-lanca-ex-funkeiro-do-bonde-do-role-a-deputado-federal-no-parana",
-      "date": "2026-07-24T07:00:00",
-      "description": "Um dos fundadores da Missão, do pré-candidato Renan Santos, Pedro Deyrot fez sucesso nos anos 2000 com o Bonde do Rolê",
       "location": "Brasil",
       "category": "Política"
     },
@@ -739,7 +1219,7 @@
       "title": "Chuvas afetam 206 cidades no Rio Grande do Sul e deixam 1.880 pessoas fora de casa",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVGlrUmY2RVdZRE9tM0JtQmYwLXhsWVFSWTh2eDJfQmVYejBIZFQ3N3RzVUoyYWtib2NWWWFyb2FrXzhPT2llb2REbWJhTFloazllVGg3ZjZ3NDB1bHVIY3VpTnQ4RjdtcndzbzI5Y1RiY1hENFNTVlVZdFBHbG9BMlVtVWo?oc=5",
       "date": "2026-07-24T03:35:53+00:00",
-      "description": "Chuvas afetam 206 cidades no Rio Grande do Sul e deixam 1.880 pessoas fora de casa  ndmais.com.br",
+      "description": "Chuvas afetam 206 cidades no Rio Grande do Sul e deixam 1.880 pessoas fora de casa  ND Mais",
       "location": "RS",
       "category": "Meio Ambiente"
     },
@@ -914,6 +1394,16 @@
       "category": "Esporte"
     },
     {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "A próxima pesquisa Quaest sobre a disputa pelo governo de São Paulo",
+      "link": "https://www.cartacapital.com.br/politica/a-proxima-pesquisa-quaest-sobre-a-disputa-pelo-governo-de-sao-paulo/",
+      "date": "2026-07-24T02:24:15",
+      "description": "A divulgação dos resultados deve ocorrer na próxima quarta-feira 29",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
       "source": "Folha de S.Paulo",
       "group": "Nacional",
       "title": "PF desarticula rede que exportava cocaína em sacas de café e cimento",
@@ -952,6 +1442,16 @@
       "description": "A Defesa Civil de Porto Alegre emitiu alerta para alto de risco de inundaões em áreas próximas da orla em bairros...",
       "location": "Porto Alegre",
       "category": "Urbanismo"
+    },
+    {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "Ministro chama tarifa dos EUA de ‘indevida’ e promete reação",
+      "link": "https://www.cartacapital.com.br/politica/ministro-chama-tarifa-dos-eua-de-indevida-e-promete-reacao/",
+      "date": "2026-07-24T02:15:18",
+      "description": "Governo contesta taxa de 12,5% e prioriza negociação com os EUA",
+      "location": "Brasil",
+      "category": "Política"
     },
     {
       "source": "CNN Brasil",
@@ -1209,7 +1709,7 @@
       "title": "Governo age para afastar centrão de Flávio Bolsonaro, e Lula deve poupar Ciro Nogueira na campanha",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/07/governo-age-para-afastar-centrao-de-flavio-bolsonaro-e-lula-deve-poupar-ciro-nogueira-na-campanha.shtml",
       "date": "2026-07-24T02:00:00",
-      "description": "Emissários do presidente Lula (PT) fizeram uma ofensiva para afastar o centrão do senador Flávio Bolsonaro (PL-RJ) , em uma tentativa de deixar seu principal adversário na corrida presidencial isolado na eleição deste ano. Com aval do Planalto, petisas mantiveram conversas com as cúpulas de Republic",
+      "description": "Emissários do presidente Lula (PT) fizeram uma ofensiva para afastar o centrão do senador Flávio Bolsonaro (PL-RJ) , em uma tentativa de deixar seu principal adversário na corrida presidencial isolado na eleição deste ano. Com aval do Planalto, petistas mantiveram conversas com as cúpulas de Republi",
       "location": "Brasil",
       "category": "Política"
     },
@@ -1264,6 +1764,16 @@
       "category": "Política"
     },
     {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "Advogado nega que Bolsonaro tenha atendido ligação de Alexandre Frota",
+      "link": "https://www.cartacapital.com.br/politica/advogado-nega-que-bolsonaro-tenha-atendido-ligacao-de-alexandre-frota/",
+      "date": "2026-07-24T01:51:00",
+      "description": "Durante uma transmissão ao vivo, o vereador realizou uma ligação e uma voz que foi atribuída ao ex-presidente atendeu",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
       "source": "Folha de S.Paulo",
       "group": "Nacional",
       "title": "EUA aplicam sanções a ministro da Saúde de Cuba e rede de brigadas médicas no exterior",
@@ -1294,16 +1804,6 @@
       "category": "Política"
     },
     {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Ana Castela lamenta morte de fã em show em MG: “Que Deus conforte”",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/ana-castela-lamenta-morte-de-fa-em-show-em-mg-que-deus-conforte/",
-      "date": "2026-07-24T01:37:41",
-      "description": "Cantora sertaneja expressou solidariedade à família de Givone que faleceu durante a 39ª Expo Mutum em Minas Gerais",
-      "location": "Brasil",
-      "category": "Tecnologia"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Nível do Guaíba pode ficar a 30 centímetros da cota de inundação no cais de Porto Alegre neste fim de semana",
@@ -1322,16 +1822,6 @@
       "description": "Seis anos depois da morte de Chadwick Boseman , astro de \"Pantera Negra\" , a família do ator ainda enfrenta uma batalha judicial para tentar retirar Taylor Simone Ledward Boseman, viúva do astro, da administração da herança deixada por ele. Leia mais (07/23/2026 - 22h33)",
       "location": "Brasil",
       "category": "Política"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "EUA pretendem fechar acordos provisórios com Canadá e México até fim do ano",
-      "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/eua-pretendem-fechar-acordos-provisorios-com-canada-e-mexico-ate-fim-do-ano/",
-      "date": "2026-07-24T01:31:16",
-      "description": "USTR deu sinal mais claro até momento de que USMCA não será renovado em 2026",
-      "location": "Brasil",
-      "category": "Meio Ambiente"
     },
     {
       "source": "G1 RS",
@@ -1374,34 +1864,14 @@
       "category": "Meio Ambiente"
     },
     {
-      "source": "CNN Brasil",
+      "source": "Carta Capital",
       "group": "Nacional",
-      "title": "Cenógrafa de “Sr. e Sra. Smith” é encontrada morta aos 34 anos, diz site",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/cenografa-de-sr-e-sra-smith-e-encontrada-morta-aos-34-anos-diz-site/",
-      "date": "2026-07-24T01:19:09",
-      "description": "Polícia de Nova York investiga caso como possível homicídio seguido de suicídio envolvendo ferimentos de faca",
+      "title": "CMN regulamenta renegociação de dívidas rurais; veja quem pode aderir",
+      "link": "https://www.cartacapital.com.br/economia/cmn-regulamenta-renegociacao-de-dividas-rurais-veja-quem-pode-aderir/",
+      "date": "2026-07-24T01:17:21",
+      "description": "Nova linha permite parcelar débitos em até 10 anos com juros menores",
       "location": "Brasil",
       "category": "Tecnologia"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Defesa Civil alerta para inundação do Rio Jacuí com risco “Muito alto”",
-      "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/defesa-civil-alerta-para-inundacao-do-rio-jacui-com-risco-muito-alto/",
-      "date": "2026-07-24T01:15:52",
-      "description": "Na madrugada desta sexta-feira (24), foi contabilizado 1.315 pessoas desabrigadas, enquanto o número de desalojados chegou a 565, totalizando 1.880 pessoas fora de casa",
-      "location": "Brasil",
-      "category": "Meio Ambiente"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Waack: Trump dribla a Suprema Corte para taxar o mundo",
-      "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/waack-trump-dribla-a-suprema-corte-para-taxar-o-mundo/",
-      "date": "2026-07-24T01:07:08",
-      "description": "A alegação é apenas um subterfúgio para dar um drible na Suprema Corte americana, que tinha negado a Trump em fevereiro o uso dos instrumentos legais que utilizara até ali para seus tarifaços",
-      "location": "Brasil",
-      "category": "Sem classificação"
     },
     {
       "source": "Folha de S.Paulo",
@@ -1454,16 +1924,6 @@
       "category": "Segurança"
     },
     {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Em live, Flávio Bolsonaro diz ser alvo de “perseguição desproporcional”",
-      "link": "https://www.cnnbrasil.com.br/politica/em-live-flavio-bolsonaro-diz-ser-alvo-de-perseguicao-desproporcional/",
-      "date": "2026-07-24T00:58:38",
-      "description": "Pré-candidato ainda reclamou de vazamento de notas fiscais emitidas para empresa ligada ao caso Master",
-      "location": "Brasil",
-      "category": "Economia"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Novas regras da Copa do Mundo só devem entrar em vigor em agosto",
@@ -1494,24 +1954,14 @@
       "category": "Política"
     },
     {
-      "source": "CNN Brasil",
+      "source": "Carta Capital",
       "group": "Nacional",
-      "title": "Anitta lança “Equilibrivm II” com participação de Bethânia, MC Tha e mais",
-      "link": "https://www.cnnbrasil.com.br/pop/musica/anitta-lanca-equilibrivm-ii-com-participacao-de-bethania-mc-tha-e-mais/",
-      "date": "2026-07-24T00:45:13",
-      "description": "Mart'nália, Alceu Valença e Maria Bethânia estão entre os artistas que participam das 17 novas músicas do álbum",
+      "title": "EUA elevam pressão contra Cuba e sancionam ministro da Saúde",
+      "link": "https://www.cartacapital.com.br/mundo/eua-elevam-pressao-contra-cuba-e-sancionam-ministro-da-saude/",
+      "date": "2026-07-24T00:44:24",
+      "description": "A nova rodada de sanções inclui ainda a rede de brigadas médicas no exterior, a principal fonte de divisas do governo",
       "location": "Brasil",
-      "category": "Cultura"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Policial militar morre atropelado na zona sul de São Paulo; veja vídeo",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policial-militar-morre-atropelado-na-zona-sul-de-sao-paulo-veja-video/",
-      "date": "2026-07-24T00:43:13",
-      "description": "Vítima de 50 anos foi atingida por motorista na contramão na avenida Nove de Julho",
-      "location": "Brasil",
-      "category": "Tecnologia"
+      "category": "Política"
     },
     {
       "source": "O Sul",
@@ -1522,36 +1972,6 @@
       "description": "Construída após as enchentes de 2024, derrubada meses depois por novo episódio de chuva e reerguida pela comunidade, a ponte sobre...",
       "location": "Brasil",
       "category": "Meio Ambiente"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Botafogo provoca Palmeiras nas redes sociais após fim da “novela Danilo”",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/botafogo-provoca-palmeiras-nas-redes-sociais-apos-fim-da-novela-danilo/",
-      "date": "2026-07-24T00:37:26",
-      "description": "Meio-campista atingiu limite de jogos pelo Glorioso e não pode mais defender outra equipe da Série A em 2026",
-      "location": "Brasil",
-      "category": "Meio Ambiente"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Botafogo acumula chances perdidas e empata com Vitória pelo Brasileirão",
-      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/botafogo-acumula-chances-perdidas-e-empata-com-vitoria-pelo-brasileirao/",
-      "date": "2026-07-24T00:36:01",
-      "description": "Partida marcou o \"fico\" do volante Danilo, que entrou no segundo tempo",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Análise: Trump muda mecanismo, mas continua aplicando tarifas ao mundo",
-      "link": "https://www.cnnbrasil.com.br/internacional/analise-trump-muda-mecanismo-mas-continua-aplicando-tarifas-ao-mundo/",
-      "date": "2026-07-24T00:35:00",
-      "description": "USTR confirma nova tarifa de 12,5% contra mais de 80 países, incluindo o Brasil, sob argumento de trabalho forçado nas cadeias produtivas; o analista de Internacional da CNN Lourival Sant'Anna comenta o tema ao CNN Prime Time",
-      "location": "Brasil",
-      "category": "Esporte"
     },
     {
       "source": "O Sul",
@@ -1614,16 +2034,6 @@
       "category": "Educação"
     },
     {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Raízen nomeia Felix Faber como vice-presidente do Conselho de Administração",
-      "link": "https://www.cnnbrasil.com.br/agro/raizen-nomeia-felix-faber-como-vice-presidente-do-conselho-de-administracao/",
-      "date": "2026-07-24T00:27:50",
-      "description": "Executivo indicado pela Shell tem mais de 26 anos de experiência no setor de energia e já ocupou cargos de liderança em diferentes países",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Copa do Mundo: criticada pelo jogo, às vezes sonolento, campeã Espanha sentiu falta de um goleador, mas sobrou no Mundial",
@@ -1644,26 +2054,6 @@
       "category": "Esporte"
     },
     {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Yuri Alberto marca dois, e Corinthians vence o Remo no Brasileirão",
-      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/yuri-alberto-marca-dois-e-corinthians-vence-o-remo-no-brasileirao/",
-      "date": "2026-07-24T00:27:00",
-      "description": "Equipe paulista subiu na tabela após superar o adversário paraense por 3 a 0 na Neo Química Arena",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Avião da Voepass não deveria sequer ter decolado, diz Cenipa",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/aviao-da-voepass-nao-deveria-sequer-ter-decolado-diz-cenipa/",
-      "date": "2026-07-24T00:26:19",
-      "description": "Cenipa conclui que aeronave operava com sistema de proteção contra gelo inoperante e aponta falhas da empresa, da tripulação e da Anac no acidente que matou 62 pessoas",
-      "location": "Brasil",
-      "category": "Mobilidade"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Receita Federal abre consultas ao terceiro lote de restituição do Imposto de Renda nesta sexta-feira",
@@ -1674,26 +2064,6 @@
       "category": "Economia"
     },
     {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Danilo entra em campo pelo Botafogo e não vai mais para o Palmeiras",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/danilo-entra-em-campo-pelo-botafogo-e-nao-vai-mais-para-o-palmeiras/",
-      "date": "2026-07-24T00:22:05",
-      "description": "Volante que disputou a Copa do Mundo era alvo do seu ex-clube",
-      "location": "Brasil",
-      "category": "Esporte"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Intel realiza projeção acima do esperado e ações sobem 5%",
-      "link": "https://www.cnnbrasil.com.br/economia/mercado/intel-realiza-projecao-acima-do-esperado-e-acoes-sobem-5/",
-      "date": "2026-07-24T00:20:00",
-      "description": "Empresa estima receita entre US$ 15,8 bilhões e US$ 16,8 bilhões para o terceiro trimestre",
-      "location": "Brasil",
-      "category": "Mobilidade"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Deputado federal Nikolas Ferreira diz que vídeo de Flávio Bolsonaro para Michelle ajuda na pacificação do grupo político antes das eleições",
@@ -1702,16 +2072,6 @@
       "description": "O deputado federal Nikolas Ferreira (PL-MG) avaliou que o pedido público de desculpas feito pelo senador Flávio Bolsonaro (PL-RJ) à ex-primeira-dama...",
       "location": "Brasil",
       "category": "Política"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Frota explica fala de Claudia Raia sobre ser “sem limites” em casamento",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/frota-explica-fala-de-claudia-raia-sobre-ser-sem-limites-em-casamento/",
-      "date": "2026-07-24T00:19:29",
-      "description": "Alexandre Frota e a atriz foram casados entre 1986 e 1988",
-      "location": "Brasil",
-      "category": "Mobilidade"
     },
     {
       "source": "Folha de S.Paulo",
@@ -1794,32 +2154,12 @@
       "category": "Esporte"
     },
     {
-      "source": "CNN Brasil",
+      "source": "Carta Capital",
       "group": "Nacional",
-      "title": "Grêmio sofre na altitude e sai atrás do Bolívar no playoff da Sul-Americana",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/gremio-sofre-na-altitude-e-sai-atras-do-bolivar-no-playoff-da-sul-americana/",
-      "date": "2026-07-24T00:10:20",
-      "description": "Partida em La Paz teve quatro gols antes dos 23 minutos",
-      "location": "Brasil",
-      "category": "Esporte"
-    },
-    {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Chuva afeta mais de 200 cidades no Rio Grande do Sul",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOclRtTDl4dHNnVkctTW5UZ0d6Y3N5SERZM1NLR3RHRGNHRHNKMGRKOHF0VDdaTHRyVEpiLUk1RF9nZ2Nuc2VMWEpBVkJmcUZGYkplaFRqZkNpT1JaOTljU1lWYzJYV3RfSXZtOEhyOWRLSXJZTGVubm02TDdTVkxrcjhvNDlNNm1RbmEzTjA2bUpUSkRwMnNwODBEUFlFdl9VX0hFclh2S0pZV2N2b1Iw0gG-AUFVX3lxTE02TjNONFBiclpVYVJmelBMVVRwSXNVYnNBVWxKZ2IxOEhVOXltUDhPVFozSFF4OG5mT0pzVmxKZlJDX0MtcUlrTU03ZnZQenZMSkl0M2RjbFNPVEVwbEszZDBscG1GMHBWZHR2eU1ZSEF5Sy0tZTNFVUNfZU5ES2FSVzhZcDltQWwzc3NuUG5oU2VTR0NHMjdZOHhTY3c2WWx4RktQM1ZZcWMyendXWW1mcFI2dk44aVJJUHFkN1E?oc=5",
-      "date": "2026-07-24T00:09:29+00:00",
-      "description": "Chuva afeta mais de 200 cidades no Rio Grande do Sul  G1",
-      "location": "RS",
-      "category": "Meio Ambiente"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Avião da Voepass tinha 10 falhas antes do acidente, aponta Cenipa",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/aviao-da-voepass-tinha-10-falhas-antes-do-acidente-aponta-cenipa/",
-      "date": "2026-07-24T00:08:04",
-      "description": "Relatório final sobre a queda de agosto de 2024 revela que sistema de degelo e limpador de para-brisa apontavam problemas",
+      "title": "STJ libera retomada de cobrança de dívidas do Grupo Manguinhos",
+      "link": "https://www.cartacapital.com.br/justica/stj-libera-retomada-de-cobranca-de-dividas-do-grupo-manguinhos/",
+      "date": "2026-07-24T00:06:18",
+      "description": "Pedido foi feito pela Procuradoria Geral do Estado do Rio de Janeiro",
       "location": "Brasil",
       "category": "Meio Ambiente"
     },
@@ -1842,26 +2182,6 @@
       "description": "O ministro do Supremo Tribunal Federal (STF) André Mendonça determinou à Polícia Federal que todos os atos da investigação sobre fraudes...",
       "location": "Brasil",
       "category": "Segurança"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "“É urgente apoiar setores afetados por tarifaço”, afirma presidente da CNI",
-      "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/e-urgente-apoiar-setores-afetados-por-tarifaco-afirma-presidente-da-cni/",
-      "date": "2026-07-23T23:57:06",
-      "description": "Ricardo Alban destacou a necessidade de suporte emergencial às indústrias impactadas e celebrou continuidade das negociações com Washington",
-      "location": "Brasil",
-      "category": "Mobilidade"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Veja os setores do agro isentos da tarifa de 12,5% dos EUA",
-      "link": "https://www.cnnbrasil.com.br/agro/veja-os-setores-do-agro-isentos-da-tarifa-de-125-dos-eua/",
-      "date": "2026-07-23T23:55:03",
-      "description": "Abics afirma que a manutenção do café na lista de exceções dá fôlego para a recuperação das vendas ao mercado americano",
-      "location": "Brasil",
-      "category": "Sem classificação"
     },
     {
       "source": "Google News",
@@ -1902,16 +2222,6 @@
       "description": "Foto: Casa Branca / Divulgação Medida entra em vigor nesta sexta-feira e pode elevar a tributação de parte das exportações brasileiras a até 37,5%. O post EUA anunciam tarifa de 12,5% ao Brasil por importação de mercadorias produzidas com trabalho forçado apareceu primeiro em Agora RS .",
       "location": "Brasil",
       "category": "Política"
-    },
-    {
-      "source": "CNN Brasil",
-      "group": "Nacional",
-      "title": "Polícia mata “R7” do PCC em casa de luxo após reação contra policiais",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policia-mata-r7-do-pcc-em-casa-de-luxo-apos-reacao-contra-policiais/",
-      "date": "2026-07-23T23:51:03",
-      "description": "Rildo dos Reis Cerqueira, conhecido como \"R7\", resistiu à prisão e trocou tiros com policiais em Igaratá na manhã desta quinta (23)",
-      "location": "Brasil",
-      "category": "Tecnologia"
     },
     {
       "source": "Folha de S.Paulo",
@@ -1960,6 +2270,16 @@
       "link": "https://www.osul.com.br/dois-ex-ministros-de-lula-sao-autorizados-a-receber-salaro-do-governo-enquanto-fazem-campanha-para-o-presidente/",
       "date": "2026-07-23T23:41:20",
       "description": "Os ex-ministros Márcio França (PSB), do Empreendedorismo, e Rui Costa (PT), da Casa Civil, tiveram autorização para quarentena remunerada, concedida para...",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "Subsídio de R$ 0,44 por litro da gasolina é prorrogado por 30 dias",
+      "link": "https://www.cartacapital.com.br/politica/subsidio-de-r-044-por-litro-da-gasolina-e-prorrogado-por-30-dias/",
+      "date": "2026-07-23T23:39:39",
+      "description": "Na prática, o governo cobre parte do custo, permitindo que o aumento nas refinarias ou no mercado internacional chegue de forma mais branda aos postos",
       "location": "Brasil",
       "category": "Política"
     },
@@ -2026,6 +2346,16 @@
     {
       "source": "Google News",
       "group": "Nacional",
+      "title": "Sexta-feira tem sol e chuva isolada no RS",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU1RtdWtwdXhwdkJFbzVxQndxVjhVOFk4NjBZZ1BXX0RvWHFFb2x3NllaRUR4Q2Nma25adndDUXNKOTA4VDFEQ1FRSVlRX05vc0JTTkYxa2JaelkwRFI1Q3FGRy16S0xLU0dqNjRDV2NIaVhEZkNxVGZiRFU0R0xrQUc4WnpzcTRFRlAzcGlGdmFBbEVn?oc=5",
+      "date": "2026-07-23T23:27:34+00:00",
+      "description": "Sexta-feira tem sol e chuva isolada no RS  Correio do Povo",
+      "location": "Brasil",
+      "category": "Sem classificação"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
       "title": "RS tem a segunda maior taxa de descumprimento de medidas protetivas do Brasil; casos crescem 16% em 2025",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPdkN1dnk5OEVobWNPekZBT3czWjdPMktzUUNOZ2ZENUpoTkV0NU5NaUw3YWtaQXdpZUFoZHhQdHZFQmxEZk5vWVRrSXRaajN5aERkNlhyWDJfOGpFWmpUQ01JNGh4Q2RMSHBYRzZ2WG5ZanNXUC1sQ0lWSlBPdjczdUkyZWZqaDRWN2s2WFVBR1hjSUdzSTFPN29NZUM3bHRHNmVtM280c2k5TVVqRDZrU25NaE1kS1NxcFVYanR4ZUNRTUNWcGxmelpvVVBoVW9CNUhjLTlkeXlwM1pvZ0NxaFhJSTJoWVpnOUZPUXlzVzJZYXdNMEttV185WW9UMkhFRF9zX21hMWJIZ2U1Qzh0X2tGTW5OYXFyRVdJ?oc=5",
       "date": "2026-07-23T23:25:27+00:00",
@@ -2074,6 +2404,16 @@
       "category": "Meio Ambiente"
     },
     {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "O tamanho do tarifaço dos EUA, segundo a Câmara Americana de Comércio para o Brasil",
+      "link": "https://www.cartacapital.com.br/economia/o-tamanho-do-tarifaco-dos-eua-segundo-a-camara-americana-de-comercio-para-o-brasil/",
+      "date": "2026-07-23T23:14:00",
+      "description": "As novas taxas entram em vigor na madrugada desta sexta-feira 24",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
       "source": "Folha de S.Paulo",
       "group": "Nacional",
       "title": "Mulher é baleada diante do filho de 10 anos em tentativa de assalto em SP",
@@ -2082,16 +2422,6 @@
       "description": "Uma mulher de 34 anos foi baleada durante uma tentativa de assalto em frente à própria casa, no Capão Redondo, na zona sul de São Paulo , nesta quinta-feira (23). Ela estava com o filho de dez anos, que não foi atingido. Leia mais (07/23/2026 - 20h10)",
       "location": "Brasil",
       "category": "Política"
-    },
-    {
-      "source": "Google News RS",
-      "group": "Nacional",
-      "title": "Marca de chocolate de 1928 fecha mais uma loja em shopping de Porto Alegre - GZH",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQNlZzX1lrcXJ5UmFwM1FPcGVuSjBQYTIzNHlsamcyRWhEd3pGWVlEc0JyQks0ZXZ4UVN3R1JoTXUxSWh3U2xPenQtTXhjaHpTcmlzZjRCQlZLTWJZS3RZaUFnZGM3MkJpUVgxQlZ4OWsweHdxWGtVSHl2S1k1Q1VCekRUMzdldU1WZFVKMmE1TTFLMWNmR0RmR1NlaExEQ19wN1M4R2E4XzBnSEVTdXdEd0hWTmdDLWRtTDNQejZVUzdmMmpkSHJoTEYtY3ZtX2dzYjVYbHB5RGtmYmpJbWxoRTA2MEZEdkl6RGY1VDFCMkVPV0trWlRzT0l6UUdEaENEV0FxN09HZTQ?oc=5",
-      "date": "2026-07-23T23:00:35",
-      "description": "Marca de chocolate de 1928 fecha mais uma loja em shopping de Porto Alegre GZH",
-      "location": "Porto Alegre",
-      "category": "Sem classificação"
     },
     {
       "source": "O Sul",
@@ -2184,6 +2514,16 @@
       "category": "Sem classificação"
     },
     {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "Michelle Bolsonaro sela paz com Flávio após pedido de desculpas: ‘Todos nós cometemos erros’",
+      "link": "https://www.cartacapital.com.br/politica/michelle-bolsonaro-sela-paz-com-flavio-apos-pedido-de-desculpas-todos-nos-cometemos-erros/",
+      "date": "2026-07-23T22:37:09",
+      "description": "A ex-primeira-dama defendeu a união da direita e prometeu trabalhar junto com o presidenciável do PL",
+      "location": "Brasil",
+      "category": "Sem classificação"
+    },
+    {
       "source": "O Sul",
       "group": "RS",
       "title": "Aparelho que funciona como bafômetro é capaz de detectar o início da queima de gordura no corpo",
@@ -2196,7 +2536,7 @@
     {
       "source": "O Sul",
       "group": "RS",
-      "title": "Brasil repudia decisão dos Estados Unidos de impor tarifa sob alegação de trabalhos forçados em nosso País",
+      "title": "Brasil repudia decisão dos Estados Unidos de impor tarifa sob alegação de trabalho forçado em nosso País",
       "link": "https://www.osul.com.br/brasil-repudia-decisao-dos-estados-unidos-de-impor-tarifa-sob-a-alegacao-de-trabalhos-forcados-no-nosso-pais/",
       "date": "2026-07-23T22:35:32",
       "description": "O governo brasileiro anunciou nessa quinta-feira (23) que irá recorrer à Lei da Reciprocidade Econômica e acionar a Organização Mundial do...",
@@ -2322,6 +2662,56 @@
       "description": "Os ingressos para a mesa da tarde desta quinta-feira, na Festa Literária Internacional de Paraty , estiveram entre os primeiros a se esgotar. No primeiro dia de vendas, já acabaram. E no palco não havia estrelas internacionais, mas um encontro de Andréa del Fuego e Paulliny Tort, duas pratas em asce",
       "location": "Brasil",
       "category": "Política"
+    },
+    {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "‘Arbitrário e injustificado’: Governo Lula reage ao novo tarifaço e volta a citar Lei de Reciprocidade",
+      "link": "https://www.cartacapital.com.br/carta-capital/governo-lula-reage-ao-novo-tarifaco-e-volta-a-citar-lei-de-reciprocidade/",
+      "date": "2026-07-23T22:12:33",
+      "description": "Em nota, o governo acusa os EUA de 'manipular tema caro aos direitos humanos e à luta dos trabalhadores' para impor sua política comercial protecionista",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "3 receitas com ovos para um jantar saudável e rico em proteínas",
+      "link": "https://www.cartacapital.com.br/receitas/3-receitas-com-ovos-para-um-jantar-saudavel-e-rico-em-proteinas/",
+      "date": "2026-07-23T22:05:16",
+      "description": "Considerado uma excelente fonte de proteínas, o ovo é um dos alimentos mais acessíveis da culinária brasileira. Além de fornecer aminoácidos essenciais para o funcionamento do organismo e contribuir para a manutenção da massa muscular, ele é versátil e combina com diversos ingredientes, podendo ser ",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "5 fatores que prejudicam a mobilidade ao longo da vida",
+      "link": "https://www.cartacapital.com.br/bem-estar/5-fatores-que-prejudicam-a-mobilidade-ao-longo-da-vida/",
+      "date": "2026-07-23T22:05:07",
+      "description": "Manter a capacidade de se movimentar com facilidade é um dos principais fatores para envelhecer com autonomia e qualidade de vida. No entanto, alguns hábitos comuns da rotina podem reduzir a mobilidade de forma gradual, muitas vezes sem que as pessoas percebam. De acordo com […]",
+      "location": "Brasil",
+      "category": "Mobilidade"
+    },
+    {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "Intestino e bexiga: entenda como a prisão de ventre pode causar urgência para urinar",
+      "link": "https://www.cartacapital.com.br/bem-estar/intestino-e-bexiga-entenda-como-a-prisao-de-ventre-pode-causar-urgencia-para-urinar/",
+      "date": "2026-07-23T22:05:00",
+      "description": "Quem sofre com prisão de ventre costuma associar o problema apenas ao intestino. No entanto, quando a saúde intestinal não funciona bem, também pode prejudicar a bexiga. Os dois órgãos ocupam a mesma região da pelve, compartilham músculos de sustentação e possuem conexões neurológicas semelhantes. [",
+      "location": "Brasil",
+      "category": "Saúde"
+    },
+    {
+      "source": "Carta Capital",
+      "group": "Nacional",
+      "title": "Nutrição esportiva: como o ovo ajuda na recuperação e no desempenho dos atletas",
+      "link": "https://www.cartacapital.com.br/bem-estar/nutricao-esportiva-como-o-ovo-ajuda-na-recuperacao-e-no-desempenho-dos-atletas/",
+      "date": "2026-07-23T22:04:53",
+      "description": "Uma alimentação equilibrada faz parte da rotina de atletas que buscam desempenho, recuperação muscular e longevidade no esporte. Entre os alimentos mais presentes nesse cenário está o ovo, reconhecido pelo alto valor nutricional e pela versatilidade nas refeições. Rico em proteínas de alto valor bio",
+      "location": "Brasil",
+      "category": "Esporte"
     },
     {
       "source": "O Sul",
@@ -2714,16 +3104,6 @@
       "category": "Política"
     },
     {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "TCE-SP pede explicações a governo Tarcísio e concessionária após caos em trens",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/tce-sp-pede-explicacoes-a-governo-tarcisio-e-concessionaria-apos-caos-em-trens.shtml",
-      "date": "2026-07-23T21:10:00",
-      "description": "O conselheiro do TCE-SP (Tribunal de Contas do Estado de São Paulo ) Maxwell Borges de Moura Vieira pediu explicações ao governo Tarcísio de Freitas (Republicanos) e à concessionária Trivia Trens S.A sobre as falhas sucessivas nas linhas de trens do estado. Leia mais (07/23/2026 - 18h10)",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
       "source": "Google News RS",
       "group": "Nacional",
       "title": "Movimento Reestatiza SUS é lançado em plenária popular; Sintrajufe/RS esteve presente - Sintrajufe - RS",
@@ -2742,16 +3122,6 @@
       "description": "O senador e pré-candidato à Presidência da República Flávio Bolsonaro (PL-RJ) divulgou uma nota em que afirma ter “integral confiança no...",
       "location": "Brasil",
       "category": "Política"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Pitzi e Renov anunciam fusão e projetam vendas de R$ 280 milhões em serviços para smartphones",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/07/pitzi-e-renov-anunciam-fusao-e-projetam-vendas-de-r-280-milhoes-em-servicos-para-smartphones.shtml",
-      "date": "2026-07-23T21:08:00",
-      "description": "A Pitzi, empresa de gestão de proteção e aluguel de smartphones com presença em redes varejistas , fechou fusão com a Renov, especializada em \"trade-in\" (entrega de celulares antigos para receber desconto em novos) de aparelhos com tecnologia própria de inteligência artificial. Leia mais (07/23/2026",
-      "location": "Brasil",
-      "category": "Tecnologia"
     },
     {
       "source": "Google News RS",
@@ -2774,16 +3144,6 @@
       "category": "Educação"
     },
     {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "EUA anunciam tarifa de 12,5% contra Brasil por importar produtos de países que usam trabalho forçado",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/07/eua-anunciam-nova-tarifa-de-125-contra-brasil-por-suposto-uso-de-trabalho-escravo.shtml",
-      "date": "2026-07-23T21:04:00",
-      "description": "Os Estados Unidos decidiram aplicar uma tarifa de 12,5% ao Brasil com base na Seção 301 da Lei de Comércio, em uma investigação sobre falhas no combate à importação de produtos feitos com o uso de trabalho forçado . Leia mais (07/23/2026 - 18h04)",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Ministro do Supremo André Mendonça autoriza investigação sobre repasses de Daniel Vorcaro a filme sobre Bolsonaro",
@@ -2792,46 +3152,6 @@
       "description": "O ministro André Mendonça, do STF (Supremo Tribunal Federal), autorizou nessa quinta-feira (23) a abertura de um inquérito para investigar repasses...",
       "location": "Brasil",
       "category": "Mobilidade"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Meu dia de macaca de laboratório",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/suzanaherculanohouzel/2026/07/meu-dia-de-macaca-de-laboratorio.shtml",
-      "date": "2026-07-23T21:00:00",
-      "description": "Já falei aqui que não entro mais em redes (anti)sociais, mas isso não quer dizer que não passo tempo olhando para a tela do meu telefone e interagindo com ela. Adoro um joguinho, sobretudo os de raciocínio espacial. HighRise, 1010!, Cast, TripleTown, Royal Match (sucedâneo do meu adorado Candy Crush",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Tudo bem se masturbar mesmo estando em um relacionamento?",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/laura-muller/2026/07/tudo-bem-se-masturbar-mesmo-estando-em-um-relacionamento.shtml",
-      "date": "2026-07-23T21:00:00",
-      "description": "Um questionamento muito comum no mundo jovem -e adulto também- tem a ver com a frequência da masturbação . Especialmente quando se está em um relacionamento fixo, como um namoro, ou algo do tipo. Pensando nisso, selecionei três perguntas e possíveis respostas sobre o assunto. Leia mais (07/23/2026 -",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Enel diz que Aneel exagera falha durante apagão para forçar a saída da concessionária de São Paulo",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/07/enel-acusa-aneel-de-exagerar-falha-durante-apagao-para-forcar-a-saida-da-concessionaria-de-sao-paulo.shtml",
-      "date": "2026-07-23T20:58:00",
-      "description": "A Enel protocolou nesta quinta-feira (23) nova manifestação no processo que pode extinguir sua concessão na Região Metropolitana de São Paulo . O documento ataca os pilares da argumentação da Aneel (Agência Nacional de Energia Elétrica) contra a concessionária de distribuição de energia na metrópole",
-      "location": "RM",
-      "category": "Mobilidade"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "group": "Nacional",
-      "title": "Amy Winehouse deixa legado que resiste 15 anos após sua morte",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/07/amy-winehouse-deixa-legado-que-resiste-15-anos-apos-sua-morte.shtml",
-      "date": "2026-07-23T20:57:00",
-      "description": "Quinze anos após sua morte, Amy Winehouse continua lembrada menos pela morte precoce e mais pelo legado de \"Back to Black\", disco que a transformou em um dos principais nomes da música pop dos anos 2000. A cantora britânica morreu em 23 de julho de 2011, aos 27 anos, vítima de intoxicação alcoólica ",
-      "location": "Brasil",
-      "category": "Cultura"
     },
     {
       "source": "O Sul",
@@ -2884,16 +3204,6 @@
       "category": "Meio Ambiente"
     },
     {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Quatro meses depois de ser reinaugurada, ponte no RS é novamente destruída por chuvas",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSks5Z056NHByQmo1a0t2eXhiUEZYUFlIS2lJdTF6UmcwZXNCNUtzUHJWeVpGOHh3cnRmRGl4bjRvQzl0TFIzWjNSZHR0MVk5OUhIYzN1WkREeVdCbW9ucWRURHdPOHhLaHhvSnV3cnI1czVhZk1IbWVRaEdtVTBmMEY2Sk9JcVEyeEFjWFh1ZG02WGRqUFBiTkozcXB6TUU5MTdFZDdHMERSYUgtVFJtMmRLREJUalY3U05HRHM4aFFQbXFOSk1YV1FJUGM5X3Y4R1RIajJmMURaNXczeFFsM0hKMjNaS0J6dXJycdIB-wFBVV95cUxNMjlyY1lkdmJyT3VYczU2d19PeFBydmp6cG1fTlZ5aW85aFpiVXpFUmxZMWVoMFBYdzlHRnJjN3lnT2tGR1RETDZsUldSMlk2TzJXUTRBRWxmNXB0dlJ2YW03WVNMUjBVSnRwck0xRDhOcFZ6RFFteW1qdFo4RE1tM3laZXd6X0VHLWFiZHZhaXdDbTFkQjRWMWF6cHNCd0x5b0ZvZ25LQ3ZYNmxpNk92YnM1Z01WcG5EampVUDhLVkVKMXBXRnYyb3puYWxQbkhZVzNYSkNZUXZhVHJNNnhHajdPYmFHejNuYU9GVHF3aGpxNzRST3BuNzktTQ?oc=5",
-      "date": "2026-07-23T20:40:58+00:00",
-      "description": "Quatro meses depois de ser reinaugurada, ponte no RS é novamente destruída por chuvas  O GLOBO",
-      "location": "Brasil",
-      "category": "Sem classificação"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Ministro do Superior Tribunal de Justiça é investigado em inquérito sobre venda de sentenças",
@@ -2902,26 +3212,6 @@
       "description": "O ministro Paulo Dias de Moura Ribeiro, do Superior Tribunal de Justiça (STJ), passou a ser investigado pela Polícia Federal no...",
       "location": "Brasil",
       "category": "Segurança"
-    },
-    {
-      "source": "Google News RS",
-      "group": "Nacional",
-      "title": "Excesso de detritos no Lago Guaíba força suspensão por tempo indeterminado da travessia de catamarã entre Porto Alegre e Guaíba - Portal Dia Dia News",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPWVZCU2ZmQXJoTjlmbzI1a1NOTThLWms4MUZqT3l0V0NxX2FReXNFdXhVV0FhVkVpMFhpRlRJT3RLekM5S1U2LWkwWFRpSVNlaVZXSzF6Vml6VnAyMEMybDNCUUpucmNhV3ZRVnMxYVZWbS0wa1NMWmVHOG9NalJicG1KTmNZR2NoNEJBc0o1NktOYmk5ZkF1bFp3X0N2bUs5UUtUWUlyM3NmQktvWEdUeTRxM0s3RjNBR2xxZHI2bzYwZ0pYbFI2eWNFckZlOGhJZ0dxR1A0ZzctMkVSdGp5eHR4WklFbUVFdXl5TDZiekFJbmFvZTVhelVNS2hUNkpKRHBLRGx0U2Q5bXowQzMzQUp6TjVzUjRqNFJjcE9n?oc=5",
-      "date": "2026-07-23T20:24:33",
-      "description": "Excesso de detritos no Lago Guaíba força suspensão por tempo indeterminado da travessia de catamarã entre Porto Alegre e Guaíba Portal Dia Dia News",
-      "location": "Porto Alegre",
-      "category": "Saúde"
-    },
-    {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Mais de 1200 pessoas estão desabrigadas e quase 200 cidades registram danos no Rio Grande do Sul",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2dsbjdCR1ZMbVhjREl3cmxPbnVDOG5NVUNwcjFzNDd2M21LMjZvM1FNMllCa0R0S09fcWluV1psSGpPN2NtcEZQMjMyUko3bm41WTFVSnZQeEJDcHBmSjFNa2NCanRuZHNGbFlWZmVkWXdQeVQ2Z1pITnhoWlhWNHlzc09tZjNEUGpoNFFoMWZOZHdmcEZFZGxZYUxyV2pPQmRZQjF6VnUzWDlETE5WbjNR?oc=5",
-      "date": "2026-07-23T20:18:04+00:00",
-      "description": "Mais de 1200 pessoas estão desabrigadas e quase 200 cidades registram danos no Rio Grande do Sul  A Redação",
-      "location": "RS",
-      "category": "Meio Ambiente"
     },
     {
       "source": "O Sul",
@@ -3194,6 +3484,16 @@
       "category": "Mobilidade"
     },
     {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Notícias - Rio Grande do Sul - Empresas de transporte rodoviário intermunicipal podem alterar horários devido a bloqueios em rodovias no Rio Grande do Sul",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOVHRENi1XaUZuYUxCcTMxakRlVVllNGpSNmJlbEZLU0JPQUoxV3o5U1g1RzJqOUZHMEQ2dF96NUMxYlV3OFZ5NUcwMHUyUkxYQjNZZmlOWHFLbFJHOXBCcGNLa2l2LXk3a2JkSlJIbENReXlOOFhVQkQwNkVmSG43UkY0YUlqZDVvazhoZTBvUzFQRHFoM1BNOTA1N2lQUlZrZ2gzbTRTOXB2NFhQNmVSc2FuNUFhRmVvWlJzUUhXRUdQTU5nTFotQ3h5QjVYN01EQlJqTEhjYjRKTUoxZUFfbVZCemEtX3ZHRnphbk5YMUhNRGJRR2tLWUNrblIwSEhOdUl1QVZqZUduNVozbGJWdEU1bWF3cTc2QVVxcVJrNA?oc=5",
+      "date": "2026-07-23T18:21:12+00:00",
+      "description": "Notícias - Rio Grande do Sul - Empresas de transporte rodoviário intermunicipal podem alterar horários devido a bloqueios em rodovias no Rio Grande do Sul  PORTAL FARRAPO",
+      "location": "RS",
+      "category": "Mobilidade"
+    },
+    {
       "source": "Agora RS",
       "group": "RS",
       "title": "Mortes violentas caem 25,7% no RS, mas feminicídios aumentam 9,5% no ano de 2025",
@@ -3282,16 +3582,6 @@
       "description": "Enquanto a estatal paranaense pede redução no consumo doméstico, a tecnologia aparentemente escolhida para ilustrar as peças publicitárias exige volumes massivos de água para resfriamento de servidores. Questionada, a companhia não confirmou se o material foi produzido com IA",
       "location": "Brasil",
       "category": "Tecnologia"
-    },
-    {
-      "source": "Google News RS",
-      "group": "Nacional",
-      "title": "Desde o Império, veja quais foram as maiores enchentes de Porto Alegre - GZH",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOX1FIUS1BdjVJZmVaVXRWVThVcmNJVjlNYnM5Y2RmTTJVWVNqRUZTdGZWaGZGOWE2V0VoV2tYVmtXbmFZeDFHV3h4VlZoZV9EQUZOaUs1aUx2Q2RSQVBpVGFuZkFXU3MzR0xwcGhwaV9KWDRyWmlSb0RKSlVycmJqelFzT2hIRElhSm1OOVlRMUxoN3FtdWJXeEl2akNudnkxek10NnFsV3pLTlNWYk9zUGhpTnBDYzg3ZmZ5Y3pxWGRlcTBaUGRfNEVweTBOOU5PTGN6X0p4ckRkbVE5VDk5Y1RNSGVoVEkyTEhHcEVpeVpxYURyMzNRQnRXazdzVzZjaEswdg?oc=5",
-      "date": "2026-07-23T17:40:28",
-      "description": "Desde o Império, veja quais foram as maiores enchentes de Porto Alegre GZH",
-      "location": "Porto Alegre",
-      "category": "Meio Ambiente"
     },
     {
       "source": "O Sul",
@@ -3459,7 +3749,7 @@
       "title": "Prefeitura de Porto Alegre inicia obra de proteção contra cheias na malha ferroviária",
       "link": "https://www.osul.com.br/prefeitura-de-porto-alegre-inicia-obra-de-protecao-contra-cheias-na-malha-ferroviaria/",
       "date": "2026-07-23T16:43:51",
-      "description": "A Prefeitura iniciou nesta quinta-feira (23), a obra de proteção contra cheias junto à malha ferroviária de Porto Alegre. A intervenção...",
+      "description": "A prefeitura iniciou nesta quinta-feira (23) a obra de proteção contra cheias junto à malha ferroviária de Porto Alegre. A intervenção...",
       "location": "Porto Alegre",
       "category": "Política"
     },
@@ -3504,16 +3794,6 @@
       "category": "Política"
     },
     {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Motoristas por aplicativo obtêm vitórias contra Uber na Justiça do RS - CUT",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTV1ek9wMHNidjd1R29EVmJqUFVOOW8wVFl3TWxRU19Hb2Jqbi1yN2d0RTA0MXVVdnd5OFU1MHJ6eE00NnFQSHZzVFRsbjM3YTdZaEFydEhBNFJCbmFnc2RITkJwWWlMcVA1bmVYWHBkczVpcEMzR0JiUDc5dllNVVA4SllaQjVNbjVNNEJ6TllMczhldGlWQTcyZ01NYXFBbE00Y1BrMnFodw?oc=5",
-      "date": "2026-07-23T16:33:00+00:00",
-      "description": "Motoristas por aplicativo obtêm vitórias contra Uber na Justiça do RS  CUT - Central Única dos Trabalhadores",
-      "location": "Brasil",
-      "category": "Tecnologia"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Grêmio anuncia a contratação de Jovane Cabral, atacante de Cabo Verde na Copa",
@@ -3544,6 +3824,16 @@
       "category": "Política"
     },
     {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Atualização corrige dados no Zarc do milho no Rio Grande do Sul",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUHNxUUU4bGFpRU5TM21FeG44cUtpMmdSQ0dFcXpDZTViRkdQZnVLRng5allCQzJvdzZJNHYtVlhWNWJ4NzZndFVCNEo3MXZLQ0JUS01wV2VoUnFDOTBGT2VhMEF0OWNIdkdBSXV2RmZEczVEWnU0bmNrczBjNy1oNUhqclU2enY2NTlIVFJIWGJRSWhwdGM1akUydVpwRGs5ZzZSMFZjaWFNQmlHWTZoUEVkX0xaVUNQalAwQWZ5R2FGVW1mcHfSAcsBQVVfeXFMT0dNeUg2dUlWcXhYeDNCWWIzWEhJQ2xzSTZfYkJ4Y2FoY1JSc3hOS0J4WnRSdE5pbFNHS1FkUzRwYXZxWFpWQ1ZGNGpJT2pKbDJLZGhfQ1JIUDY4QmhXeGJ2cF82Q0lPdlRmN2ZMMzlSOHdMdDhrRTJKMXJ2UjJpOV8yS214cEM2clowZnJDZ3VyT3JaVXdfRFJkQTZ3LU5DaU5nQW5KR0ZXbEFhd0tTQkxSUVQ5VEJfOC1Ob01rWWtUSHNGSVdLQlBEMWs?oc=5",
+      "date": "2026-07-23T16:05:42+00:00",
+      "description": "Atualização corrige dados no Zarc do milho no Rio Grande do Sul  Notícias Agrícolas",
+      "location": "RS",
+      "category": "Tecnologia"
+    },
+    {
       "source": "Matinal",
       "group": "RS",
       "title": "✉️ News do Roger #422: Lupicínio inspira a dança, \"Domingo no Parque\" vira musical, Porto Alegre distópica no cinema e mais",
@@ -3569,7 +3859,7 @@
       "title": "Linha de trem que pegou fogo em SP foi leiloada por Tarcísio após PM agredir ferroviários",
       "link": "https://ponte.org/linha-de-trem-que-pegou-fogo-em-sp-foi-leiloada-por-tarcisio-apos-pm-agredir-ferroviarios/",
       "date": "2026-07-23T15:47:29",
-      "description": "Linha 11-Coral foi concedida ao Grupo Comporte em março do ano passado. À época, PM agrediu trabalhadores em protesto, que já denunciavam falhas nas linhas concedidas à iniciativa privada, e cercou a bolsa de valores para que leilão ocorresse O conteúdo Linha de trem que pegou fogo em SP foi leiload",
+      "description": "Linha 12-Safira foi concedida ao Grupo Comporte em março do ano passado. À época, PM agrediu trabalhadores em protesto, que já denunciavam falhas nas linhas concedidas à iniciativa privada, e cercou a bolsa de valores para que leilão ocorresse O conteúdo Linha de trem que pegou fogo em SP foi leiloa",
       "location": "Brasil",
       "category": "Política"
     },
@@ -3579,7 +3869,7 @@
       "title": "Chuva no RS afeta 169 cidades, destrói ponte e tira mais de 1.000 de casa",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYi01RGZtWUV3dmQtTlZRM0dxYnhLTkF6OEJBU0xqZk5nakQ3anlSMGhYeElYMTQwSVdtNEtVRlExMENBVmJSUjAzQk5vNHlRejRueExKQXl3Qm5LWkpWMVc2OHBwZ2RreHhiN2I0eUNGbVFRVkVIUXl6dkVkMVZTVDdVODlIcXdpOTE2aDZWZ0VFd3hxX0ltWEdaa0dPbzA5Vy1xQnd4TXZ6RHNHaFdhTTlsNXJHZVk4Rno0RU80a0lMSGw1WGRFVTVUazFFYWRTS253dTNOaVprcFJi?oc=5",
       "date": "2026-07-23T15:46:17+00:00",
-      "description": "Chuva no RS afeta 169 cidades, destrói ponte e tira mais de 1.000 de casa  UOL NotíciasChuvas deixam 1,8 mil pessoas fora de casa e mais de 200 cidades com danos no RS  G1Chuvas no RS já causam estrag",
+      "description": "Chuva no RS afeta 169 cidades, destrói ponte e tira mais de 1.000 de casa  UOL Notícias",
       "location": "Brasil",
       "category": "Tecnologia"
     },
@@ -3702,26 +3992,6 @@
       "description": "Até dia 28 de agosto inscrições para o processo seletivo de bolsas 2027 estão abertas",
       "location": "Brasil",
       "category": "Educação"
-    },
-    {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Meteorologista alerta para trégua temporária no RS e temporais em SP e MS",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRm50VFQ4VktEb1Uxa0RjWmlkRU9rOFo3d0xwNnZBSDBHN0lKLUtDY0xXUHZhZDRvZ2p4SVgxMF9jcV8wOVFMOFA4Wm5WdEczb2lTUmZHWHZPbktTRmYwRHRDOTRWcExlU0xZbmZHT1dweGQxaldVdlhUdXByZGV0RFVnVkRSMHM0ZGZ3T1JLMWtEbTVOUkl3Z1QtQV9hRXFTMnVlVk93VGN1TmRTcXMtMw?oc=5",
-      "date": "2026-07-23T14:15:22+00:00",
-      "description": "Meteorologista alerta para trégua temporária no RS e temporais em SP e MS  Canal Rural",
-      "location": "Brasil",
-      "category": "Tecnologia"
-    },
-    {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Atualização corrige dados no Zarc do milho no Rio Grande do Sul",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYzFaWWdHamV1MUhVWXN0QnN3a2JJSndUc3JTUHM1UW1NQ3pOZVlVaXN4NXN4bWQ0cWV0MG11Y1h4X3RwSVZ4REZVUGZVa0RGczg4R0pfV0QwTjhHUUFRcThwdGloemFjTnh6cFBERTZTLVFmdkgzaUV6dVgzU21tRURKT2k0cnhacXZrdExlazVVbzc2a2djem9Na1ZBMTlHLVA1Sy1IemRlQXh5UGFiOVVXNXFpWUY1Q3dZRlFqd2xsdw?oc=5",
-      "date": "2026-07-23T14:14:15+00:00",
-      "description": "Atualização corrige dados no Zarc do milho no Rio Grande do Sul  Embrapa",
-      "location": "RS",
-      "category": "Meio Ambiente"
     },
     {
       "source": "Google News",
@@ -4182,6 +4452,16 @@
       "description": "Ovelha dá à luz cinco filhotes no RS\nUma ovelha da raça Texel deu à luz cinco filhotes em uma propriedade rural no interior de São Sepé, na Região Central do Rio Grande do Sul. O parto aconteceu na criação do zootecnista Félix Kelling e chamou a atenção pelo número de filhotes. \nSegundo o produtor, ",
       "location": "RS",
       "category": "Meio Ambiente"
+    },
+    {
+      "source": "Google News RS",
+      "group": "Nacional",
+      "title": "Mesma distância, o triplo do preço: veja como chuva e horário impactam valor das corridas por aplicativo em Porto Alegre - GZH",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOU3BCR181ZV9NS2tCWGJldlp1a3VWZVlNQnZuVzJJR20xa1lvaTRuT0xSNUNKN0YzSkx0RUJlcERwYjlDbzVDZlhyZ19QYVduQnE1NkNFVERfMWI5UDFuX0otRFY0M2dyN29VWnNpX2NMM1NMazJNMGEza3JZaG9NMHc0U3VDUnRfRkhLUExVVlRDMVpuZWpzR1d0WndqQlFndTBPWDBkaEtHdk9OU080SGhuVzJISk1FZkxUc3k4eTN5a2lONDFUeHo3Q2FwWlBPQUVlWktyYzhQVW5DdkdNRzNEZXFzeEZPM05vTGlHcXJfbmRQbkI0R2V0ZGRUd1BiZkN2VXJrVUxxNkt2bzZ5bm83ZjlDVkFoNjZEUkl3MnlYLTNtTW5ucklR?oc=5",
+      "date": "2026-07-23T05:58:36",
+      "description": "Mesma distância, o triplo do preço: veja como chuva e horário impactam valor das corridas por aplicativo em Porto Alegre GZH",
+      "location": "Porto Alegre",
+      "category": "Mobilidade"
     },
     {
       "source": "O Sul",
@@ -4684,16 +4964,6 @@
       "category": "Mobilidade"
     },
     {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Rios transbordam e inundam cidades; veja imagens do RS",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOWVVQ2VqUzJnYTE1SVNVajQwNHFIcklpWWZ5QS1TajlUWW40dUQ1b2NLbnRGSU5XYXA2QUU2S3NrYXFKR3dHNkVROWpBcFR3Vy1UMWRjYjVwZFM4TldQZ1cwSU1wUjBGNjlzTm9NVDU0d3lrRERHVGtXRkMzYUM3SDJPU0h6a1Y5QXFvdzNzX1hBZjM2d1JYTXZhY3RwcTFn?oc=5",
-      "date": "2026-07-22T23:24:34+00:00",
-      "description": "Rios transbordam e inundam cidades; veja imagens do RS  CNN Brasil",
-      "location": "Brasil",
-      "category": "Meio Ambiente"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Trabalho no feriado: o que muda para farmácias, supermercados, comércio e outros setores afetados por nova regra em vigor",
@@ -4837,7 +5107,7 @@
       "source": "Google News",
       "group": "Nacional",
       "title": "Municípios em alerta recebem mapas com manchas de inundação",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaExZbGQyQzNpVW5QeEl4VTZJdWFWOEpFU2NXWHdRZmNZQ1JSZVFnd2JCNWVWOUxlYkczdHZQQUNGZTZLNkZvSXdRRjE4WkRQcF9qZElwNUw3WGhIVzdWYldVVk9tYU1pbVlkY0ZiTVYtNXJnXzRoTTNaYXAxNDFkRkVKZDRIcDB0b0VUZGs2akVhdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeTNwWEpncm9LcHRlVi1VWURSNm5VdE9sbmpLUTVTOU1fYWpoMl9ySmtmMWJsVjREOFFpeEdjdmRHUWRDTEszRTBVTUdROGk5emM3QXE2UGZ0bjhqVHFEWkRsaVZ6RW5HVDBBNVpjUXk5WkZPek9sNlBtMERiSENZOVg1Skx2YURfUncyaw?oc=5",
       "date": "2026-07-22T22:04:05+00:00",
       "description": "Municípios em alerta recebem mapas com manchas de inundação  Portal do Estado do Rio Grande do Sul",
       "location": "RS",
@@ -4992,16 +5262,6 @@
       "description": "Confira imagens de transtornos causados pela chuva no RS\nAs fortes chuvas que atingem o Rio Grande do Sul têm provocado uma série de transtornos em diferentes áreas do estado, com destaque para a Região Norte. Entre os registros estão prejuízos causados pelo vento, áreas alagadas e até resgates de a",
       "location": "RS",
       "category": "Mobilidade"
-    },
-    {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Chuvas no Rio Grande do Sul provocam bloqueios em 18 rodovias estaduais",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRktqQ01hdldfRzRKWlczZ3FxbjVOMG91ZUpZaFpRV0F2VHUwM0l5b0Vyb1JhRHMwdmZGY3NsOXhCdkhEVjc1OGs3aFJ6aVc3cFNjaWtORHJtOXNqU0pwUXB2aHZVSVJCSWd6eHJmS0RvNDk4Ul9XYmtQdjBMU1ZyOXFUa1hPRUZ1RlpoNEhXdzM5TFQ1dGNaUE5ENnR6eElOZEE2Qll5SDcwekd1aThKeFdTd2R4MzJOZ3FOYW9DZmxZUjNnTlRZaTRpbw?oc=5",
-      "date": "2026-07-22T20:44:39+00:00",
-      "description": "Chuvas no Rio Grande do Sul provocam bloqueios em 18 rodovias estaduais  Jornal do Comércio",
-      "location": "RS",
-      "category": "Economia"
     },
     {
       "source": "Google News",
@@ -5534,6 +5794,16 @@
       "category": "Meio Ambiente"
     },
     {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Defesa Civil eleva alerta para inundação no Rio Grande do Sul; produtor rural deve redobrar atenção",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPelZuX3drWlYxN1l5My1vNEJCZW4zdmxzejlRcGlGYkk4SEtUV183Nld2cXdrN2lMV3RQdTNpeXV2QjkxRW5pSWRfUGVZaV9FMWoxcnpQU01sX25QY3FvMl96X2tITllvYlk3YmFzQ2lfYXZEV2tsVHBOeXBqSS1QM1E5QkkxTllkdHQtdlV5ZlZDVTFZQ0sxSG9vUEVzbEc5bTZkT0FGT0RGOXM1QkNRWUlxNTd5S2JwX05MTGtyWHNwVHRpRTJabXBEZjg2S3dVd3owTzZ5U1dIUVhXbDYtdmNDMFg3dWt6OHFCQWlNc0JHaUNXWnRzNUlxc0owQ3fSAYQCQVVfeXFMTjBwcDE1SXJuTTlINmp0enpfQk5Uc3RWY3E4U3JYVi1yd1NmSDV4ektOVmE1MFBmaDBoeVhRNWFfcGxrTElQZTk5NE55Q3UwdmVnbDhjYXVoQWFkZHR4SkFPQ3B2WGc1c05HSmRZbWxnbnZsVEozangzSUdwWW8xZG5RN05FQ3FXT21qajFfT1JVLTY0REZfbTVrSW11NWlkVUxLR0tHU21DWXFZZVlFLTBLRXVIVzFHUTdYekIyNmpuZW1NUzBINGlYcGZXTW5nNmdsS2JaNWhoY1RGZFlZQXJ3cS1wY0Z3NU5oSnlvRW9Ua3Rmdkhndk4wQ1dWdnFvUXRMdjA?oc=5",
+      "date": "2026-07-22T15:15:37+00:00",
+      "description": "Defesa Civil eleva alerta para inundação no Rio Grande do Sul; produtor rural deve redobrar atenção  Notícias Agrícolas",
+      "location": "RS",
+      "category": "Meio Ambiente"
+    },
+    {
       "source": "G1 RS",
       "group": "Nacional",
       "title": "VÍDEO: Rio Taquari transborda e imagens de drone mostram água invadindo ruas no RS",
@@ -5622,26 +5892,6 @@
       "description": "Porto Alegre: Serviços afetam abastecimento de água nas zonas Sul e Norte Agora RS",
       "location": "Porto Alegre",
       "category": "Sem classificação"
-    },
-    {
-      "source": "Matinal",
-      "group": "RS",
-      "title": "\"Pequenas Criaturas\" mostra família e Brasil em transição",
-      "link": "https://www.matinal.org/cultura/pequenas-criaturas-mostra-familia-e-brasil-em-transicao/",
-      "date": "2026-07-22T14:11:57",
-      "description": "Filme estrelado por Carolina Dieckmmann se passa na Brasília de 1986",
-      "location": "Brasil",
-      "category": "Tecnologia"
-    },
-    {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Governador do Rio Grande do Sul alerta para risco de inundação no Vale do Taquari",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN2V0V0FHZ2V3b1BDRlRJMWlyVzk1WkhwTnBtVXdhNEh6S0stS2FuSlpEU1hUUzVoejNxeUxMeEdoS0pNeXIxLWhJWFZmMng1eFB6NVlqUlBOdFpJSW1KMUtMRnE3Y1VlRzJFbVJyYjVnd1U1ckJUNi1SVGI4UzhuR2ROZkszamN0YnV3R3lHR21UemQ4RnNwWk5OZ0pXbU5XaXZGamhocmlicEIycTZPODkwNnJadUExQ3U0eDZ6YUpIRW43NkRnNUVvVDlLR2dwTEhTaDV3?oc=5",
-      "date": "2026-07-22T13:57:02+00:00",
-      "description": "Governador do Rio Grande do Sul alerta para risco de inundação no Vale do Taquari  Canal Rural",
-      "location": "RS",
-      "category": "Meio Ambiente"
     },
     {
       "source": "G1 RS",
@@ -5742,16 +5992,6 @@
       "description": "Força do vento derruba vidraça em cima de trabalhador durante tempestade no Norte do RS\nUm temporal localizado causou destelhamentos e danos em prédios públicos, em uma escola e em uma empresa de Frederico Westphalen, na Região Norte do RS, na tarde desta terça-feira (21). Apesar dos estragos, não h",
       "location": "Brasil",
       "category": "Educação"
-    },
-    {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Defesa Civil ALERTA/CELLBROADCAST: INUNDAÇÃO no Rio Taquari. Risco MUITO ALTO em Lajeado",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd0RvSjhDZDlGejNCaXhNd0F0UVptdzI5YnZFSl8zQkU2dW92MmVrQS1NbW5jcmxQazdONnBBTmJpSDZkWnFKNGUtVk8yTmp1ckVCaG5IdnlkbHVaRXFwY0JCQmpzcEc5U0NGSm5pVkZWa0k1dWcxSFdaRkNPXzRuWm50MEpoS1lzc01fNk9zMnhxSV9lUVlMbXVTQTM4MGRvY0pHSlh0ZklRTm0wVEpUSnM3ZU1xbm93aGg0MQ?oc=5",
-      "date": "2026-07-22T11:31:48+00:00",
-      "description": "Defesa Civil ALERTA/CELLBROADCAST: INUNDAÇÃO no Rio Taquari. Risco MUITO ALTO em Lajeado  Defesa Civil do Rio Grande do Sul",
-      "location": "RS",
-      "category": "Meio Ambiente"
     },
     {
       "source": "O Sul",
@@ -6834,16 +7074,6 @@
       "category": "Esporte"
     },
     {
-      "source": "Agência Pública",
-      "group": "Nacional",
-      "title": "Paulo Figueiredo comprou mansão de R$ 6,1 milhões nos EUA, mas deve R$ 4,9 milhões à União",
-      "link": "https://apublica.org/2026/07/paulo-figueiredo-comprou-mansao-de-r-61-milhoes-nos-eua-mas-deve-r-49-milhoes-a-uniao/",
-      "date": "2026-07-21T18:00:00",
-      "description": "Influenciador tem propriedades na Flórida no total de R$ 11,6 milhões; segundo ele, ambas são financiadas",
-      "location": "Brasil",
-      "category": "Tecnologia"
-    },
-    {
       "source": "O Sul",
       "group": "RS",
       "title": "Roberto Carlos faz alerta contra vídeo de Inteligência Artificial com sua imagem: “É falso”",
@@ -7152,6 +7382,16 @@
       "description": "Chuva passa de 110 mm em Porto Alegre e provoca 27 ocorrências Agora RS",
       "location": "Porto Alegre",
       "category": "Tecnologia"
+    },
+    {
+      "source": "Google News RS",
+      "group": "Nacional",
+      "title": "Porto Alegre registrou acumulados de até 102,8mm até a manhã desta terça-feira (21) - Agora RS",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0I1UUhXUXRMM1NnR01ncGxqSHIwN1F2RDVldGlWSEZrNlNtbkZxQ0NQTG9GN3Q1b1pRczZsbHJPdTJjLWg3YnhrNkthRGJ6LWpDNGYyY2lNRkRHVXZlLWw2S1FiRmItZVpKUEdCZDRCbk1RU1ZzbGJRYml3NWRDd3NHNnhReFUtaGtuY3hwaw?oc=5",
+      "date": "2026-07-21T13:32:37",
+      "description": "Porto Alegre registrou acumulados de até 102,8mm até a manhã desta terça-feira (21) Agora RS",
+      "location": "Porto Alegre",
+      "category": "Sem classificação"
     },
     {
       "source": "Google News",
@@ -8134,36 +8374,6 @@
       "category": "Economia"
     },
     {
-      "source": "O Sul",
-      "group": "RS",
-      "title": "O pré-candidato à Presidência Renan Santos apresenta como bandeira de campanha a defesa de liberdades e a redução do Estado",
-      "link": "https://www.osul.com.br/o-pre-candidato-a-presidencia-renan-santos-apresenta-como-bandeira-de-campanha-a-defesa-de-liberdades-e-a-reducao-do-estado/",
-      "date": "2026-07-20T20:10:46",
-      "description": "O pré-candidato à Presidência da República Renan Santos (Missão) passou a apresentar como uma das principais bandeiras de sua campanha a...",
-      "location": "Brasil",
-      "category": "Tecnologia"
-    },
-    {
-      "source": "O Sul",
-      "group": "RS",
-      "title": "Campanha busca tratamento para menino de um ano",
-      "link": "https://www.osul.com.br/campanha-busca-tratamento-para-menino-de-um-ano/",
-      "date": "2026-07-20T20:00:37",
-      "description": "Um bebê de um ano e 10 meses, morador de Santa Clara do Sul (RS), mobiliza uma grande corrente de solidariedade...",
-      "location": "Brasil",
-      "category": "Sem classificação"
-    },
-    {
-      "source": "O Sul",
-      "group": "RS",
-      "title": "Nova plataforma digital facilita o reconhecimento de paternidade",
-      "link": "https://www.osul.com.br/nova-plataforma-digital-facilita-o-reconhecimento-de-paternidade-na-ultima-decada-mais-de-17-milhao-de-criancas-foram-registradas-somente-com-o-nome-da-mae/",
-      "date": "2026-07-20T19:45:12",
-      "description": "Mais de 1,7 milhão de crianças nascidas no Brasil na última década foram registradas apenas com o nome da mãe na...",
-      "location": "Brasil",
-      "category": "Tecnologia"
-    },
-    {
       "source": "Google News",
       "group": "Nacional",
       "title": "Rio Grande do Sul terá 8.526.233 eleitores para o pleito de outubro",
@@ -8342,6 +8552,16 @@
       "description": "Ventania arranca telhado de casa no interior do RS\nOs temporais que atingem o Rio Grande do Sul desde sexta-feira (17) causaram destelhamentos, queda de árvores e falta de energia elétrica. Os registros de danos se concentram nas regiões Central, Fronteira Oeste, Campanha e Vale do Rio Pardo até est",
       "location": "RS",
       "category": "Mobilidade"
+    },
+    {
+      "source": "Google News",
+      "group": "Nacional",
+      "title": "Rio Grande do Sul chega a 21 cidades atingidas pelos eventos climáticos severos",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeVVLR215aTR6NmtCR19OTjdxeS1HUW5hVVE1Um5vcVA0Z0NPQWlteUw5VjB4VGozTVNJcGYwMkFReUFqSWlVZDZyVjg1NTJSaTV5S2h2SlpTTXVpREowUUlPNk1qYklOVGxFVXBCOFlyaDJIc1ZWQ0NnaURnUUhMZFJrb2VMUGpzQzNOTVdBZlo5eVkxSjBGZm4zVm9udnY4ZWlYSld5d2ZkY3JDMDJ1aDl5b1VVWHE1ZG5fY2loVmpITzdfdUgyWFJfbWRzWkxKazZfcFd5WG1CQWVZ?oc=5",
+      "date": "2026-07-19T14:05:25+00:00",
+      "description": "Rio Grande do Sul chega a 21 cidades atingidas pelos eventos climáticos severos  Correio do Povo",
+      "location": "RS",
+      "category": "Meio Ambiente"
     },
     {
       "source": "G1 RS",
@@ -8686,26 +8906,6 @@
     {
       "source": "Google News RS",
       "group": "Nacional",
-      "title": "Programação | Semana de Ação Climática de Porto Alegre - PUCRS",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR05aSkdNdUlkMmYtRmFmcDNKMkQ3QkdQNG15Nk9UdmVsckxmdnNsbG9ZY243Um5WV2x4SnNnRjR5SDl5NkJnZTFCYlBvQ3JTU1QyUXY5bG8xNFlKdERIRXpITmRfbXlPc2huQzN4a0JwMGR4NDhDWl9ZS2U5ZTBzb3U1WGJFZWtSVG9PX0JlMnlOUXJVT3JfRTRB?oc=5",
-      "date": "2026-07-16T20:04:47",
-      "description": "Programação | Semana de Ação Climática de Porto Alegre PUCRS",
-      "location": "Porto Alegre",
-      "category": "Educação"
-    },
-    {
-      "source": "Google News",
-      "group": "Nacional",
-      "title": "Programação | Semana de Ação Climática de Porto Alegre",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR05aSkdNdUlkMmYtRmFmcDNKMkQ3QkdQNG15Nk9UdmVsckxmdnNsbG9ZY243Um5WV2x4SnNnRjR5SDl5NkJnZTFCYlBvQ3JTU1QyUXY5bG8xNFlKdERIRXpITmRfbXlPc2huQzN4a0JwMGR4NDhDWl9ZS2U5ZTBzb3U1WGJFZWtSVG9PX0JlMnlOUXJVT3JfRTRB?oc=5",
-      "date": "2026-07-16T20:04:47+00:00",
-      "description": "Programação | Semana de Ação Climática de Porto Alegre  PUCRS",
-      "location": "Porto Alegre",
-      "category": "Educação"
-    },
-    {
-      "source": "Google News RS",
-      "group": "Nacional",
       "title": "Com atuação da DPE/RS, 70 moradores recebem matrículas de propriedades no Passo das Pedras, em Porto Alegre - defensoria.rs.def.br",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdXdMaENxWXdra2Vsd0ZMcEdnZHE2dVlfd2FNbFBncTcwN3EtZlB5b2V1cmdRVmJUOUtsQUJEUHJORzVKX1Z6dzhNdGttcWxtM3B5SVpXampuUVBiVnM1RWl6bDdUTGFuNmJ4ZmZLeUNxRGlfSDhqaG5KU2tqanBKRTk2ZDZDVzV2VDJJWG0tenp0U1NaaWpMY0VJZko4UjVBZ1d3eHhKdWNmenp3b1o2VDRkcF9XeGZHbHJwUUpRbkpXV1A2RVdTLTNUaWoxOGJHYmVRUA?oc=5",
       "date": "2026-07-16T17:24:56",
@@ -8852,16 +9052,6 @@
       "description": "Influência do El Niño deve causar tempestades e ventos fortes no RS\nOs próximos dias serão marcados por calor atípico no Rio Grande do Sul. Entre quinta-feira (16) e sábado (18), as temperaturas podem chegar a 32°C em diversas regiões do estado.\nNa quinta-feira (16), a previsão indica marcas entre 2",
       "location": "RS",
       "category": "Meio Ambiente"
-    },
-    {
-      "source": "G1 RS",
-      "group": "Nacional",
-      "title": "Três cidades do RS mudam nomes de ruas e escola que homenageavam presidentes da ditadura",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/15/tres-cidades-do-rs-mudam-nomes-de-ruas-e-escola-que-homenageavam-presidentes-da-ditadura.ghtml",
-      "date": "2026-07-15T16:02:03",
-      "description": "Em Passo Fundo, município não acatou à recomendação\nAlessandra Hoppen/Agência RBS\nTrês municípios do Rio Grande do Sul alteraram os nomes de duas ruas e de uma escola pública que homenageavam ex-presidentes da ditadura civil-militar (1964-1985). As mudanças ocorreram após recomendações do Ministério",
-      "location": "RS",
-      "category": "Política"
     },
     {
       "source": "CPERS Sindicato",
@@ -9122,6 +9312,16 @@
       "description": "Na noite dessa quinta-feira (9), o CPERS realizou a live ... O post Live do CPERS aprofunda debate sobre aspectos técnicos e políticos das PPPs apareceu primeiro em CPERS - Sindicato .",
       "location": "Brasil",
       "category": "Política"
+    },
+    {
+      "source": "Google News RS",
+      "group": "Nacional",
+      "title": "Participantes da Cidade da Advocacia terão descontos em hotéis parceiros de Porto Alegre - OAB/RS",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeWJvb0JSY0ZZVE55bzJFcTJkUDBQZUhOVHU3UDJsRWJ2d3RORUtqajgwXzNMOWpuVEZPcnFlS0w3UmtxVEd0YkVZbFNmOXdTTUNoU0hwQ0JvUGpabzI3SUdvbnpqY0hxVHh4T2lhSW42WlM0cnIya2dIejR5d0tjQUVIalNKZ0wzam9oQWZhNEE4UmxwblBZZTFzMWpzVFZFcEtiTzlhSDlDQjRzT3NEazVqZnlzWURDdmVUTkV5X1BTclZLNmFB?oc=5",
+      "date": "2026-07-09T17:31:00",
+      "description": "Participantes da Cidade da Advocacia terão descontos em hotéis parceiros de Porto Alegre OAB/RS",
+      "location": "Porto Alegre",
+      "category": "Tecnologia"
     },
     {
       "source": "Google News RS",
@@ -9824,6 +10024,66 @@
       "category": "Política"
     },
     {
+      "source": "GZH",
+      "group": "RS",
+      "title": "relatório cenipa acidente voepass",
+      "link": "https://gauchazh.clicrbs.com.br/geral/noticia/2026/07/aviao-da-voepass-que-caiu-em-2024-nao-poderia-ter-decolado-diz-cenipa-em-relatorio-final-cmry12f2e01iy014c7rv7124g.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "GZH",
+      "group": "RS",
+      "title": "\"Gaúcha Hoje\": informações, previsão do tempo, trânsito e mais; assista",
+      "link": "https://gauchazh.clicrbs.com.br/geral/noticia/2024/06/manha-da-gaucha-assista-a-gaucha-hoje-atualidade-timeline-e-chamada-geral-1a-edicao-clxowcdph01lo012ef4n62wj0.html",
+      "date": null,
+      "description": "",
+      "location": "RS",
+      "category": "Mobilidade"
+    },
+    {
+      "source": "GZH",
+      "group": "RS",
+      "title": "Petróleo cai para US$ 97 após passar de US$ 100; siga a cotação",
+      "link": "https://gauchazh.clicrbs.com.br/viral/noticia/2026/07/petroleo-hoje-siga-ao-vivo-o-valor-da-cotacao-cmrypm1ny01n40163uvj7bvxe.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Sem classificação"
+    },
+    {
+      "source": "GZH",
+      "group": "RS",
+      "title": "São Petersburgo Ucrânia ataca com drones depósito de gigante comercial russo perto de São Petersburgo AFP",
+      "link": "https://gauchazh.clicrbs.com.br/mundo/noticia/2026/07/ucrania-ataca-com-drones-deposito-de-gigante-comercial-russo-perto-de-sao-petersburgo-cmryty2mb01nc0163i1at13o7.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "GZH",
+      "group": "RS",
+      "title": "Madri Incêndios colocam Espanha em 'situação dramática' e obrigam a deslocamentos na França AFP",
+      "link": "https://gauchazh.clicrbs.com.br/mundo/noticia/2026/07/incendios-colocam-espanha-em-situacao-dramatica-e-obrigam-a-deslocamentos-na-franca-cmryt346u01mq014cru3l697f.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Sem classificação"
+    },
+    {
+      "source": "GZH",
+      "group": "RS",
+      "title": "Internacional Irã alerta para resposta não pacífica por eventual apreensão de bens pelos EUA Estadão Conteúdo",
+      "link": "https://gauchazh.clicrbs.com.br/mundo/noticia/2026/07/ira-alerta-para-resposta-nao-pacifica-por-eventual-apreensao-de-bens-pelos-eua-cmrysp63e01mp014cvx94kukd.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Esporte"
+    },
+    {
       "source": "Correio do Povo",
       "group": "RS",
       "title": "Redescobrir a Cidade",
@@ -9876,12 +10136,12 @@
     {
       "source": "Correio do Povo",
       "group": "RS",
-      "title": "Cidades Dmae avalia fechar as comportas do sistema de proteção contra cheias nesta sexta-feira",
-      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/cidades/dmae-avalia-fechar-as-comportas-do-sistema-de-protecao-contra-cheias-nesta-sexta-feira-1.1733683",
+      "title": "Cidades Ao vivo: rios Jacuí, Sinos e Guaíba passam a preocupar após as chuvas",
+      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/cidades/ao-vivo-acompanhe-os-estragos-das-chuvas-no-rs-1.1733735",
       "date": null,
       "description": "",
-      "location": "Brasil",
-      "category": "Tecnologia"
+      "location": "RM",
+      "category": "Meio Ambiente"
     },
     {
       "source": "Correio do Povo",
@@ -9916,12 +10176,12 @@
     {
       "source": "Correio do Povo",
       "group": "RS",
-      "title": "Cidades Idoso morre após cair de barco no rio das Antas, em Santa Tereza",
-      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/cidades/idoso-morre-apos-cair-de-barco-no-rio-das-antas-em-santa-tereza-1.1733627",
+      "title": "Cidades Dmae avalia fechar as comportas do sistema de proteção contra cheias nesta sexta-feira",
+      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/cidades/dmae-avalia-fechar-as-comportas-do-sistema-de-protecao-contra-cheias-nesta-sexta-feira-1.1733683",
       "date": null,
       "description": "",
-      "location": "Porto Alegre",
-      "category": "Meio Ambiente"
+      "location": "Brasil",
+      "category": "Tecnologia"
     },
     {
       "source": "Correio do Povo",
@@ -9936,38 +10196,28 @@
     {
       "source": "Correio do Povo",
       "group": "RS",
-      "title": "Eleições Saiba quem concorrerá pelo PSB à Assembleia e à Câmara dos Deputados no RS",
-      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/saiba-quem-concorrera-pelo-psb-a-assembleia-e-a-camara-dos-deputados-no-rs-1.1733608",
+      "title": "Economia EUA reativa guerra comercial com nova rodada de tarifas",
+      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/economia/eua-reativa-guerra-comercial-com-nova-rodada-de-tarifas-1.1733737",
       "date": null,
       "description": "",
       "location": "Brasil",
-      "category": "Política"
-    },
-    {
-      "source": "Correio do Povo",
-      "group": "RS",
-      "title": "Política Michelle Bolsonaro publica vídeo e ensaia reconciliação com Flávio: \"Te desculpo\"",
-      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/michelle-bolsonaro-publica-video-e-ensaia-reconciliacao-com-flavio-te-desculpo-1.1733686",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Tecnologia"
-    },
-    {
-      "source": "Correio do Povo",
-      "group": "RS",
-      "title": "Política Lula anuncia que Brasil acionará Lei de Reciprocidade contra os EUA",
-      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/lula-anuncia-que-brasil-acionara-lei-de-reciprocidade-contra-os-eua-1.1733710",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Política"
+      "category": "Economia"
     },
     {
       "source": "Correio do Povo",
       "group": "RS",
       "title": "Eleições Pré-candidato à Presidência, Romeu Zema cumpre agenda no RS",
       "link": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/pre-candidato-a-presidencia-romeu-zema-cumpre-agenda-no-rs-1.1733616",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
+      "source": "Correio do Povo",
+      "group": "RS",
+      "title": "Eleições Saiba quem concorrerá pelo PSB à Assembleia e à Câmara dos Deputados no RS",
+      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/saiba-quem-concorrera-pelo-psb-a-assembleia-e-a-camara-dos-deputados-no-rs-1.1733608",
       "date": null,
       "description": "",
       "location": "Brasil",
@@ -10016,12 +10266,12 @@
     {
       "source": "Correio do Povo",
       "group": "RS",
-      "title": "Política Mendonça autoriza inquérito sobre repasses de Vorcaro para filme sobre Bolsonaro Decisão de André Mendonça atendeu a pedido da Polícia Federal chancelado pelo procurador-geral Paulo Gonet",
-      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/mendonca-autoriza-inquerito-sobre-repasses-de-vorcaro-para-filme-sobre-bolsonaro-1.1733508",
+      "title": "Saúde “Tratamos a pessoa, e não a doença”: Espaço de Convivência dá esperança a pacientes em tratamento de câncer no GHC Criado há cerca de dois anos, local em Porto Alegre é mantido por uma rede de 90 voluntários, recebendo mil pessoas mensalmente",
+      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/sa%C3%BAde/tratamos-a-pessoa-e-nao-a-doenca-espaco-de-convivencia-da-esperanca-a-pacientes-em-tratamento-de-cancer-no-ghc-1.1731889",
       "date": null,
       "description": "",
-      "location": "Brasil",
-      "category": "Política"
+      "location": "Porto Alegre",
+      "category": "Saúde"
     },
     {
       "source": "Correio do Povo",
@@ -10046,32 +10296,12 @@
     {
       "source": "Correio do Povo",
       "group": "RS",
-      "title": "Rural Seguem as tratativas com a UE sobre antimicrobianos na produção animal",
-      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/rural/seguem-as-tratativas-com-a-ue-sobre-antimicrobianos-na-producao-animal-1.1733635",
+      "title": "Política Lula anuncia que Brasil acionará Lei de Reciprocidade contra os EUA",
+      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/lula-anuncia-que-brasil-acionara-lei-de-reciprocidade-contra-os-eua-1.1733710",
       "date": null,
       "description": "",
       "location": "Brasil",
-      "category": "Tecnologia"
-    },
-    {
-      "source": "Correio do Povo",
-      "group": "RS",
-      "title": "Política Cassação de chapa do Executivo de Cachoeirinha será julgada no dia 6 de agosto",
-      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/cassacao-de-chapa-do-executivo-de-cachoeirinha-sera-julgada-no-dia-6-de-agosto-1.1733632",
-      "date": null,
-      "description": "",
-      "location": "RM",
       "category": "Política"
-    },
-    {
-      "source": "Correio do Povo",
-      "group": "RS",
-      "title": "Política Flávio Bolsonaro reafirma desculpas a Michelle e faz apelo por união",
-      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/flavio-bolsonaro-reafirma-desculpas-a-michelle-e-faz-apelo-por-uniao-1.1733618",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Sem classificação"
     },
     {
       "source": "Correio do Povo",
@@ -10082,6 +10312,16 @@
       "description": "",
       "location": "Brasil",
       "category": "Política"
+    },
+    {
+      "source": "Correio do Povo",
+      "group": "RS",
+      "title": "Rural Seguem as tratativas com a UE sobre antimicrobianos na produção animal",
+      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/rural/seguem-as-tratativas-com-a-ue-sobre-antimicrobianos-na-producao-animal-1.1733635",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Tecnologia"
     },
     {
       "source": "Correio do Povo",
@@ -10142,26 +10382,6 @@
       "description": "",
       "location": "Brasil",
       "category": "Política"
-    },
-    {
-      "source": "Correio do Povo",
-      "group": "RS",
-      "title": "Política “Momento e forma de usar reciprocidade o tempo é que vai determinar”, diz ministro da Indústria Foco segue em reverter taxa de 25% imposta a diversos produtos brasileiros",
-      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/momento-e-forma-de-usar-reciprocidade-o-tempo-e-que-vai-determinar-diz-ministro-da-industria-1.1733727",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
-      "source": "Correio do Povo",
-      "group": "RS",
-      "title": "Polícia Mulher morre atropelada na ERS 122, em Portão Condutor afirma ter reduzido a velocidade mas não conseguiu evitar impacto",
-      "link": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADcia/mulher-morre-atropelada-na-ers-122-em-portao-1.1733728",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Tecnologia"
     },
     {
       "source": "Jornal do Comércio",
@@ -10246,6 +10466,16 @@
     {
       "source": "Jornal do Comércio",
       "group": "RS",
+      "title": "Veja a edição impressa do JC para passar o dia bem informado",
+      "link": "https://www.jornaldocomercio.com/geral/2026/07/1221803-veja-a-edicao-impressa-do-jc-para-passar-o-dia-bem-informado.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Jornal do Comércio",
+      "group": "RS",
       "title": "Águas avançam na Região das Ilhas e Guaíba deve chegar a 2,70 m neste sábado",
       "link": "https://www.jornaldocomercio.com/geral/2026/07/1257369-ilha-da-pintada-apresenta-sinais-de-alagamento.html",
       "date": null,
@@ -10266,32 +10496,22 @@
     {
       "source": "Jornal do Comércio",
       "group": "RS",
-      "title": "Guaíba pode chegar a 2,70 m em Porto Alegre no fim de semana, diz IPH",
-      "link": "https://www.jornaldocomercio.com/geral/2026/07/1257312-guaiba-pode-chegar-a-270m-em-porto-alegre-no-fim-de-semana-diz-iph.html",
+      "title": "O fim de semana promete - e o JC traz a agenda cultural de 24 a 26 de julho para você não se perder",
+      "link": "https://www.jornaldocomercio.com/cultura/2026/07/1257160-o-fim-de-semana-promete-e-o-jc-traz-a-agenda-cultural-de-24-a-26-de-julho-para-voce-nao-se-perder.html",
       "date": null,
       "description": "",
-      "location": "Porto Alegre",
-      "category": "Meio Ambiente"
+      "location": "Brasil",
+      "category": "Cultura"
     },
     {
       "source": "Jornal do Comércio",
       "group": "RS",
-      "title": "Queda de avião e tubarões assassinos marcam 'Águas Mortais', terror que estreia nos cinemas",
-      "link": "https://www.jornaldocomercio.com/cultura/2026/07/1257106-queda-de-aviao-e-tubaroes-assassinos-marcam-aguas-mortais-terror-que-estreia-nos-cinemas.html",
+      "title": "Do Sul para o Brasil, Nderé Oblé leva música afro-indígena gaúcha pelo país",
+      "link": "https://www.jornaldocomercio.com/cultura/2026/07/1257163-do-sul-para-o-brasil-ndere-oble-leva-musica-afro-indigena-gaucha-pelo-pais.html",
       "date": null,
       "description": "",
-      "location": "Brasil",
-      "category": "Tecnologia"
-    },
-    {
-      "source": "Jornal do Comércio",
-      "group": "RS",
-      "title": "Lendária banda escocesa Nazareth leva seu hard rock ao Opinião",
-      "link": "https://www.jornaldocomercio.com/cultura/2026/07/1257121-lendaria-banda-escocesa-nazareth-leva-seu-hard-rock-ao-opiniao.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Tecnologia"
+      "location": "RS",
+      "category": "Cultura"
     },
     {
       "source": "Jornal do Comércio",
@@ -10586,6 +10806,46 @@
     {
       "source": "Prefeitura POA",
       "group": "RS",
+      "title": "Secopa promove seminário As Mulheres em Campo em 14 de agosto",
+      "link": "https://prefeitura.poa.br/secopa2027/noticias/secopa-promove-seminario-mulheres-em-campo-em-14-de-agosto",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "Prefeitura POA",
+      "group": "RS",
+      "title": "Detectores de avanço de sinal entram em operação em três cruzamentos a partir do dia 27",
+      "link": "https://prefeitura.poa.br/eptc/noticias/detectores-de-avanco-de-sinal-entram-em-operacao-em-tres-cruzamentos-partir-do-dia-27",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Prefeitura POA",
+      "group": "RS",
+      "title": "Cerca de 1,5 mil servidores ativos ainda não fizeram recadastramento e podem responder por falta funcional",
+      "link": "https://prefeitura.poa.br/previmpa/noticias/cerca-de-15-mil-servidores-ativos-ainda-nao-fizeram-recadastramento-e-podem",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Sem classificação"
+    },
+    {
+      "source": "Prefeitura POA",
+      "group": "RS",
+      "title": "Turismo Farroupilha de Galpão prorroga inscrições até 30 de julho",
+      "link": "https://prefeitura.poa.br/smdete/noticias/turismo-farroupilha-de-galpao-prorroga-inscricoes-ate-30-de-julho",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Economia"
+    },
+    {
+      "source": "Prefeitura POA",
+      "group": "RS",
       "title": "Prefeitura inicia obra de proteção contra cheias na malha ferroviária",
       "link": "https://prefeitura.poa.br/smoi/noticias/prefeitura-inicia-obra-de-protecao-contra-cheias-na-malha-ferroviaria",
       "date": null,
@@ -10634,34 +10894,204 @@
       "category": "Esporte"
     },
     {
-      "source": "Prefeitura POA",
-      "group": "RS",
-      "title": "Agenda do prefeito Sebastião Melo em 24 de julho",
-      "link": "https://prefeitura.poa.br/gp/noticias/agenda-do-prefeito-sebastiao-melo-em-24-de-julho-1",
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Rio Uruguai sobe mais de 11 metros e interrompe travessias entre Brasil e Argentina",
+      "link": "https://www.terra.com.br/noticias/rio-uruguai-sobe-mais-de-11-metros-e-interrompe-travessias-entre-brasil-e-argentina,759e5009f89c61c7f7ab0fa99f526ce2bpco9n99.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Kiev volta a ser alvo de bombardeios russos; ataques de drones ampliam preocupação de países vizinhos",
+      "link": "https://www.terra.com.br/noticias/mundo/kiev-volta-a-ser-alvo-de-bombardeios-russos-ataques-de-drones-ampliam-preocupacao-de-paises-vizinhos,68138ff522782fc1c85f5906674fcb4f5hbr90td.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Jão anuncia retorno à música com o álbum \"Memórias Póstumas\"",
+      "link": "https://www.terra.com.br/amp/story/noticias/jao-anuncia-retorno-a-musica-com-o-album-memorias-postumas,2e6a50ee62f8883fb4c2090a78bb9a1c1d4tlf9g.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Polícia encontra feto enterrado em casa e prende duas irmãs no Rio Grande do Sul",
+      "link": "https://www.terra.com.br/noticias/brasil/cidades/policia-encontra-feto-enterrado-em-casa-e-prende-duas-irmas-no-rio-grande-do-sul,8903649dfe0dd34f3b1e667d2aab5f28zq43kmuf.html",
+      "date": null,
+      "description": "",
+      "location": "RS",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Pai Pedro de Oxum: há mais de 42 anos ajudando pessoas a encontrar equilíbrio, prosperidade e novos caminhos através da espiritualidade",
+      "link": "https://www.terra.com.br/noticias/pai-pedro-de-oxum-ha-mais-de-42-anos-ajudando-pessoas-a-encontrar-equilibrio-prosperidade-e-novos-caminhos-atraves-da-espiritualidade,24620f0cc265f3aa542bb9f8fc5c3b6004uinh70.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "No AP, Lula lidera 1º turno, mas empata tecnicamente com Flávio no 2º, aponta RealTime/Big Data",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/no-ap-lula-lidera-1-turno-mas-empata-tecnicamente-com-flavio-no-2-aponta-realtimebig-data,438da7a9d97c893049dc18146e9032436y4ozzvp.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Esporte"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Porto Alegre entra em alerta para possível inundação na Região das Ilhas",
+      "link": "https://www.terra.com.br/noticias/porto-alegre-entra-em-alerta-para-possivel-inundacao-na-regiao-das-ilhas,ef2e145cac47cd835ca3d1325f8d5d3d4zkp1sqk.html",
+      "date": null,
+      "description": "",
+      "location": "Porto Alegre",
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Milei vem ao Brasil para tentar impulsionar candidatura de Flávio Bolsonaro",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/milei-vem-ao-brasil-para-tentar-impulsionar-candidatura-de-flavio-bolsonaro,0008a80277eeb62ca22696496cf89faakjw9i0v6.html",
       "date": null,
       "description": "",
       "location": "Brasil",
       "category": "Política"
     },
     {
-      "source": "Prefeitura POA",
-      "group": "RS",
-      "title": "Terceiro Mutirão da Maturidade oferece 350 vagas de emprego nesta sexta-feira",
-      "link": "https://prefeitura.poa.br/smidh/noticias/terceiro-mutirao-da-maturidade-oferece-350-vagas-de-emprego-nesta-sexta-feira",
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Avião com 11 pessoas pega fogo após pouso de emergência nos EUA; veja vídeo",
+      "link": "https://www.terra.com.br/noticias/mundo/aviao-com-11-pessoas-pega-fogo-apos-pouso-de-emergencia-nos-eua-veja-video,98f14fb53b6d431f6cbf0cd1dc6e864cotov2c2o.html",
       "date": null,
       "description": "",
       "location": "Brasil",
-      "category": "Economia"
+      "category": "Tecnologia"
     },
     {
-      "source": "Prefeitura POA",
-      "group": "RS",
-      "title": "Inscrições para vagas de estágio na prefeitura seguem até terça-feira",
-      "link": "https://prefeitura.poa.br/smap/noticias/inscricoes-para-vagas-de-estagio-na-prefeitura-seguem-ate-terca-feira",
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Palavras CruzadasInterprete as dicas e monte o tabuleiro letra por letra, no seu ritmo.",
+      "link": "https://www.terra.com.br/jogos/palavras-cruzadas?mt=1",
       "date": null,
       "description": "",
       "location": "Brasil",
       "category": "Política"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "→ Nutricionista revela as 10 melhores marcas de café 'de verdade' vendidas no supermercado",
+      "link": "https://www.terra.com.br/vida-e-estilo/degusta/nutricionista-revela-as-10-melhores-marcas-de-cafe-de-verdade-vendidas-no-supermercado,14da903dd12e2efaa32df2ddeef9a7dfgaweh5hv.html?mt=1",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Mobilidade"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "→ Repórter da Globo no ES, Caíque Verli é encontrado morto; jornalista tinha 33 anos",
+      "link": "https://www.terra.com.br/noticias/brasil/cidades/reporter-da-globo-no-es-caique-verli-e-encontrado-morto-jornalista-tinha-33-anos,5ddfeeeeab9425f5a787089d3afe114dx9v2yy0j.html?mt=1",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Sem classificação"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "→ 'Rei do Bolão' que ganhou na Mega-Sena leva maior prêmio da história da Lotofácil; veja",
+      "link": "https://www.terra.com.br/economia/rei-do-bolao-que-ganhou-na-mega-sena-leva-maior-premio-da-historia-da-lotofacil-veja,42c6136e3e3ee30495082be4f1dcefd4ra0pn8c2.html?mt=1",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Vini Jr. e Virginia visitam o Cristo Redentor com Terry Crews, de 'As Branquelas'",
+      "link": "https://www.terra.com.br/diversao/gente/vini-jr-e-virginia-visitam-o-cristo-redentor-com-terry-crews-de-as-branquelas,b243856e83263e530caa544a824acad2grau7j6j.html?mt=1",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Ataque rebelde de modelo de criadora do ChatGPT leva EUA a discutir 'botão' para desligar Inteligência Artificial",
+      "link": "https://www.terra.com.br/noticias/mundo/ataque-rebelde-de-modelo-de-criadora-do-chatgpt-leva-eua-a-discutir-botao-para-desligar-inteligencia-artificial,8721921519e8e9e8acb6d15d80b3ac99wccyeh0p.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Quer cultivar lavanda em casa? Veja dicas!",
+      "link": "https://www.terra.com.br/noticias/quer-cultivar-lavanda-em-casa-veja-dicas,6d54b5776ee9cfd3d387e74d32bcae91w71fu657.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Sem classificação"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "O que é urânio enriquecido e por que ele é polêmico no acordo nuclear entre os EUA e a Arábia Saudita?",
+      "link": "https://www.terra.com.br/noticias/mundo/o-que-e-uranio-enriquecido-e-por-que-ele-e-polemico-no-acordo-nuclear-entre-os-eua-e-a-arabia-saudita,b164cabd4621b5b2a5585c8b255fe6a6ew63jl5z.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Irã reivindica ataques a bases dos EUA no Golfo e Trump promete 'grande punição militar'",
+      "link": "https://www.terra.com.br/noticias/mundo/ira-reivindica-ataques-a-bases-dos-eua-no-golfo-e-trump-promete-grande-punicao-militar,8d44790f255a1cc19fd34ef1851339320ym32dgw.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Esporte"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Linhas 11-Coral, 12-Safira e 13-Jade operam normalmente após dia de caos e retomada pela CPTM",
+      "link": "https://www.terra.com.br/noticias/brasil/cidades/linhas-11-coral-12-safira-e-13-jade-operam-normalmente-apos-dia-de-caos-e-retomada-pela-cptm,e352d9717021d0faab22a3b273f7396ankhxj546.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Por que a Ucrânia tem atacado a 'Amazon russa'",
+      "link": "https://www.terra.com.br/noticias/mundo/por-que-a-ucrania-tem-atacado-a-amazon-russa,5e703a78b75ac833c6a3e547147b2f9ax69i1fkg.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Tecnologia"
     },
     {
       "source": "Terra",
@@ -10708,56 +11138,6 @@
       "group": "Nacional",
       "title": "Entre 'tapas e beijos' com Trump, relembre movimentações de Lula na política externa neste mandato",
       "link": "https://www.terra.com.br/noticias/mundo/entre-tapas-e-beijos-com-trump-relembre-movimentacoes-de-lula-na-politica-externa-neste-mandato,89172c6be76845905637cad0a0fc8146ho4ilpt6.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Sem classificação"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Palavras CruzadasInterprete as dicas e monte o tabuleiro letra por letra, no seu ritmo.",
-      "link": "https://www.terra.com.br/jogos/palavras-cruzadas?mt=1",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "→ 'Rei do Bolão' que ganhou na Mega-Sena leva maior prêmio da história da Lotofácil; veja",
-      "link": "https://www.terra.com.br/economia/rei-do-bolao-que-ganhou-na-mega-sena-leva-maior-premio-da-historia-da-lotofacil-veja,42c6136e3e3ee30495082be4f1dcefd4ra0pn8c2.html?mt=1",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Tecnologia"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "→ Nutricionista revela as 10 melhores marcas de café 'de verdade' vendidas no supermercado",
-      "link": "https://www.terra.com.br/vida-e-estilo/degusta/nutricionista-revela-as-10-melhores-marcas-de-cafe-de-verdade-vendidas-no-supermercado,14da903dd12e2efaa32df2ddeef9a7dfgaweh5hv.html?mt=1",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Mobilidade"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "→ O que aconteceu com a filha de Elize Matsunaga? Hoje adolescente, ela vive longe da mãe e foi alvo de emocionante dedicatória da ex-detenta: 'Não pretendo justificar o injustificável'",
-      "link": "https://www.terra.com.br/diversao/gente/o-que-aconteceu-com-a-filha-de-elize-matsunaga-hoje-adolescente-ela-vive-longe-da-mae-e-foi-alvo-de-emocionante-dedicatoria-da-ex-detenta-nao-pretendo-justificar-o-injustificavel,a33de1ef869aa1acab97844bbb9e2b94ytwxlkf6.html?mt=1",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Tecnologia"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Repórter da Globo no ES, Caíque Verli é encontrado morto; jornalista tinha 33 anos",
-      "link": "https://www.terra.com.br/noticias/brasil/cidades/reporter-da-globo-no-es-caique-verli-e-encontrado-morto-jornalista-tinha-33-anos,5ddfeeeeab9425f5a787089d3afe114dx9v2yy0j.html?mt=1",
       "date": null,
       "description": "",
       "location": "Brasil",
@@ -10826,16 +11206,6 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Moraes determina que PGR se manifeste sobre pedido da Receita de laudos das joias de Bolsonaro",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/moraes-determina-que-pgr-se-manifeste-sobre-pedido-da-receita-de-laudos-das-joias-de-bolsonaro,14e4da3f3c8a96faa5b503e42433e858e76sa5vm.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Tecnologia"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
       "title": "Com astros do funk e rap carioca, Chelsea lança nova camisa em campanha no RJ; veja as fotos",
       "link": "https://www.terra.com.br/esportes/futebol/internacional/equipes/chelsea/com-astros-do-funk-e-rap-carioca-chelsea-lanca-nova-camisa-em-campanha-no-rj-veja-as-fotos,f1b935b3c6bdfbeb00199bd0cb38f311mmuhfu7e.html",
       "date": null,
@@ -10866,18 +11236,8 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Mega-Sena 3035 acumula mais uma vez e prêmio principal atinge R$ 70 milhões para o próximo sábado",
-      "link": "https://www.terra.com.br/noticias/mega-sena-3035-acumula-mais-uma-vez-e-premio-principal-atinge-r-70-milhoes-para-o-proximo-sabado,98ba5d2492b3b943adb927e4aed26198vw9vruf5.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Sem classificação"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Influenciadora cearense viaja à Europa para jogar cinzas e realizar últimos desejos do marido: 'Viver para honrá-lo'",
-      "link": "https://www.terra.com.br/vida-e-estilo/saude/videos/influenciadora-cearense-viaja-a-europa-para-jogar-cinzas-e-realizar-ultimos-desejos-do-marido-viver-para-honra-lo,8fb682dc1b9e55531ad2d9f71c3d0a124pml3k9i.html",
+      "title": "Moraes determina que PGR se manifeste sobre pedido da Receita de laudos das joias de Bolsonaro",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/moraes-determina-que-pgr-se-manifeste-sobre-pedido-da-receita-de-laudos-das-joias-de-bolsonaro,14e4da3f3c8a96faa5b503e42433e858e76sa5vm.html",
       "date": null,
       "description": "",
       "location": "Brasil",
@@ -10896,12 +11256,52 @@
     {
       "source": "Terra",
       "group": "Nacional",
+      "title": "Mega-Sena 3035 acumula mais uma vez e prêmio principal atinge R$ 70 milhões para o próximo sábado",
+      "link": "https://www.terra.com.br/noticias/mega-sena-3035-acumula-mais-uma-vez-e-premio-principal-atinge-r-70-milhoes-para-o-proximo-sabado,98ba5d2492b3b943adb927e4aed26198vw9vruf5.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Sem classificação"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
       "title": "Caiado compara crise entre Flávio e Michelle Bolsonaro a 'Casos de Família'",
       "link": "https://www.terra.com.br/noticias/brasil/politica/caiado-compara-crise-entre-flavio-e-michelle-bolsonaro-a-casos-de-familia,65b07ab414afe4c47a5897b71f5b9b605jypmiqe.html",
       "date": null,
       "description": "",
       "location": "Brasil",
       "category": "Tecnologia"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Influenciadora cearense viaja à Europa para jogar cinzas e realizar últimos desejos do marido: 'Viver para honrá-lo'",
+      "link": "https://www.terra.com.br/vida-e-estilo/saude/videos/influenciadora-cearense-viaja-a-europa-para-jogar-cinzas-e-realizar-ultimos-desejos-do-marido-viver-para-honra-lo,8fb682dc1b9e55531ad2d9f71c3d0a124pml3k9i.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "'Nosso apoio é incondicional', diz Kassab após Tarcísio avaliar não ir à convenção do PSD",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/nosso-apoio-e-incondicional-diz-kassab-apos-tarcisio-avaliar-nao-ir-a-convencao-do-psd,1f3dc60326ffae0f81d6bec6fa62eeddtka5yf4k.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "A árvore que muda de cor o ano todo e cabe até em varandas pequenas",
+      "link": "https://www.terra.com.br/noticias/a-arvore-que-muda-de-cor-o-ano-todo-e-cabe-ate-em-varandas-pequenas,b068625b8d475cdf3045c5690eb6b5836r9v0agu.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Sem classificação"
     },
     {
       "source": "Terra",
@@ -10926,12 +11326,22 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "A árvore que muda de cor o ano todo e cabe até em varandas pequenas",
-      "link": "https://www.terra.com.br/noticias/a-arvore-que-muda-de-cor-o-ano-todo-e-cabe-ate-em-varandas-pequenas,b068625b8d475cdf3045c5690eb6b5836r9v0agu.html",
+      "title": "EUA pretendem fechar acordos provisórios com Canadá e México até fim do ano",
+      "link": "https://www.terra.com.br/noticias/mundo/eua-pretendem-fechar-acordos-provisorios-com-canada-e-mexico-ate-fim-do-ano,5aa48a229bd1020aae399dd95d06da93aypbpzws.html",
       "date": null,
       "description": "",
       "location": "Brasil",
-      "category": "Sem classificação"
+      "category": "Meio Ambiente"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Cenipa faz recomendações à ATR e reguladores em relatório sobre queda de avião da Voepass",
+      "link": "https://www.terra.com.br/noticias/cenipa-faz-recomendacoes-a-atr-e-reguladores-em-relatorio-sobre-queda-de-aviao-da-voepass,baed5281345e558cf3fbd4cbaad19493s40ub9mc.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Meio Ambiente"
     },
     {
       "source": "Terra",
@@ -10952,16 +11362,6 @@
       "description": "",
       "location": "Brasil",
       "category": "Política"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Cenipa faz recomendações à ATR e reguladores em relatório sobre queda de avião da Voepass",
-      "link": "https://www.terra.com.br/noticias/cenipa-faz-recomendacoes-a-atr-e-reguladores-em-relatorio-sobre-queda-de-aviao-da-voepass,baed5281345e558cf3fbd4cbaad19493s40ub9mc.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Meio Ambiente"
     },
     {
       "source": "Terra",
@@ -11026,16 +11426,6 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "PF investiga fraude de 11 anos em pensão por morte de servidor federal",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/pf-investiga-fraude-de-11-anos-em-pensao-por-morte-de-servidor-federal,62b11223eced6fc9d8fb85d03ddf3b5cv72ghykk.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Sem classificação"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
       "title": "Médica é presa após furtar produtos de supermercado em Copacabana",
       "link": "https://www.terra.com.br/noticias/brasil/cidades/medica-e-presa-apos-furtar-produtos-de-supermercado-em-copacabana,1581541f7aff670300399a7ec90f1b55l6qm6q2v.html",
       "date": null,
@@ -11056,22 +11446,12 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Big Ben: por que esse famoso símbolo de Londres não é o que parece",
-      "link": "https://www.terra.com.br/amp/story/noticias/big-ben-por-que-esse-famoso-simbolo-de-londres-nao-e-o-que-parece,427a459f3ff72fe35510a3148a7a4b74rml504t8.html",
+      "title": "PF investiga fraude de 11 anos em pensão por morte de servidor federal",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/pf-investiga-fraude-de-11-anos-em-pensao-por-morte-de-servidor-federal,62b11223eced6fc9d8fb85d03ddf3b5cv72ghykk.html",
       "date": null,
       "description": "",
       "location": "Brasil",
       "category": "Sem classificação"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Governo anuncia que vai adotar Lei da Reciprocidade após novo tarifaço dos EUA",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/governo-anuncia-que-vai-adotar-lei-da-reciprocidade-apos-novo-tarifaco-dos-eua,9d27a6a11a0f20d9c56a38c6d062fe593e4ah8iu.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Política"
     },
     {
       "source": "Terra",
@@ -11106,6 +11486,26 @@
     {
       "source": "Terra",
       "group": "Nacional",
+      "title": "Big Ben: por que esse famoso símbolo de Londres não é o que parece",
+      "link": "https://www.terra.com.br/amp/story/noticias/big-ben-por-que-esse-famoso-simbolo-de-londres-nao-e-o-que-parece,427a459f3ff72fe35510a3148a7a4b74rml504t8.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Sem classificação"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Governo anuncia que vai adotar Lei da Reciprocidade após novo tarifaço dos EUA",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/governo-anuncia-que-vai-adotar-lei-da-reciprocidade-apos-novo-tarifaco-dos-eua,9d27a6a11a0f20d9c56a38c6d062fe593e4ah8iu.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Política"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
       "title": "EUA impõem ao Brasil maior alíquota de novo tarifaço global; veja países afetados",
       "link": "https://www.terra.com.br/noticias/eua-impoem-ao-brasil-maior-aliquota-de-novo-tarifaco-global-veja-paises-afetados,7341771641952897b8b63197654f94fbz7qa9eeb.html",
       "date": null,
@@ -11136,26 +11536,6 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Haddad será lançado em São Paulo com acenos ao eleitor de centro e anúncio de suplentes",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/haddad-sera-lancado-em-sao-paulo-com-acenos-ao-eleitor-de-centro-e-anuncio-de-suplentes,b5863efc84ab09780982bfe6f2edda607h8c8iib.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Lírios: a delicadeza de uma flor repleta de simbolismo",
-      "link": "https://www.terra.com.br/noticias/lirios-a-delicadeza-de-uma-flor-repleta-de-simbolismo,662a7bc0f834a1b4212f6ec68553dafeeeltt1nh.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Meio Ambiente"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
       "title": "Juiz rejeita indenização de R$ 162 milhões após cliente negro ser obrigado a tirar a roupa em mercado",
       "link": "https://www.terra.com.br/noticias/brasil/juiz-rejeita-indenizacao-de-r-162-milhoes-apos-cliente-negro-ser-obrigado-a-tirar-a-roupa-em-mercado,2872527ba928ac85287397c349e9f129uwbxmrln.html",
       "date": null,
@@ -11176,22 +11556,12 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Anne Hathaway celebra fase de ouro no cinema e faz revelação",
-      "link": "https://www.terra.com.br/noticias/anne-hathaway-celebra-fase-de-ouro-no-cinema-e-faz-revelacao,7cb1dd20f4f7659b30f61605ec5b67dftuw1nr6v.html",
+      "title": "Lírios: a delicadeza de uma flor repleta de simbolismo",
+      "link": "https://www.terra.com.br/noticias/lirios-a-delicadeza-de-uma-flor-repleta-de-simbolismo,662a7bc0f834a1b4212f6ec68553dafeeeltt1nh.html",
       "date": null,
       "description": "",
       "location": "Brasil",
-      "category": "Cultura"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Palmeiras atinge marca histórica no Brasileirão",
-      "link": "https://www.terra.com.br/esportes/palmeiras/palmeiras-atinge-marca-historica-no-brasileirao,ab31b04d992249fb25f2ed0a1da399f7ws6k75ei.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Política"
+      "category": "Meio Ambiente"
     },
     {
       "source": "Terra",
@@ -11212,6 +11582,26 @@
       "description": "",
       "location": "Brasil",
       "category": "Tecnologia"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Anne Hathaway celebra fase de ouro no cinema e faz revelação",
+      "link": "https://www.terra.com.br/noticias/anne-hathaway-celebra-fase-de-ouro-no-cinema-e-faz-revelacao,7cb1dd20f4f7659b30f61605ec5b67dftuw1nr6v.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Cultura"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Palmeiras atinge marca histórica no Brasileirão",
+      "link": "https://www.terra.com.br/esportes/palmeiras/palmeiras-atinge-marca-historica-no-brasileirao,ab31b04d992249fb25f2ed0a1da399f7ws6k75ei.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Política"
     },
     {
       "source": "Terra",
@@ -11256,12 +11646,12 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Republicanos cobra reciprocidade do PL para fechar aliança com Flávio Bolsonaro",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/republicanos-cobra-reciprocidade-do-pl-para-fechar-alianca-com-flavio-bolsonaro,5110a06f6ebbdecf2a2afbc74a9060385w0q9k4x.html",
+      "title": "Pernambuco tem a segunda menor taxa de letalidade policial do Nordeste, aponta Anuário da Segurança",
+      "link": "https://www.terra.com.br/noticias/brasil/policia/pernambuco-tem-a-segunda-menor-taxa-de-letalidade-policial-do-nordeste-aponta-anuario-da-seguranca,167ee38ffae58a7cfe3d8d04553fa2f1zx7dr70x.html",
       "date": null,
       "description": "",
       "location": "Brasil",
-      "category": "Tecnologia"
+      "category": "Meio Ambiente"
     },
     {
       "source": "Terra",
@@ -11278,6 +11668,16 @@
       "group": "Nacional",
       "title": "EUA anunciam sobretaxa de 12,5% para Brasil e outros países por suposto trabalho escravo",
       "link": "https://www.terra.com.br/noticias/mundo/eua-anunciam-sobretaxa-de-125-para-brasil-e-outros-paises-por-suposto-trabalho-escravo,59134dbc05d037cd7eb74937ec2e42d4s7y4co8p.html",
+      "date": null,
+      "description": "",
+      "location": "Brasil",
+      "category": "Tecnologia"
+    },
+    {
+      "source": "Terra",
+      "group": "Nacional",
+      "title": "Republicanos cobra reciprocidade do PL para fechar aliança com Flávio Bolsonaro",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/republicanos-cobra-reciprocidade-do-pl-para-fechar-alianca-com-flavio-bolsonaro,5110a06f6ebbdecf2a2afbc74a9060385w0q9k4x.html",
       "date": null,
       "description": "",
       "location": "Brasil",
@@ -11336,16 +11736,6 @@
     {
       "source": "Terra",
       "group": "Nacional",
-      "title": "Dois superpetroleiros com petróleo saudita deixam Mar Vermelho em direção à China",
-      "link": "https://www.terra.com.br/noticias/mundo/dois-superpetroleiros-com-petroleo-saudita-deixam-mar-vermelho-em-direcao-a-china,df437d90acc03724442ca8c5d5e0777bamz19pao.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
       "title": "Ecogranito ganha destaque em anuário de Contagem",
       "link": "https://www.terra.com.br/noticias/ecogranito-ganha-destaque-em-anuario-de-contagem,20422759d5571f0ac733bae1f9d094920hqbrtst.html",
       "date": null,
@@ -11392,146 +11782,6 @@
       "description": "",
       "location": "Brasil",
       "category": "Sem classificação"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Em meio à crise na família e racha no bolsonarismo, Flávio grava vídeo e pede apoio a Michelle: 'Momento exige união'",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/em-meio-a-crise-na-familia-e-racha-no-bolsonarismo-flavio-grava-video-e-pede-apoio-a-michelle-momento-exige-uniao,3a1968df881ffbb48f57aee6be247533i0ql7wz8.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Tecnologia"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Onda de calor provoca recorde de internações em Tóquio",
-      "link": "https://www.terra.com.br/noticias/onda-de-calor-provoca-recorde-de-internacoes-em-toquio,49fd98bef88db68d2fde8fcd6d24abe6ahnfjomr.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Esporte"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Vídeo: Pegadinha no Recife termina com abordagem da PM e repercute nas redes",
-      "link": "https://www.terra.com.br/noticias/video-pegadinha-no-recife-termina-com-abordagem-da-pm-e-repercute-nas-redes,9d5a8fa030b13b2042c0c78e87a6f953kqdtljn0.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Sem classificação"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Flávio Bolsonaro volta a pedir desculpas a Michelle e pede 'união' para madrasta: 'O momento exige'",
-      "link": "https://www.terra.com.br/noticias/eleicoes/videos/flavio-bolsonaro-volta-a-pedir-desculpas-a-michelle-e-pede-uniao-para-madrasta-o-momento-exige,124601144bbfebe03f588ac6cd376423l2nbsbbr.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Sem classificação"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Após falha elétrica e fogo em vagão, linhas de trem voltam a operar normalmente em SP, diz Trivia",
-      "link": "https://www.terra.com.br/noticias/brasil/cidades/apos-falha-eletrica-e-fogo-em-vagao-linhas-de-trem-voltam-a-operar-normalmente-em-sp-diz-trivia,a1bd7f328bf84acb2d27c1a0d222d583n7tnx95c.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Mobilidade"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "PSDB e Cidadania confirmam apoio à reeleição de Tarcísio de Freitas (Republicanos) em SP",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/psdb-e-cidadania-confirmam-apoio-a-reeleicao-de-tarcisio-de-freitas-republicanos-em-sp,13545344efbaca3a3e78a26ecf103cc5jdz4nb6u.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Vídeos não mostram bombardeios dos EUA em hospital iraniano",
-      "link": "https://www.terra.com.br/noticias/checamos/videos-nao-mostram-bombardeios-dos-eua-em-hospital-iraniano,903e6164c6d70d3b054b60c6a910b63f65c2pzyi.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Saúde"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "'Confio nas urnas', diz Tarcísio ao ser questionado sobre fala de Flávio Bolsonaro a embaixadores",
-      "link": "https://www.terra.com.br/noticias/eleicoes/videos/confio-nas-urnas-diz-tarcisio-ao-ser-questionado-sobre-fala-de-flavio-bolsonaro-a-embaixadores,efd33ae65ef8e38d9c4b9640159909bdriocr33s.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Sem classificação"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Emilia-Romagna se torna 3ª região da Itália a aprovar lei sobre suicídio assistido",
-      "link": "https://www.terra.com.br/noticias/mundo/emilia-romagna-se-torna-3-regiao-da-italia-a-aprovar-lei-sobre-suicidio-assistido,19a8d1259f76cd1eebb30c2d2a966d57webvdny6.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Política"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Emprego entre imigrantes na UE atinge recorde histórico",
-      "link": "https://www.terra.com.br/noticias/emprego-entre-imigrantes-na-ue-atinge-recorde-historico,ff58b33562a15e7a23f6565aaf166a710081nib0.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Economia"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Após meses de impasse na base de Lula, Marina Silva chama acordo sobre Senado de 'consenso progressivo'",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/apos-meses-de-impasse-na-base-de-lula-marina-silva-chama-acordo-sobre-senado-de-consenso-progressivo,d6c29ff08f667a444ec1d66b663e07e3s4t7dyrq.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Sem classificação"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Taylor Farms fecha temporariamente unidade de processamento no México após aumento de ciclosporíase nos EUA",
-      "link": "https://www.terra.com.br/noticias/mundo/taylor-farms-fecha-temporariamente-unidade-de-processamento-no-mexico-apos-aumento-de-ciclosporiase-nos-eua,70b0943dc9ea9e9cadb4732872af1a02ac2higyk.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Tecnologia"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Flávio Bolsonaro reafirma desculpas a Michelle e faz apelo por união da direita em novo vídeo",
-      "link": "https://www.terra.com.br/noticias/brasil/politica/flavio-bolsonaro-reafirma-desculpas-a-michelle-e-faz-apelo-por-uniao-da-direita-em-novo-video,1d397b2030c09fdd1683b939a765583e6crvswfy.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Sem classificação"
-    },
-    {
-      "source": "Terra",
-      "group": "Nacional",
-      "title": "Mudança de tempo em SP: Defesa Civil alerta para chegada de frente fria com chuva e rajadas de vento",
-      "link": "https://www.terra.com.br/noticias/brasil/cidades/mudanca-de-tempo-em-sp-defesa-civil-alerta-para-chegada-de-frente-fria-com-chuva-e-rajadas-de-vento,ce2e6e5ef683caa16547b27b5c3421b5tfpd2jat.html",
-      "date": null,
-      "description": "",
-      "location": "Brasil",
-      "category": "Tecnologia"
     }
   ]
 }
